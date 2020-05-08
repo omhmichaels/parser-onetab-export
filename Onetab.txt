@@ -1,0 +1,228 @@
+https://www.edd.ca.gov/employers.htm | Employers
+
+https://libgen.is/search.php?&req=terraform&phrase=1&view=simple&column=def&sort=year&sortmode=ASC | Library Genesis
+https://libgen.is/book/index.php?md5=20A7A5D99FEB2EBE68524DC10FBFE7C1 | Library Genesis: Braunton, Alex - Hands-on DevOps with Vagrant : implement end-to-end DevOps and infrastructure management using Vagrant
+
+https://github.com/ember-learn/ember-website | GitHub - ember-learn/ember-website: The emberjs.com website.
+https://emberjs.com/ | Ember.js - A framework for ambitious web developers
+https://ember-cli.com/ | EmberCLI ‐ A command line utility for creating ambitious web apps
+https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment/ | CEH Assessment - EC-Council
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDWrhfhDhZDVlRNQHPjCnCtTk | City National Bank: DevOps Engineer - omhm.michaels@gmail.com - Gmail
+https://github.com/search?o=desc&q=django+boiler&s=stars&type=Repositories | Search · django boiler · GitHub
+https://github.com/vintasoftware/django-react-boilerplate | GitHub - vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+https://pinaxproject.com/pinax/pinax_starter_projects/ | Pinax Starter Projects - Pinax Documentation
+https://pinaxproject.com/pinax/quick_start/ | Quick Start - Pinax Documentation
+https://github.com/pinax/django-user-accounts | GitHub - pinax/django-user-accounts: User accounts for Django
+https://github.com/pinax/pinax-announcements | GitHub - pinax/pinax-announcements: a site-wide announcement reusable app for Django
+https://katherinemichel.gitbooks.io/pinax-tutorial/pinax_starter_project_and_app_files_overview.html | Pinax Starter Project and App Files Overview · Pinax Tutorial
+
+https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself | Hosting Font Awesome Yourself | Font Awesome
+https://fontawesome.com/icons/flux-capacitor?style=regular | Flux Capacitor Icon - Regular | Font Awesome
+file:///C:/Users/omhm/Projects/OMHM/Web-Dev/Recruits-v0.1/Recruits-v0.1.html | Recruits
+
+https://github.com/eslint/website | GitHub - eslint/website: The ESLint website
+https://eslint.org/ | ESLint - Pluggable JavaScript linter
+https://github.com/flutter/website | GitHub - flutter/website: Flutter web site
+https://flutter.dev/ | Flutter - Beautiful native apps in record time
+https://github.com/emberjs/website | GitHub - emberjs/website: Source for emberjs.com
+https://github.com/ember-learn/ember-website | GitHub - ember-learn/ember-website: The emberjs.com website.
+https://github.com/ember-learn/ember-blog | GitHub - ember-learn/ember-blog: Ember's official blog
+https://github.com/ember-learn/ember-api-docs | GitHub - ember-learn/ember-api-docs: Ember API Docs viewer
+https://github.com/ember-learn/guides-source | GitHub - ember-learn/guides-source: This repository contains the Ember.js Guides
+https://github.com/ember-learn/ember-website | GitHub - ember-learn/ember-website: The emberjs.com website.
+https://github.com/ember-learn/super-rentals | GitHub - ember-learn/super-rentals: Codebase for the Super Rentals official tutorial
+https://github.com/ember-learn/statusboard | GitHub - ember-learn/statusboard: This repo is archived. See https://github.com/emberjs/rfc-tracking/issues instead.
+https://github.com/ember-learn/ember-styleguide | GitHub - ember-learn/ember-styleguide: This is a UI addon that intends to help standardize the Ember family of websites and make it easier to make the Ember website an Ember app.
+https://github.com/ember-learn/deprecation-app | GitHub - ember-learn/deprecation-app: Deprecation guides for ember.js, ember-data, and ember-cli
+https://emberjs.com/ | Ember.js - A framework for ambitious web developers
+https://github.com/letsencrypt/website | GitHub - letsencrypt/website: Let's Encrypt Website and Documentation
+
+https://github.com/eudicots/Cactus | GitHub - eudicots/Cactus: Static site generator for designers. Uses Python and Django templates.
+https://github.com/crate | Crate.io · GitHub
+https://github.com/crate/crate-sample-apps | GitHub - crate/crate-sample-apps: A JavaScript guestbook app with a number of different backend implementations, each using a different client library to communicate with CrateDB.
+https://github.com/crate/official-images | GitHub - crate/official-images: docker-brew is a command-line tool used to build the docker standard library.
+https://github.com/crate/.github | GitHub - crate/.github: Shared community health files
+https://github.com/crate/docker-docs | GitHub - crate/docker-docs: Documentation for Docker Official Images in docker-library
+https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html | Getting Up and Running Locally With Docker — Cookiecutter Django 2020.8.7 documentation
+
+file:///C:/Users/omhm/OneDrive%20-%20Omhm/OMHM/Recruits.omhm.html | OMHM Recruits
+https://github.com/search?o=desc&p=10&q=django&s=stars&type=Repositories | Search · django · GitHub
+https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html | Getting Up and Running Locally With Docker — Cookiecutter Django 2020.8.7 documentation
+https://crate.io/ | CrateDB: Simply Scalable SQL Database for IoT & Industrial Time Series
+https://github.com/Seedstars/django-react-redux-base | GitHub - Seedstars/django-react-redux-base: Seedstars Labs Base Django React Redux Project
+https://github.com/pinax/pinax | GitHub - pinax/pinax: a Django-based platform for rapidly developing websites
+https://github.com/eudicots/Cactus | GitHub - eudicots/Cactus: Static site generator for designers. Uses Python and Django templates.
+https://github.com/vitorfs/bootcamp | GitHub - vitorfs/bootcamp: An enterprise social network
+https://github.com/rafalp/Misago | GitHub - rafalp/Misago: Misago is fully featured modern forum application that is fast, scalable and responsive.
+https://github.com/viewflow/viewflow | GitHub - viewflow/viewflow: Reusable workflow library for Django
+https://github.com/wsvincent/awesome-django | GitHub - wsvincent/awesome-django: A curated list of awesome things related to Django
+https://github.com/justquick/django-activity-stream | GitHub - justquick/django-activity-stream: Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
+https://github.com/jazzband/django-redis | GitHub - jazzband/django-redis: Full featured redis cache backend for Django.
+https://github.com/unicodeveloper/awesome-opensource-apps | GitHub - unicodeveloper/awesome-opensource-apps: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+https://github.com/overshard/timestrap | GitHub - overshard/timestrap: Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+https://github.com/jazzband/django-push-notifications | GitHub - jazzband/django-push-notifications: Send push notifications to mobile devices through GCM or APNS in Django.
+https://github.com/pinry/pinry | GitHub - pinry/pinry: The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+https://github.com/DrkSephy/django-hackathon-starter | GitHub - DrkSephy/django-hackathon-starter: A boilerplate for Django web applications
+https://github.com/allegro/ralph | GitHub - allegro/ralph: Ralph is the CMDB / Asset Management system for data center and back office hardware.
+
+https://katherinemichel.gitbooks.io/pinax-tutorial/pinax_apps.html | Pinax Apps · Pinax Tutorial
+file:///C:/Users/omhm/OneDrive%20-%20Omhm/OMHM/Recruits.omhm.html | OMHM Recruits
+https://www.w3schools.com/w3css/w3css_references.asp | W3.CSS Reference
+https://www.w3schools.com/w3css/w3css_templates.asp | W3.CSS Templates
+https://github.com/search?o=desc&q=django&s=stars&type=Repositories | Search · django · GitHub
+https://github.com/gothinkster/realworld | GitHub - gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://thinkster.io/tutorials/fullstack | Mastering Fullstack Development: Learn How to Build Modern Web Apps - Thinkster
+https://thinkster.io/tutorials/node-json-api | Building a Production Ready Node.js JSON API - Thinkster
+https://github.com/gothinkster/node-express-realworld-example-app | GitHub - gothinkster/node-express-realworld-example-app
+https://thinkster.io/tutorials/build-a-real-world-react-redux-application | Building Real World, Production Quality Apps with React & Redux - Thinkster
+https://github.com/GoThinkster/react-redux-realworld-example-app | GitHub - gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
+https://github.com/ansible/awx | GitHub - ansible/awx: AWX Project
+
+https://dcc.godaddy.com/manage/omhm.org/dns | Domain Manager
+https://www.google.com/search?q=apache+log+x-forwarded-for&rlz=1C1GCEA_enUS888US888&oq=Apache+log+x-fo&aqs=chrome.0.0j69i57j0l6.13043j1j7&sourceid=chrome&ie=UTF-8 | apache log x-forwarded-for - Google Search
+https://www.loadbalancer.org/blog/apache-and-x-forwarded-for-headers/ | Apache and X-Forwarded-For Header (XFF)
+https://www.techstacks.com/howto/log-client-ip-and-xforwardedfor-ip-in-apache.html | HOWTO: Log Client IP AND X-Forwarded-For IP in Apache - Techstacks HOWTO's
+https://aws.amazon.com/premiumsupport/knowledge-center/elb-capture-client-ip-addresses/ | Capture Client IP Addresses in Your ELB Access Logs
+https://httpd.apache.org/docs/2.4/mod/mod_remoteip.html | mod_remoteip - Apache HTTP Server Version 2.4
+https://gist.github.com/alvarow/b59eb178127c2aa416987a64db1a530e | Sets Apache Log of the X-Forwarded-For client IP address or the real client ip address if the X-Forwarded-For header does not exist. · GitHub
+
+https://aws.amazon.com/events/migration/whitepapers/ | AWS Cloud Migration
+https://aws.amazon.com/blogs/database/best-practices-for-migrating-rds-for-mysql-databases-to-amazon-aurora/ | Best practices for migrating RDS for MySQL databases to Amazon Aurora | AWS Database Blog
+https://docs.aws.amazon.com/prescriptive-guidance/latest/database-migration-strategy/database-migration-strategy.pdf | AWS Prescriptive Guidance - Database Migration Strategy
+https://www.danylkoweb.com/Blog/the-ultimate-server-migration-checklist-NF | The Ultimate Server Migration Checklist | DanylkoWeb
+https://docs.aws.amazon.com/dms/latest/sbs/DMS-SBS-Welcome.html | AWS Database Migration Service Step-by-Step Walkthroughs - AWS Database Migration Service
+https://www.digitalocean.com/community/tutorials/how-to-use-bash-s-job-control-to-manage-foreground-and-background-processes | How To Use Bash's Job Control to Manage Foreground and Background Processes | DigitalOcean
+https://aws.amazon.com/premiumsupport/knowledge-center/recover-access-lost-key-pair/ | 404 Not Found
+https://aws.amazon.com/premiumsupport/knowledge-center/user-data-replace-key-pair-ec2/ | Connect to an Amazon EC2 Instance When the SSH Key Pair Is Lost
+
+https://www.youtube.com/watch?v=6nKH0ceFkiQ | (101) Migrating Data to AWS: Understanding Your Options - AWS Online Tech Talks - YouTube
+https://www.youtube.com/watch?v=11IHvxjy4hw&list=PLA56Z0btOFHgUCGUxk6YYtyiRMCjubDY1 | AWS re:Invent 2018: Migrating Databases to the Cloud with AWS Database Migration Service (DAT207) - YouTube
+https://www.scrum.org/ | Home | Scrum.org
+
+https://aws.amazon.com/dms/faqs/ | AWS Database Migration Service FAQs - Amazon Web Services
+https://aws.amazon.com/products/databases/migrations/ | Database Migrations on AWS
+https://aws.amazon.com/blogs/enterprise-strategy/21-best-practices-for-your-cloud-migration/ | 21 Best Practices for Your Cloud Migration | AWS Cloud Enterprise Strategy Blog
+https://aws.amazon.com/application-discovery/ | AWS Application Discovery Service - Amazon Web Services
+https://aws.amazon.com/migration-hub/ | AWS Migration Hub - Amazon Web Services
+https://d0.awsstatic.com/whitepapers/RDS/AWS_Database_Migration_Service_Best_Practices.pdf | AWS Database Migration Service Best Practices
+https://aws.amazon.com/blogs/database/migration-validation-part-1-introducing-migration-assessment-in-aws-database-migration-service/ | Migration Validation (Part 1) – Introducing Migration Assessment in AWS Database Migration Service | AWS Database Blog
+https://www.google.com/search?q=aws+premigration+checklist&rlz=1C1GCEA_enUS888US888&oq=aws+premigration+checklist&aqs=chrome..69i57.10433j1j7&sourceid=chrome&ie=UTF-8 | aws premigration checklist - Google Search
+https://aws.amazon.com/cloud-migration/ | Cloud Migration - Amazon Web Services
+https://www.enolalabs.com/blog/archives/aws-migration-checklist | AWS Migration Checklist
+https://protelligent.net/protelligent/cloud-category/10-steps-to-launch-your-smb-in-the-aws-cloud/ | AWS Cloud Migration - The Ultimate Checklist and Pre-plan Worksheet | Protelligent
+
+https://aws.amazon.com/events/migration/whitepapers/ | AWS Cloud Migration
+
+https://www.google.com/search?q=aws+devops+interview+questions&rlz=1C1GCEA_enUS888US888&oq=AWS+Devops+Interview+questions&aqs=chrome.0.0l8.10342j1j7&sourceid=chrome&ie=UTF-8 | aws devops interview questions - Google Search
+https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/ | Top DevOps Interview Questions & Answers For 2020 | Edureka
+https://codingcompiler.com/aws-devops-interview-questions-answers/ | 50 AWS Devops Interview Questions And Answers For Experienced 2020
+https://www.wisdomjobs.com/e-university/aws-devops-interview-questions.html | TOP 250+ Aws Devops Interview Questions and Answers 19 February 2020 - Aws Devops Interview Questions | Wisdom Jobs India
+https://www.google.com/search?rlz=1C1GCEA_enUS888US888&biw=1685&bih=842&sxsrf=ACYBGNRTEGubp3idOEtZ5R51R-okXUH32Q%3A1582081946127&ei=mqdMXuibB5T8-gTepIKQBQ&q=aws+db+migration+best+practices&oq=aws+migration+best&gs_l=psy-ab.1.2.0l2j0i22i30l8.21338.36104..38841...7.2..0.121.2656.12j14....2..0....1..gws-wiz.......0i71j35i304i39j0i7i30j0i13j0i13i5i30j35i39j0i67j0i273j0i393i395j0i67i395j0i20i263i395j0i273i395j0i395j0i20i263j0i22i10i30j33i160.hhGQSx1chfU | aws db migration best practices - Google Search
+https://docs.aws.amazon.com/dms/latest/sbs/DMS-SBS-Welcome.html | AWS Database Migration Service Step-by-Step Walkthroughs - AWS Database Migration Service
+https://azure.microsoft.com/en-us/resources/database-migration-checklist/ | Database Migration Checklist | Microsoft Azure
+https://www.sqlservercentral.com/editorials/the-migration-checklist | The Migration Checklist – SQLServerCentral
+https://academyict.net/2017/12/16/sql-server-database-migration-best-practices/ | Checklist for SQL Server Database Migration & Its Best Practices – ICT Academy
+https://www.danylkoweb.com/Blog/the-ultimate-server-migration-checklist-NF | The Ultimate Server Migration Checklist | DanylkoWeb
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html | Best Practices for AWS Database Migration Service - AWS Database Migration Service
+https://aws.amazon.com/blogs/database/best-practices-for-migrating-rds-for-mysql-databases-to-amazon-aurora/ | Best practices for migrating RDS for MySQL databases to Amazon Aurora | AWS Database Blog
+https://aws.amazon.com/blogs/database/best-practices-for-migrating-an-oracle-database-to-amazon-rds-postgresql-or-amazon-aurora-postgresql-migration-process-and-infrastructure-considerations/ | Best practices for migrating an Oracle database to Amazon RDS PostgreSQL or Amazon Aurora PostgreSQL: Migration process and infrastructure considerations | AWS Database Blog
+https://aws.amazon.com/government-education/database-migration-week/ | Database Migration Week | Amazon Web Services (AWS)
+https://aws.amazon.com/blogs/database/introducing-aws-dms-replication-engine-version-3-1-2/ | AWS Database Migration Service improves migration speeds by adding support for parallel full load and new LOB migration mechanisms | AWS Database Blog
+https://docs.aws.amazon.com/prescriptive-guidance/latest/database-migration-strategy/database-migration-strategy.pdf | AWS Prescriptive Guidance - Database Migration Strategy
+https://aws.amazon.com/blogs/database/the-database-migration-playbook-has-landed/ | The Database Migration Playbook has landed! | AWS Database Blog
+
+https://www.google.com/search?rlz=1C1GCEA_enUS888US888&biw=841&bih=832&sxsrf=ACYBGNQ06TCPWRLvTyWdwczrhrqsILbAyA%3A1582081587585&ei=M6ZMXpyiI5fb-gSpxpiIAQ&q=cloud+migration+best+practices&oq=cloud+migration+best&gs_l=psy-ab.1.0.0j0i22i30l9.14170.21363..23171...0.1..0.109.1170.6j6......0....1..gws-wiz.......0i71j0i7i30j0i13j0i7i10i30j0i8i7i30j0i8i30j0i20i263.wEPGuVhhWpM | cloud migration best practices - Google Search
+https://www.dbbest.com/blog/moving-your-sql-server-to-aws/ | Best practices for moving SQL Server to AWS | DB Best
+https://resources.awscloud.com/migration-multi-workload | Accelerate your cloud migration with AWS
+https://resources.awscloud.com/migration-multi-workload/deliver-cost-savings-with-aws-and-intel-whitepaper | Deliver Cost Savings with AWS and Intel Whitepaper
+https://resources.awscloud.com/migration-multi-workload/vmware-cloud-on-aws-4 | VMware Cloud on AWS
+https://resources.awscloud.com/migration-windows/benefits-of-running-windows-on-aws | Benefits of Running Windows on AWS
+https://resources.awscloud.com/migration-sap/optimize-your-sap-environment-by-migrating-to-aws-ebook | Optimize Your SAP Environment by Migrating to AWS eBook
+https://www.google.com/search?q=aws+database+migration+sql&rlz=1C1GCEA_enUS888US888&sxsrf=ACYBGNRe8LnV6HW44y-tvUWFf4vwyJRNhQ:1582081403815&tbm=isch&source=iu&ictx=1&fir=9hhcpnaKWfuEzM%253A%252CaW4mTRvHlZ_AeM%252C_&vet=1&usg=AI4_-kTwg0iI4xnBZKiK9YFVotCd-jeIkQ&sa=X&ved=2ahUKEwiE3tHA0NznAhXFup4KHRAQCU0Q_h0wAXoECAUQBg#imgrc=9hhcpnaKWfuEzM: | aws database migration sql - Google Search
+
+https://www.google.com/search?q=RAMPAGE+4+DISPLAY+TROUBLESHOOTING&rlz=1C1GCEA_enUS888US888&oq=RAMPAGE+4+DISPLAY+TROUBLESHOOTING&aqs=chrome..69i57.16423j1j4&sourceid=chrome&ie=UTF-8 | RAMPAGE 4 DISPLAY TROUBLESHOOTING - Google Search
+https://www.youtube.com/watch?v=VZDv9ubQfY4 | The Top 10 Computer Build Errors - How to troubleshoot a computer in 10 minutes! With EasyPCBuilder - YouTube
+https://www.youtube.com/watch?v=wqmEJXA0AHM | ASUS Rampage IV Extreme (Installation & BIOS features) - YouTube
+https://forums.tomshardware.com/threads/rampage-4-extreme-no-display.397386/ | Rampage 4 extreme no display | Tom's Hardware Forum
+https://rog.asus.com/forum/showthread.php?60422-Asus-Rampage-IV-Extreme-No-Display-PLEASE-HELP! | Asus Rampage IV Extreme No Display. PLEASE HELP!
+https://rog.asus.com/forum/showthread.php?46773-Help-ASUS-Rampage-IV-Extreme-Black-Screen-on-startup! | [Help] ASUS Rampage IV Extreme, Black Screen on startup!
+https://www.youtube.com/watch?v=M9aJDjjW47c | (101) ROG Rampage IV Extreme Motherboard Hands-on Review - YouTube
+https://www.youtube.com/watch?v=gHY6ygHj80c | How To Build a Gaming PC in 2019! Part 1 - Hardware Basics - YouTube
+https://www.youtube.com/watch?v=b2pd3Y6aBag | (101) Motherboards Explained - YouTube
+
+https://www.terraform.io/docs/providers/docker/index.html | Provider: Docker - Terraform by HashiCorp
+https://www.hashicorp.com/resources/vagrant-terraform-the-awesome-software-development | Vagrant + Terraform: The Awesome Software Development Duo
+https://medium.com/@kvasirlabs/aws-infrastructure-automation-with-vagrant-packer-terraform-and-ansible-9855b847634d | AWS Infrastructure Automation with Vagrant, Packer, Terraform, and Ansible
+https://packer.io/docs/builders/docker.html | Docker - Builders - Packer by HashiCorp
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+https://packer.io/docs/builders/docker.html#dockerfiles | Docker - Builders - Packer by HashiCorp
+
+https://github.com/search?o=desc&q=vagrant&s=stars&type=Repositories | Search · vagrant · GitHub
+https://github.com/Varying-Vagrant-Vagrants/VVV | GitHub - Varying-Vagrant-Vagrants/VVV: An open source Vagrant configuration for developing with WordPress
+https://github.com/puphpet/puphpet | GitHub - puphpet/puphpet: Vagrant/Puppet GUI
+https://github.com/chef/bento | GitHub - chef/bento: Packer templates for building minimal Vagrant baseboxes for multiple platforms
+http://chef.github.io/bento/ | Bento | Packer templates for building minimal Vagrant baseboxes
+https://github.com/chef | Chef Software, Inc. · GitHub
+https://github.com/chef/chef | GitHub - chef/chef: Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+https://github.com/chef/chef-workstation | GitHub - chef/chef-workstation: Chef Workstation gives you everything you need to get started with Chef, so you can automate how you audit, configure, and manage applications end environments.
+https://github.com/chef/chef-oss-practices | GitHub - chef/chef-oss-practices: Documentation and Practices for Open Source Development at Chef
+https://github.com/chef/automate | GitHub - chef/automate: Chef Automate provides a full suite of enterprise capabilities for maintaining continuous visibility into application, infrastructure, and security automation.
+https://github.com/chef/chef-server | GitHub - chef/chef-server: Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.
+https://github.com/chef/cookstyle | GitHub - chef/cookstyle: A linting tool that helps you to write better Chef Infra cookbooks by detecting and automatically correcting style, syntax, and logic mistakes in your code.
+https://github.com/chef/bento | GitHub - chef/bento: Packer templates for building minimal Vagrant baseboxes for multiple platforms
+https://github.com/chef/chef-web-docs | GitHub - chef/chef-web-docs: All The Documentation
+
+https://bitbucket.org/atlassian/jira-box/src/master/ | atlassian / jira-box — Bitbucket
+https://github.com/fideloper/Vaprobash | GitHub - fideloper/Vaprobash: Vagrant Provisioning Bash Scripts
+https://github.com/coreos/coreos-vagrant | GitHub - coreos/coreos-vagrant: Minimal Vagrantfile for Container Linux
+https://github.com/mitchellh/vagrant-aws | GitHub - mitchellh/vagrant-aws: Use Vagrant to manage your EC2 and VPC instances.
+https://github.com/garethr/vagrantboxes-heroku | GitHub - garethr/vagrantboxes-heroku: Repository for http://www.vagrantbox.es
+https://github.com/jedi4ever/veewee | GitHub - jedi4ever/veewee: Easing the building of vagrant boxes
+https://github.com/geerlingguy/ansible-vagrant-examples | GitHub - geerlingguy/ansible-vagrant-examples: Ansible examples using Vagrant to deploy to local VMs.
+https://github.com/vagrantpress/vagrantpress | GitHub - vagrantpress/vagrantpress: A WordPress Development Environment With Vagrant/Puppet
+https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster | GitHub - rootsongjc/kubernetes-vagrant-centos-cluster: Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox, only PoC or Demo use.
+https://github.com/patrickdlee/vagrant-examples | GitHub - patrickdlee/vagrant-examples: A collection of sample Vagrant configurations using Puppet. Starting out simple and getting more complex.
+https://github.com/fgrehm/vagrant-lxc | GitHub - fgrehm/vagrant-lxc: LXC provider for Vagrant
+https://github.com/devopsgroup-io/vagrant-digitalocean | GitHub - devopsgroup-io/vagrant-digitalocean: A Vagrant provider plugin that manages DigitalOcean droplets.
+
+https://lowpricevendor.com/Microsoft-Windows-10-Pro-Professional-Lifetime-Activation-License-Key-For-32-64-Bit-p146915281 | Windows 10 Pro Professional Lifetime Activation License Key 32/64 Bit
+
+https://my.vmware.com/web/vmware/details?downloadGroup=VIO-600&productId=922&rPId=36097 | Download VMware Integrated OpenStack
+https://my.vmware.com/web/vmware/info/slug/networking_security/vmware_nsx_cloud/2_0 | Download Center for VMware Products
+https://my.vmware.com/web/vmware/login?bmctx=4C976C546DE4E8BA7BD58B8EEADF25A5B418821E70E4480C483939EC36F11A86&contextType=external&username=string&OverrideRetryLimit=1&action=%2F&password=secure_string&challenge_url=https:%2F%2Fmy.vmware.com%2Fweb%2Fvmware%2Flogin&creds=username%20password&request_id=9004292550610736335&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fmy.vmware.com%252Fgroup%252Fvmware%252Finfo%253Fslug%253Dnetworking_security%252Fvmware_sd_wan%252F3_3_2 | Login - My VMware
+https://my.vmware.com/web/vmware/info/slug/networking_security/vmware_nsx_intelligence/1_x | VMWare NSX Intelligence
+https://my.vmware.com/web/vmware/info/slug/networking_security/vmware_nsx_t_data_center/2_x | Download VMware NSX-T Data Center
+https://my.vmware.com/web/vmware/info/slug/networking_security/vmware_nsx_data_center_for_vsphere/6_x | Download VMware NSX
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_essential_pks/1_16 | Download VMware Essential PKS
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_tanzu_kubernetes_grid/1_17 | Download VMware Tanzu Kubernetes Grid
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_photon_platform/1_2 | VMware Photon Platform
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vcenter_converter_standalone/6_2_0 | VMware vCenter Converter Standalone
+https://my.vmware.com/web/vmware/login?bmctx=4C976C546DE4E8BA7BD58B8EEADF25A5B418821E70E4480C483939EC36F11A86&contextType=external&username=string&OverrideRetryLimit=1&action=%2F&password=secure_string&challenge_url=https:%2F%2Fmy.vmware.com%2Fweb%2Fvmware%2Flogin&creds=username%20password&request_id=3046751390069003466&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fmy.vmware.com%252Fgroup%252Fvmware%252Finfo%253Fslug%253Dinfrastructure_operations_management%252Fvmware_site_recovery_manager%252F8_2 | Login - My VMware
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vrealize_suite/2019 | Download VMware vRealize Suite 2019
+https://my.vmware.com/web/vmware/login?bmctx=4C976C546DE4E8BA7BD58B8EEADF25A5B418821E70E4480C483939EC36F11A86&contextType=external&username=string&OverrideRetryLimit=1&action=%2F&password=secure_string&challenge_url=https:%2F%2Fmy.vmware.com%2Fweb%2Fvmware%2Flogin&creds=username%20password&request_id=-4384466018320061119&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fmy.vmware.com%252Fgroup%252Fvmware%252Finfo%253Fslug%253Dinfrastructure_operations_management%252Fvmware_vrealize_automation%252F8_0 | Login - My VMware
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vrealize_code_stream/2_x | Download vRealize Code Stream
+https://my.vmware.com/web/vmware/info/slug/infrastructure_operations_management/vmware_vrealize_business_for_cloud/7_6 | Download vRealize Business for Cloud
+https://my.vmware.com/web/vmware/info/slug/internet_of_things_iot/vmware_internet_of_things/2_0_1 | VMware Pulse IoT Center
+https://my.vmware.com/web/vmware/info/slug/infrastructure_as_a_service/vmware_vcloud_air/1_0 | VMware vCloud Air (formerly vCloud Hybrid Service)
+https://my.vmware.com/web/vmware/info/slug/infrastructure_as_a_service/vmware_cloud_on_aws/1_9 | VMware Cloud on AWS
+https://my.vmware.com/web/vmware/info/slug/application_platform/pivotal_app_suite/2_0 | Download Pivotal App Suite Virtual Appliance
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workspace_one/1_0 | Download VMware Workspace ONE
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon/7_11 | VMware Horizon 7
+https://my.vmware.com/web/vmware/login?bmctx=4C976C546DE4E8BA7BD58B8EEADF25A5B418821E70E4480C483939EC36F11A86&contextType=external&username=string&OverrideRetryLimit=1&action=%2F&password=secure_string&challenge_url=https:%2F%2Fmy.vmware.com%2Fweb%2Fvmware%2Flogin&creds=username%20password&request_id=-2854308838848366536&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fmy.vmware.com%252Fgroup%252Fvmware%252Finfo%253Fslug%253Ddesktop_end_user_computing%252Fvmware_horizon_with_view%252F6_0 | Login - My VMware
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_daas/8_0 | Download VMware Horizon DAAS
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_clients/5_0 | Download VMware Horizon Clients
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_dynamic_environment_manager/9_10 | Download Center for VMware Products
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_app_volumes/4_x | Download VMware App Volumes
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workspace_one_access_vidm/20_01 | Download Workspace ONE Access (VIDM)
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_workspace/2_0 | Download VMware Workspace
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_mirage/5_0 | Download VMware Mirage
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_thinapp/5_0 | VMware ThinApp 5
+https://my.vmware.com/web/vmware/login?bmctx=4C976C546DE4E8BA7BD58B8EEADF25A5B418821E70E4480C483939EC36F11A86&contextType=external&username=string&OverrideRetryLimit=1&action=%2F&password=secure_string&challenge_url=https:%2F%2Fmy.vmware.com%2Fweb%2Fvmware%2Flogin&creds=username%20password&request_id=835288392016530747&authn_try_count=0&locale=en_US&resource_url=https%253A%252F%252Fmy.vmware.com%252Fgroup%252Fvmware%252Finfo%253Fslug%253Ddesktop_end_user_computing%252Fvmware_workstation_pro%252F15_0 | Login - My VMware
+https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0 | Download VMware Workstation Player
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/11_0 | Download VMware Fusion 11
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_trustpoint/1_0 | VMware TrustPoint
+https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_unified_access_gateway/3_8 | Download Center for VMware Products
+https://my.vmware.com/web/vmware/info/slug/cloud_services_cli/vmware_cloud_services/1_0 | VMware Cloud Services
+https://my.vmware.com/web/vmware/info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_7 | Download VMware vSphere
+https://my.vmware.com/web/vmware/info/slug/datacenter_cloud_infrastructure/vmware_vcloud_suite/2019 | Download VMware vCloud Suite

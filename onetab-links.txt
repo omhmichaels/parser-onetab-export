@@ -1,0 +1,1307 @@
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=instanceId | Instances | EC2 Management Console
+http://54.215.141.164/ | Recruits – "Engineers Recruiting Engineers"
+
+https://www.google.com/search?biw=1280&bih=578&sxsrf=ALeKk01-88VkV3TuDPW_dd225aZWJwTL3w%3A1585119943714&ei=xwJ7XsahK4CqytMPoNOFyAc&q=%22Devops+REsume%22+intitle%3Aindex.of++ext%3Adoc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&oq=%22Devops+REsume%22+intitle%3Aindex.of++ext%3Adoc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&gs_l=psy-ab.3...10319.17382..17702...0.0..0.149.1858.1j16......0....1..gws-wiz.O9ss_-3ZFR8&ved=0ahUKEwiGoa_5h7XoAhUAlXIEHaBpAXk4PBDh1QMICw&uact=5 | "Devops REsume" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+https://www.awsar-dst.in/assets/uploads/resume/ | Index of /assets/uploads/resume
+
+https://certbot.eff.org/docs/using.html#changing-the-acme-server | User Guide — Certbot 1.4.0.dev0 documentation
+https://s3.amazonaws.com/files.inductiveautomation.com/test_folder/Let%27s-Encrypt-Guide-Ignition.pdf | Let's-Encrypt-Guide-Ignition.pdf
+https://docs.realm.io/sync/ | Realm Sync Documentation - Realm Sync Docs
+https://certbot.eff.org/docs/using.html#config-file | User Guide — Certbot 1.4.0.dev0 documentation
+https://acme-v02.api.letsencrypt.org/directory | https://acme-v02.api.letsencrypt.org/directory
+https://certbot.eff.org/docs/contributing.html | Developer Guide — Certbot 1.4.0.dev0 documentation
+https://github.com/EnigmaBridge/certbot-external-auth | EnigmaBridge/certbot-external-auth: Certbot external DNS, HTTP, TLSSNI domain validation plugin with JSON output and scriptable hooks, with Dehydrated compatibility
+https://github.com/siilike/certbot-dns-standalone | siilike/certbot-dns-standalone: Standalone DNS server plugin for certbot verification
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#SecurityGroup:groupId=sg-0fd8bd789cdd7bd24 | EC2 Management Console
+https://community.letsencrypt.org/t/error-when-i-try-to-get-a-multiple-domain-wildcard-certificate/67432 | Error when I try to get a multiple-domain wildcard certificate - Help - Let's Encrypt Community Support
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://www.google.com/search?q=certbot+acme+challange&rlz=1C1SQJL_enUS893US893&oq=certbot+acme+challange&aqs=chrome..69i57j0l7.13087j0j1&sourceid=chrome&ie=UTF-8 | certbot acme challange - Google Search
+https://certbot.eff.org/docs/_modules/acme/challenges.html | acme.challenges — Certbot 1.4.0.dev0 documentation
+https://serverfault.com/questions/750902/how-to-use-lets-encrypt-dns-challenge-validation | How to use Let's Encrypt DNS challenge validation? - Server Fault
+https://sso.godaddy.com/?realm=idp&path=%2Fproducts&app=account&isc=goodbr01&gclid=CjwKCAjw3-bzBRBhEiwAgnnLCnTpUyOXasWf-ZZqNacUWPZ5cMeSDhMWmiQMMW2CUdApzFmCFM35jRoCCrUQAvD_BwE&gclsrc=aw.ds | Sign In
+
+https://community.pepperdine.edu/finance/content/ | Index of /finance/content
+https://community.pepperdine.edu/finance/content/po/vendor/ | Index of /finance/content/po/vendor
+https://community.pepperdine.edu/finance/content/payroll/ | Index of /finance/content/payroll
+https://community.pepperdine.edu/finance/content/forms/ | Index of /finance/content/forms
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/%231mcampaign/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/#1mcampaign
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Budget/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Budget
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Callsheets/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Callsheets
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Candidates/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Candidates
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/DNC/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/DNC
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/End%20of%20Cycle%20Memos/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/End of Cycle Memos
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/HMP/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/HMP
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/HR%20stuff/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/HR stuff
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Invites/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Invites
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/LISTS/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/LISTS
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/NP%20Accomplishments/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/NP Accomplishments
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/NP4C%20bills/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/NP4C bills
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/NP4C/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/NP4C
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/New%20folder/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/New folder
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Official%20Office/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Official Office
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Political%20Tracking/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Political Tracking
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/Trust/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/Trust
+https://blog.fdik.org/80fccea01a230134041c0ee73fee24a3/Finance%202013-2014/MK%202013/np%20filing%20papers/ | Index of /80fccea01a230134041c0ee73fee24a3/Finance 2013-2014/MK 2013/np filing papers
+https://www.kefri.org/PDF/QMSForms/ | Index of /PDF/QMSForms
+https://www.kilimotrust.org/documents/ | Index of /documents
+http://activitiesguide.playkettering.org/accred/Sec%204%20Attachments%20-%20Human%20Resources/ | Index of /accred/Sec 4 Attachments - Human Resources
+https://link.springer.com/content/pdf/bbm%3A978-1-349-13540-0%2F1.pdf | bbm:978-1-349-13540-0/1.pdf
+http://www.solano.edu/accreditation/accred13/E1%20Modifying%20the%20Mission%20Statement.pdf | Logo
+
+https://www.google.com/search?q=Staffing+%22Clients%22+intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&hl=en&sxsrf=ALeKk024dwoDndH6K0HzS2vZS5lKFYzkKQ:1585114264412&ei=mOx6XpHkGPKrytMPi4aRiAs&start=120&sa=N&ved=2ahUKEwiRkKLl8rToAhXylXIEHQtDBLE4ZBDy0wN6BAgMED0&biw=1280&bih=578 | Staffing "Clients" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+https://sos.ms.gov/ACProposed/00019124b.pdf | MASTER INDEX OF ALL CHAPTERS: TABLE OF CONTENTS
+https://www.academia.edu/1110996/An_index_of_social_competence_for_use_in_determining_the_service_needs_of_mentally_handicapped_adults | (PDF) An index of social competence for use in determining the service needs of mentally handicapped adults | Roy McConkey - Academia.edu
+https://www.equaljusticeworks.org/wp-content/uploads/files/ccf/federaljobapplicationresources.pdf | federaljobapplicationresources.pdf
+https://www.westerncape.gov.za/assets/departments/social-development/quality_assurance_framework_for_social_welafare_services_-_index_of_norms_and_standards_with_indicators.pdf | quality_assurance_framework_for_social_welafare_services_-_index_of_norms_and_standards_with_indicators.pdf
+https://mn.gov/admin/assets/2019%20Opportunity%20Fair%20Materials_tcm36-388058.pdf | 2019 Opportunity Fair Materials_tcm36-388058.pdf
+https://www.health.nsw.gov.au/policies/manuals/Documents/combined-index.pdf | combined-index.pdf
+http://www.igms-project.org/wp-content/uploads/2017/04/CAOworknotes.pdf | CAOworknotes.pdf
+https://link.springer.com/content/pdf/bbm%3A978-1-349-13906-4%2F1.pdf | bbm:978-1-349-13906-4/1.pdf
+http://maitriitsolutions.com/e1n/index-of-software-office.html | Security error
+http://paswigroup.com/img/ | Index of /img
+https://biznet.ct.gov/SCP_Documents/Bids/21513/63-672%20Final%20Specifications.pdf | INDEX OF SPECIAL PROVISIONS
+https://nce.fd.org/sites/nce.fd.org/files/publications/Litigating%20Syn%20Drug%20Cases%20Course%20Matls.pdf | https://nce.fd.org/sites/nce.fd.org/files/publications/Litigating Syn Drug Cases Course Matls.pdf
+http://ptboro.com/wp-content/uploads/2014/10/General-Obligation-Closing-Documents.pdf | ptboro.com/wp-content/uploads/2014/10/General-Obligation-Closing-Documents.pdf
+https://www.sehd.scot.nhs.uk/mels/indexmanagementcirculars1948-1995.pdf | https://www.sehd.scot.nhs.uk/mels/indexmanagementcirculars1948-1995.pdf
+https://www.crb.gov/proceedings/2011-1/pss/sx_vol_2.pdf | https://www.crb.gov/proceedings/2011-1/pss/sx_vol_2.pdf
+https://shareweb.kent.gov.uk/Documents/childrens-social-services/corporate-parenting/css-tasks-responsibilities-07.pdf | https://shareweb.kent.gov.uk/Documents/childrens-social-services/corporate-parenting/css-tasks-responsibilities-07.pdf
+https://egsurveys.net/wp-content/uploads/2017/08/03_ITECS_2016_Survey_Job_Titles_and_Descriptions__ID7788.pdf | https://egsurveys.net/wp-content/uploads/2017/08/03_ITECS_2016_Survey_Job_Titles_and_Descriptions__ID7788.pdf
+https://magicalhindi.com/paafe/jfsl.php?lh=index-of-ccie | 404 Not Found
+https://ftlweb04app.azurewebsites.us/documents/comm_minutes04/091304regminutes.pdf | https://ftlweb04app.azurewebsites.us/documents/comm_minutes04/091304regminutes.pdf
+https://dspace.njstatelib.org/xmlui/bitstream/handle/10929/26057/part3_4thQtr_2012.pdf?sequence=4 | Alphabetical Index of Active Clients
+https://www.elec.nj.gov/pdffiles/gaa_qtr/1stqtr2014/part3_1stQtr_2014.pdf | Alphabetical Index of Active Clients
+https://www.explorevr.org/index-promising-business-relations-practices | Index of Promising Business Relations Practices | ExploreVR
+https://www.smchealth.org/sites/main/files/file-attachments/indexcurrentbhrspolicies_bhrs.pdf | indexcurrentbhrspolicies_bhrs.pdf
+https://www.admboard.org/Data/Sites/25/Assets/pdfs/adm-procedures-(combined)-2-3-14.pdf | adm-procedures-(combined)-2-3-14.pdf
+https://www.michigan.gov/documents/ltc/Index_of_Documents_02252008_LTC_Commssion_227141_7.pdf | INDEX OF DOCUMENTS
+http://www.postalconsumers.org/wp-content/uploads/2018/01/2012_CPC_IPF_WEB.pdf | 2012_CPC_IPF_WEB.pdf
+https://www.press.umich.edu/pdf/0472113623-index3.pdf | McGinn_Index.qxd
+
+https://www.nsula.edu/documentprovider/docs/320/ | Index of /documentprovider/docs/320
+https://www.nsula.edu/documentprovider/docs/320/IV-1-Banner-Professional-Services-Contracting.pdf | IV-1-Banner-Professional-Services-Contracting.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%201.%20Procedures%20for%20Submitting%20Contracts.pdf | PS 1. Procedures for Submitting Contracts.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%202.%20Professional%20Services%20Contract.pdf | STATE OF LOUISIANA
+https://www.nsula.edu/documentprovider/docs/320/Electronic%20Signature%20Instructions.pdf | Electronic Signature Instructions.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%203.%20Goal%20and%20Objectives.pdf | PS 3. Goal and Objectives.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%204.%20Performance%20Evaluation%20Form.pdf | Performance Evaluation
+https://www.nsula.edu/documentprovider/docs/320/PS%205.%20Amendment%20to%20Agreement.pdf | Office of Contractual Review # ______________
+https://www.nsula.edu/documentprovider/docs/320/PS%206.%20Board%20Resolution%20Sample.pdf | PS 6. Board Resolution Sample.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%207.%20Business%20Associate%20Contract-HIPAA.pdf | Business Associate Contract Addendum
+https://www.nsula.edu/documentprovider/docs/320/PS%208.%20CBA%20Document.pdf | PS 8. CBA Document.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%209.%20CBA%20(SAMPLE).pdf | PS 9. CBA (SAMPLE).pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%2010.%20Disclosure%20of%20Ownership.pdf | PS 10. Disclosure of Ownership.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%2011.%20Certification%20Letter.pdf | DATE OF LETTER
+https://www.nsula.edu/documentprovider/docs/320/PS%2012.%20Exemption%20Determination.pdf | DATE OF LETTER
+https://www.nsula.edu/documentprovider/docs/320/PS%2013.%20Justification%20for%20Late%20Contract.pdf | DATE OF LETTER
+https://www.nsula.edu/documentprovider/docs/320/PS%2014.%20Justification%20for%20Multi-Year%20Contract.pdf | DATE OF LETTER
+https://www.nsula.edu/documentprovider/docs/320/PS%2015.%20SCS%20Agency%20Request%20Form%20&%20Instructions.pdf | PS 15. SCS Agency Request Form & Instructions.pdf
+https://www.nsula.edu/documentprovider/docs/320/PS%2016.%20STATE%20FORM%20-%20W-9%20(October%202018).pdf | Form W-9 (Rev. October 2018)
+
+https://www.google.com/search?q=Linkedin+intitle:index.of&tbs=qdr:y&sxsrf=ALeKk02lrduQIoBnQCHw4s79eKQSt7odiQ:1585113588800&ei=9Ol6Xpa1MMCrytMP7KSh8AM&start=70&sa=N&ved=2ahUKEwiW_42j8LToAhXAlXIEHWxSCD44PBDw0wN6BAgLED8&biw=1280&bih=529 | Linkedin intitle:index.of - Google Search
+http://www.islemler.online/w496844/ | Index of /w496844/
+http://www.islemler.online/ | Index of /
+https://top5update.com/idtge/ | Index of /idtge
+http://menhealthpill.net/n1vz/ | 404 Not Found
+http://menhealthpill.net/n1vz/ | 404 Not Found
+http://www.jamesmarshallconsulting.com/uygiu/ | Index of /uygiu
+https://docs.bartonccc.edu/research/powerbi/ | Index of /research/powerbi
+https://dominioverde.net/powerbi/ | Index of /powerbi
+https://nettson.com/uploads/products/ | Index of /uploads/products
+http://marcel-sm.com/devops/ | Index of /devops
+https://www.healthelligent.com/devops/ | Privacy error
+https://www.bogotobogo.com/DevOps/Docker/images/Docker-GKE-ISTIO/ | Index of /DevOps/Docker/images/Docker-GKE-ISTIO
+http://seimedia.com/devops/ | Index of /devops/
+https://earldouglas.com/talks/scala-devops/images/ | Index of /talks/scala-devops/images/
+https://chercher.tech/images/testing/?MD | Index of /images/testing/
+http://www.carletti.adv.br/8akr/ | Index of /8akr
+https://goodbase.biz/?p=guztazjwmy5gi3bpge4dkmi | Human Verification
+http://nilodelivery.com.br/l0p2/ | Index of /l0p2
+https://henderson.com.mx/ju5vre/ | Index of /ju5vre
+https://winictech.com/downloads/ | Index of /downloads
+https://www.kenrockwell.com/tech/_notes/ | Index of /tech/_notes
+https://tech.churchofjesuschrist.org/dl/gljme/microemulator-2.0.4/devices/ | Index of /dl/gljme/microemulator-2.0.4/devices
+https://www.multitech.com/tmp/ | Index of /tmp
+https://www.mnsu.edu/stc/ | Index of /stc
+http://www.vermontsales.co.za/image/data/products/PRO-TECH/ | Index of /image/data/products/PRO-TECH
+https://www.synompetroleum.com/platform.linkedin.com/ | Index of /platform.linkedin.com/
+https://www.trotter-inc.com/wp-content/plugins/wp-linkedin-auto-publish/inc/images/ | Index of /wp-content/plugins/wp-linkedin-auto-publish/inc/images
+https://www2.census.gov/data/ | Index of /data
+https://www.vividintlsolutions.com/email/ | Index of /email
+http://ctan.math.washington.edu/tex-archive/macros/latex/contrib/els-cas-templates/thumbnails/ | Index of /tex-archive/macros/latex/contrib/els-cas-templates/thumbnails
+
+http://mgndev.com/soft/niger-expertise/email-templates/employers/ | Index of /soft/niger-expertise/email-templates/employers
+http://mgndev.com/soft/niger-expertise/email-templates/admin/ | Index of /soft/niger-expertise/email-templates/admin
+http://mgndev.com/soft/niger-expertise/email-templates/freelancers/ | Index of /soft/niger-expertise/email-templates/freelancers
+http://www.centroericksoniano.edu.mx/grupoCEM/images/ | Index of /grupoCEM/images
+http://mgndev.com/soft/niger-expertise/email-templates/general/ | Index of /soft/niger-expertise/email-templates/general
+
+http://mgndev.com/soft/niger-expertise/email-templates/ | Index of /soft/niger-expertise/email-templates
+http://mgndev.com/soft/niger-expertise/email-templates/employers/ | Index of /soft/niger-expertise/email-templates/employers
+http://mgndev.com/soft/niger-expertise/email-templates/admin/ | Index of /soft/niger-expertise/email-templates/admin
+http://mgndev.com/soft/niger-expertise/email-templates/freelancers/ | Index of /soft/niger-expertise/email-templates/freelancers
+http://mgndev.com/soft/niger-expertise/email-templates/general/ | Index of /soft/niger-expertise/email-templates/general
+http://mgndev.com/soft/niger-expertise/email-templates/readme.txt | mgndev.com/soft/niger-expertise/email-templates/readme.txt
+http://mgndev.com/soft/niger-expertise/demo-installations.txt | mgndev.com/soft/niger-expertise/demo-installations.txt
+http://mgndev.com/soft/niger-expertise/codelist.cc.txt | mgndev.com/soft/niger-expertise/codelist.cc.txt
+
+https://www.google.com/search?q=email+Templates++intitle:index.of&tbs=qdr:y&sxsrf=ALeKk01ofXFlZ9ufsAvIqSTuygOzoeLCrw:1585112176499&ei=cOR6XsiRHtiqytMP5tiX6AQ&start=140&sa=N&ved=2ahUKEwjIidaB67ToAhVYlXIEHWbsBU04ggEQ8NMDegQICxA_&biw=1280&bih=529 | email Templates intitle:index.of - Google Search
+https://lp.powerapp.download/ready/?p=91169&v=400#spalp2020ladfbgclhnekfhhmmgpmgollpiicnjaa | Download Ready
+https://www.acutedata.com/pdf/sage-100/ | Index of /pdf/sage-100
+https://www.cforpro.com/images/?C=M;O=D | Index of /images
+http://elmirayafteh.ir/autosub/ | Index of /autosub/
+https://www.creativetek.net/support/ | Support – CreativeTek
+https://its.uncg.edu/A_to_Z_Index/ | A to Z Index of Documentation, Information Technology Services, UNCG
+https://www.pensadordigital.com.br/home/owu/ | Index of /home/owu
+http://norrisconsulting.kapowinteractive.com.au/doc/assets/files/ | Index of /doc/assets/files
+http://www.vistaglobal.ca/office365/ | 404 Not Found
+http://www.centroericksoniano.edu.mx/grupoCEM/images/ | Index of /grupoCEM/images
+http://www.dataspot.ro/produse/ | Index of /produse/
+http://www.misfitmods.com/apks/ | Index of /apks
+https://cartertilman.com/downloads/email-templates/ | Index of /downloads/email-templates
+http://www.aloha.es/Templates/ | Index of /Templates
+http://clwpo.com/clients/ | Index of /clients
+http://mgndev.com/soft/niger-expertise/ | Index of /soft/niger-expertise
+https://www.pdffiller.com/425502415--Index-of-assetsfilesRelated-downloads-Send-a-Cow- | Index of /assets/files/Related-downloads - Send a Cow Doc Template | PDFfiller
+https://creativemarket.com/ZHR/3864089-index-of-happiness-logo | index of happiness logo | Creative Logo Templates ~ Creative Market
+https://docs.microsoft.com/en-us/azure/governance/policy/samples/ | Index of policy samples - Azure Policy | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/work-item-field?view=azure-devops | Index of default and system work item fields - Azure Boards | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ | Index of blueprint samples - Azure Blueprints | Microsoft Docs
+https://developer.amazon.com/en-US/docs/alexa/ask-overviews/list-of-skills.html | Index of Skill Types | Alexa Skills Kit
+https://www.pokiemate.com/cms/ | Index of /cms
+http://loadweb.com.br/install_/ | loadweb.com.br/install_/
+http://muscles.dragonflybsd.org/synth/logs/ | Index of /synth/logs/
+https://preferredselected.app/campaign/fingerland6/?ID=ncnisp4cr&sub=ncnisp4cr&subid=apiadst_IT_chedgeie2102_310929&S2=UM3wZsfaTLNuZOHI-IC5_31ksuvfIklfyNXiz41Eqxk62l0Myny2fJVPKzWFcYF0p8rQTZC_OKtNQa4zQ_1IeeRn_3g5tcdea1ewtQVUcwGwRvnin_grvYZP5TP1gRb8-llfCVWa294tfnCuRDAe92KZARE_hXUOciatybkRZ__Vy2RsEh1sGfFGDwKxDjcLhR-0NlzYtX31goASZ5rmGw&SUTM=852830&A=2 | Please Update
+https://goodbase.biz/?p=guztazjwmy5gi3bpge4dkmi | Human Verification
+https://ftp.bytemine.net/pub/OpenBSD/snapshots/packages/amd64/ | Index of /pub/OpenBSD/snapshots/packages/amd64
+http://www.akiree.com/ | Index of /
+http://blackwellelitelogisticsllc.com/abd/hfri.php?uw=index-of-files-series-2019 | 404 Not Found
+https://web-assets.net/ | Index of /
+https://excelchamps.com/sample-files/ | Index of /sample-files
+
+http://aquimaisempresas.com.br/office365/ | Index of /office365
+
+http://lersoy.com/ | Index of /
+
+http://aquimaisempresas.com.br/ | Index of /
+
+https://www.sineria.fr/download/binaires/ | Index of /download/binaires
+
+https://tbitunisia.com/x8cju/index-of-parent-directory-credit-card-xls.html | Page non trouvée - TBI
+http://192.185.245.221/toalke/wtuds/ | Index of /toalke/wtuds
+http://magness.nysa.pl/gz54kgt/index-of-the-100-s03.html | 404 Not Found
+https://goodbase.biz/?p=guztazjwmy5gi3bpge4dkmi | Human Verification
+https://luatmaisen.com.vn/ | Index of /
+https://mirrors.aliyun.com/composer/dists/ | 504 Gateway Time-out
+http://onan.xmsi.net/ | Index of /
+https://www.chriscookperformance.com/ | Privacy error
+http://www.fashiondesignscope.com/dhgu/ | Index of /dhgu
+https://wp-md5.com/plugin/ | Index of /plugin
+https://www.cs.usask.ca/ftp/pub/software/ats/ | Index of /ftp/pub/software/ats
+https://repo-nexus.lsst.org/nexus/content/repositories/ccs-maven2-public/org/lsst/org-lsst-ccs-ats-software-gui/1.0.1-SNAPSHOT/ | Repository - Nexus Repository Manager
+http://dev.lsstcorp.org/camera/maven2-snapshots/org/lsst/org-lsst-ccs-ats-software-main/
+https://www.cs.rit.edu/~ats/projects/acm/ | Index of /~ats/projects/acm
+http://www.centralcoalfields.in/i/pdf/wrk_order_system/ | Index of /i/pdf/wrk_order_system
+https://www.vultus.com/wp-content/uploads/2019/11/ | Index of /wp-content/uploads/2019/11
+https://styleicononline.com.cutestat.com/ | Styleicononline : Index of /
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4056716 | IEEE Xplore Full-Text PDF:
+http://www.montanainstruments.com/library/images/ | Index of /library/images
+http://www.gosoftware.com.au/download/?ND | Index of /download
+https://www.energy-daily.com/images/ | Index of /images
+https://gentoo.ussg.indiana.edu/distfiles/ | Index of /distfiles
+http://modland.com/pub/modules/Protracker/ | Index of /pub/modules/Protracker
+https://www.dats.com.pk/docs/?DD | Index of /docs
+https://datatracker.ietf.org/doc/all | Index of all Internet-Drafts and RFCs
+https://thiocarbamylife.info/r/captcha/17917?count=10&declCount=10&fullScreenMode=enabled | To access the website click the "Allow" button
+http://www.websoftex.com/development/crm-software/fonts/ | 403 Forbidden
+http://www.rsoft.in/crm/ | Index of /crm
+http://www.websoftex.com/development/crm-software/ | 403 Forbidden
+http://www.nexdimension.net/resources/products/dynamics-crm/ | Index of /resources/products/dynamics-crm
+http://www.publicidad-google-adwords.com/software-erp-crm.com/ | Index of /software-erp-crm.com
+http://fsltechnologies.com/image/SalesMeet/?C=S;O=A | Index of /image/SalesMeet
+http://fsltechnologies.com/image/SalesMeet/ | Index of /image/SalesMeet
+https://www.clari.com/assets/images/images_update/crm/ | Index of /assets/images/images_update/crm
+https://www.interactivebrokers.co.uk/en/software/pa/am/manageclients/ | https://www.interactivebrokers.co.uk/en/software/pa/am/manageclients/
+https://www.cadsoftwaredirect.com/skin/lib/zcrm-sdk/com/zoho/crm/ | Index of /skin/lib/zcrm-sdk/com/zoho/crm/
+http://timelinxsoftware.com/tl_files/timelinx/images/Sage%20CRM%20Images/?MD | Index of /tl_files/timelinx/images/Sage CRM Images/
+http://compliancemantra.com/image/Annual%20Meet%2016/ | Index of /image/Annual Meet 16
+http://pages.cs.wisc.edu/~noto/pub/software/ | Index of /~noto/pub/software
+http://www.erpincloud.com/wp-content/uploads/2015/02/ | Index of /wp-content/uploads/2015/02
+https://stuff.mit.edu/afs/athena/software/su2/su2_v6.0/SU2-6.0.0/TestCases/euler/CRM/ | Index of /afs/athena/software/su2/su2_v6.0/SU2-6.0.0/TestCases/euler/CRM
+https://www.uspto.gov/sites/default/files/documents/ieg-may-2016-ex_index.pdf | Index of Eligibility Examples
+http://www.gdi-software.com/download/progs/bline/CRM-Warenwirtschaft/alt/ | Index of /download/progs/bline/CRM-Warenwirtschaft/alt
+http://ftpmirror.your.org/pub/misc/ftp.software.ibm.com/software/rationalsdp/documentation/expandedsites/RCQ8.0.1_updateSite/features/com.ibm.rational.crm.doc.feature.nl1_8.0.1.v20130306_0328/ | Index of /pub/misc/ftp.software.ibm.com/software/rationalsdp/documentation/expandedsites/RCQ8.0.1_updateSite/features/com.ibm.rational.crm.doc.feature.nl1_8.0.1.v20130306_0328/
+http://lbmsolutions.in/mlm/assets/images/ | Index of /mlm/assets/images
+https://www.business2community.com/sales-management/the-hustlers-index-of-daily-sales-goals-01339848 | The Hustler's Index of Daily Sales Goals - Business 2 Community
+http://www.pet-toys.top/software/crm-inmobiliario/ | Index of /software/crm-inmobiliario
+http://lamp.infosys.deakin.edu.au/journals/index.php?page=popstats&journal=651 | The Index of Information Systems Journals :: Individual Journal Stats
+http://crm.reservationsoftware.com/crm/img_uploads/product_images/prdImg3/ | Index of /crm/img_uploads/product_images/prdImg3
+https://www.glassdoor.com/Interview/Find-the-first-index-of-the-substring-Condition-Do-not-use-java-library-function-or-regular-expressions-And-meas-QTN_262629.htm | Salesforce Interview Question: Find the first index of the s... | Glassdoor
+http://index-of.es/z0ro-Repository-3/ | index-of.es/z0ro-Repository-3/
+https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/can-general-index-of-financial-information-gifi-codes-for-canadian-financial-statements | (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements | Microsoft Docs
+https://www.ssvixen.com/testingcrmor/crm/SuperAdmin/Documentation/less/icons/linea-icons/fonts/?ND | Index of /testingcrmor/crm/SuperAdmin/Documentation/less/icons/linea-icons/fonts/
+http://ftp.tekwind.co.jp/pub/asustw/mb/ldcm/Software/LDCM/CLIENT/ | Index of /pub/asustw/mb/ldcm/Software/LDCM/CLIENT
+https://www.panorama-consulting.com/wp-content/uploads/2019/07/ | Page Not Found | Panorama Consulting Group
+https://www.intelestream.net/en/wp-content/uploads/2018/03/ | Index of /en/wp-content/uploads/2018/03
+https://suvidhasoft.com/services/?C=S;O=A | Index of /services
+http://www.crm.emastpa.com.my/eMAS%20Tools%20%20&%20Settings/Joomla%20Tools%20&%20Companion%20Software/Export-Import%20/ | 404 Not Found
+https://www.marketresearch.com/map/taxindex.asp?SID=53264035-407113713-459845970 | Index of Market Research Reports
+http://visiontechme.com/images/software/ | Index of /images/software
+https://www.linkedin.com/pulse/what-constitute-your-satisfaction-index-business-software-sreekumar-j?trk=portfolio_article-card_title | What constitute your satisfaction index of business software?
+https://www.avantts.com.br/tecnologia/erp-erp-enterprise-resource-planning-crm-crm-customer-relationship-management/ | Index of /tecnologia/erp-erp-enterprise-resource-planning-crm-crm-customer-relationship-management/
+https://aace5.knowledgeowl.com/help/index-of-aace-preferences | Index of aACE Preferences | aACE 5
+https://ftp.eq.uc.pt/software/TeX/macros/tip/ | Index of /software/TeX/macros/tip
+https://www.amcoitsystems.com/portfolio/boot3/js/ | Index of /portfolio/boot3/js
+https://adamaris.org/etmcdmik/index-of-leads-csv.html | Security error
+http://www.ntsoftechsolutions.com/images/ | Index of /images
+http://tg-arastirma.com/intra/build/rpm/ | Index of /intra/build/rpm/
+https://it.toolbox.com/question/index-of-a-selected-item-in-listbox-072506 | Index of a selected item in ListBox
+http://www.axxonconsulting.com/wp-content/uploads/2015/12/ | Index of /wp-content/uploads/2015/12
+http://www.worldprivacyforum.org/wp-content/uploads/2008/01/fraud_antareslooking4workjuly1.pdf | fraud_antareslooking4workjuly1.pdf
+https://penciltechnologies.com/img/product/ | Index of /img/product
+https://www.oldfirstconcerts.org/civicrm/civicrm/ext/iatspayments/templates/CRM/iATS/ | Index of /civicrm/civicrm/ext/iatspayments/templates/CRM/iATS
+https://creditfreedomrestoration.com/crm/businesscard/ | Index of /crm/businesscard
+https://tbitunisia.com/x8cju/index-of-parent-directory-credit-card-xls.html | Page non trouvée - TBI
+
+https://www.google.com/search?q=recruitment+software++intitle:index.of&tbs=qdr:y&sxsrf=ALeKk03djjIRHt8rd3qxZIyTDhwo6fIFkA:1585108739926&ei=A9d6XvSNOMusytMPj9uniAc&start=80&sa=N&ved=2ahUKEwi0m_6a3rToAhVLlnIEHY_tCXE4RhDw0wN6BAgLED4&biw=1280&bih=578 | recruitment software intitle:index.of - Google Search
+https://ns1.dynamismsoftware.com.au/ | Privacy error
+https://www.erptraining9.com/1/ | Index of /1/
+https://spmhrsolutions.com/ | Index of /
+https://www.cyntexa.com/cyntexa/ | Index of /cyntexa
+https://www.hunted.com/blog/wp-content/uploads/2019/04/ | Index of /blog/wp-content/uploads/2019/04
+http://dubaitask.com/ | Index of /
+https://www.forwardnetworks.com/wp-content/uploads/ | Index of /wp-content/uploads
+http://www.ctas.tennessee.edu/content/2019-index-acts | 2019 Index of Acts | CTAS
+https://aitsrajampet.ac.in/images/ | Index of /images
+https://player.fm/series/bajirao-mastani-2015-tamil-dubbed-tcrip-x264-800mb-47/parent-directory-index-of-idm-32 | Parent Directory Index Of Idm 32 Bajirao Mastani 2015 Tamil Dubbed TCRip X264 800MB 47 podcast
+https://0.fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk | Human Verification
+https://0.fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk | Human Verification
+https://www.care.biz/assets/templates/advance/img/ | Index of /assets/templates/advance/img
+https://jobdashboard.in/wp-content/uploads/backup/2019/11/ | Index of /wp-content/uploads/backup/2019/11/
+https://www.northcote.co.uk/listed_companies.php?letter=S | Northcote Index of companies that start with S
+https://justaposse.com.br/ep3slrl/ | Index of /ep3slrl
+http://www.auclairdurocher.ca/secondhand/ | Index of /secondhand/
+http://sup5irmaos.com.br/ldxvcos/ | Index of /ldxvcos
+http://www.islemler.online/w496844/ | Index of /w496844/
+https://techmistri.com/wp-content/uploads/2019/07/ | Index of /wp-content/uploads/2019/07
+http://apkbuilder.com/upload/ | Index of /upload
+https://www.usac.edu.gt/empleos/archivos/?C=M;O=A | Index of /empleos/archivos
+https://0.fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk | Human Verification
+http://easternsuburbshomeremovals.com.au/5elsry5/ | Index of /5elsry5
+http://racketsacademy.ae/wtuds/ | Index of /wtuds
+http://racketsacademy.ae/wtuds/ | Index of /wtuds
+https://61.8.70.50/index.php/jsk/article/viewFile/1842/953 | Privacy error
+http://www.forrent.my/e9u458o/ | Index of /e9u458o
+http://paperpkads.pk/wp-content/uploads/2019/09/ | Index of /wp-content/uploads/2019/09
+http://www.carletti.adv.br/hu0/ | Index of /hu0
+https://nulledkings.com/wp-content/uploads/2019/10/?MA | Index of /wp-content/uploads/2019/10/
+http://veterok3.pw/enter/?mark=20200301-kccommunicates.com/e5tkqq&tpl=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&engkey=index+of+the+office | Just a moment...
+
+https://www.parkrose.k12.or.us/departments/forms/ | /var/www/html/do/departments/forms/
+
+https://www.parkrose.k12.or.us/departments/human_resources/ | Index of /departments/human_resources
+
+https://www.tiempodev.com/hubfs/ | Index of /hubfs
+https://www.tiempodev.com/ | Tiempo Development | Leader in Nearshore Software Development
+
+https://packages.baidu.com/app/ | Index of /app/
+
+http://www.brp-software.com/download/IBExpert%20PDF%20documentation%202008/ | Index of /download/IBExpert PDF documentation 2008
+https://download.mykehnet.org/?dir=isos/VMware | Directory listing of https://download.mykehnet.org/isos/VMware
+https://www.google.com/search?q=software++intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&tbs=qdr:y&sxsrf=ALeKk02ZNb9Xcnf7JozJx4tNwoD0ZctfqQ:1585106262790&ei=Vs16Xp_bL7_M0PEPw-6tyA0&start=120&sa=N&ved=2ahUKEwif3uX91LToAhU_JjQIHUN3C9k4bhDw0wN6BAgMED8&cshid=1585106271548670&biw=1280&bih=578 | software intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+
+https://wikileaks.org/sony/docs/03_03/ | Index of /03_03/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/CS%20Stars%20RMIS%20System/ | Index of /03_03/RISKMGMT/CS Stars RMIS System/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/CYBER/ | Index of /03_03/RISKMGMT/CYBER/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/BONDS/ | Index of /03_03/RISKMGMT/BONDS/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/AMEX%20-%20Corporate%20Travelers/ | Index of /03_03/RISKMGMT/AMEX - Corporate Travelers/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/3D%20Tech%20Center/ | Index of /03_03/RISKMGMT/3D Tech Center/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/AM%20Best%20Guide/ | Index of /03_03/RISKMGMT/AM Best Guide/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Computer%20Procedures/ | Index of /03_03/RISKMGMT/Computer Procedures/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Certs/ | Index of /03_03/RISKMGMT/Certs/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/D%26O/ | Index of /03_03/RISKMGMT/D&O/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/DFH/ | Index of /03_03/RISKMGMT/DFH/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/EPL/ | Index of /03_03/RISKMGMT/EPL/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/File%20Procedures/ | Index of /03_03/RISKMGMT/File Procedures/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Financial/ | Index of /03_03/RISKMGMT/Financial/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/GSN/ | Index of /03_03/RISKMGMT/GSN/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Forms_Wording/ | Index of /03_03/RISKMGMT/Forms_Wording/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Human%20Resources/ | Index of /03_03/RISKMGMT/Human Resources/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/ISOS/ | Index of /03_03/RISKMGMT/ISOS/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Legal%20terms/ | Index of /03_03/RISKMGMT/Legal terms/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/MGM/ | Index of /03_03/RISKMGMT/MGM/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Manuals/ | Index of /03_03/RISKMGMT/Manuals/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/POLICIES/ | Index of /03_03/RISKMGMT/POLICIES/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/PROCEDURES/ | Index of /03_03/RISKMGMT/PROCEDURES/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Procurement/ | Index of /03_03/RISKMGMT/Procurement/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Records%20Management/ | Index of /03_03/RISKMGMT/Records Management/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Risk%20Console/ | Index of /03_03/RISKMGMT/Risk Console/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Requirements/ | Index of /03_03/RISKMGMT/Requirements/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Risk%20Console/ | Index of /03_03/RISKMGMT/Risk Console/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Security/ | Index of /03_03/RISKMGMT/Security/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/STARS%20REPORTS/ | Index of /03_03/RISKMGMT/STARS REPORTS/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Shared%20Drive%20Access%20Reviews/ | Index of /03_03/RISKMGMT/Shared Drive Access Reviews/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Word%20Docs/ | Index of /03_03/RISKMGMT/Word Docs/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Advisen/ | Index of /03_03/RISKMGMT/Advisen/
+https://wikileaks.org/sony/docs/03_03/Mktrsch/ | Index of /03_03/Mktrsch/
+
+https://www.umbc.edu/adminaffairs/procurement/Vendors.pdf | VENDORS.PDF
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Self%20Insurance%20Language/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Self Insurance Language/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Standard%20Ins%20Reqs%20for%20Legal%20%26%20Procurement%202014/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Standard Ins Reqs for Legal & Procurement 2014/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Lot%20Project%20II%20-%202014/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Lot Project II - 2014/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Lowes/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Lowes/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Mobile%20File%20Sharing/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Mobile File Sharing/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/SPR/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/SPR/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/SPI-SPA/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/SPI-SPA/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/SaaS/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/SaaS/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Contract%20Sample%20Wording/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Contract Sample Wording/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Contract%20Procedures/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Contract Procedures/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Consignment%20Contracts/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Consignment Contracts/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/CCFD/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/CCFD/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/CSC/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/CSC/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/CTMG-SPR/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/CTMG-SPR/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/MCS%20Software%20SaaS/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/MCS Software SaaS/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/MSAs/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/MSAs/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Production/Queen%20Latifah/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Production/Queen Latifah/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/PIX%20Contract/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/PIX Contract/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/SP%20TECH/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/SP TECH/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Shared%20Svcs/Manila%20Office/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Shared Svcs/Manila Office/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/Technology-License%20Ins%20Reqs/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/Technology-License Ins Reqs/
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/WPF%20Inwood%20Contracts-Sample%20certs/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/WPF Inwood Contracts-Sample certs/
+https://www.parkrose.k12.or.us/departments/human_resources/contracts/ | Index of /departments/human_resources/contracts
+https://www.nsula.edu/documentprovider/docs/320/ | Index of /documentprovider/docs/320
+chrome://settings/ | Settings
+
+https://www.google.com/search?q=software++intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&tbs=qdr:y&sxsrf=ALeKk02ZNb9Xcnf7JozJx4tNwoD0ZctfqQ:1585106262790&ei=Vs16Xp_bL7_M0PEPw-6tyA0&start=120&sa=N&ved=2ahUKEwif3uX91LToAhU_JjQIHUN3C9k4bhDw0wN6BAgMED8&cshid=1585106271548670&biw=1280&bih=578 | software intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+https://data.ddosecrets.com/file/Fuck_FBI_Friday_III_ManTech/ | Index of /file/Fuck_FBI_Friday_III_ManTech/
+https://doccs.ny.gov/system/files/documents/2020/01/9999.pdf | 9999.pdf
+http://195.154.232.154/drive/ | Index of /drive
+https://www.tiempodev.com/hubfs/ | Index of /hubfs
+https://www.silverstonetek.com/downloads/Software/ | Index of /downloads/Software
+http://devpolicy.org/excel/ | Index of /excel/
+http://185.64.177.119/Software/OfficeTools/ | Bitdownload Index of OfficeTools/
+https://help.uis.cam.ac.uk/service/support/training/downloads/instructor-led-course-downloads | Index of instructor-led course files — IT Help and Support
+http://68.235.48.235/AER-SOS/ | Index of /AER-SOS
+http://ritongyarn.com/Garfield/Software/ | Index of /Garfield/Software
+https://download.mykehnet.org/apps/Adobe/Adobe%20Reader/11/ | Index of /apps/Adobe/Adobe Reader/11
+https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/pot/ | Index of /ibmdl/export/pub/software/websphere/wasdev/pot
+http://www.netsellsit.com/Download/ | Index of /Download
+http://biosannyserver.com/installs/ | Index of /installs
+https://www.tetcos.com/downloads/v12/ | Index of /downloads/v12
+https://www.healthnet.org.np/downloads/gsdl/ | Privacy error
+http://vibsdepot.hpe.com/hpe/apr2019/ | Index of /hpe/apr2019
+https://wiki.exocad.com/wiki/index.php/DentalCAD_Documentation_-_Index_of_topics | DentalCAD Documentation - Index of topics - exocad
+https://its.tntech.edu/display/MON/Index+of+Campus+SharePoint+Sites | Index of Campus SharePoint Sites
+https://www.swann.com/downloads/drivers/DVR_2500/ | Index of /downloads/drivers/DVR_2500/
+https://www.motionics.com/downloads/ | Index of /downloads
+http://www.brp-software.com/download/IBExpert%20PDF%20documentation%202008/ | Index of /download/IBExpert PDF documentation 2008
+http://jerryching.spdns.de/Software/Security/ESET/ESET%20NOD32%20Antivirus%203.0.672%20Business%20Edition/ | Index of /Software/Security/ESET/ESET NOD32 Antivirus 3.0.672 Business Edition
+https://www.rbdinstruments.com/blog/rbd-techspot-index-posts/ | RBD TechSpot Index of Posts | RBD TechSpot
+http://www.ctas.tennessee.edu/content/2019-index-acts | 2019 Index of Acts | CTAS
+https://www.tradejini.com/assets/images/ | Index of /assets/images
+http://www.byonics.com/downloads/ | Index of /downloads/
+https://www.turnkeytec.com/wp-content/uploads/2019/03/ | Index of /wp-content/uploads/2019/03
+https://ww3.arb.ca.gov/html/all.htm | A - Z Index of All Top Level Programs / Topics
+http://vproxy.ws/?cdURL=aHR0cDovL3d3dy5nbnUub3JnL3NvZnR3YXJlL2F1Y3RleC9tYW51YWwv | Index of /software/auctex/manual
+https://0.fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk | Human Verification
+
+https://www.google.com/search?biw=1280&bih=529&tbs=qdr:y&sxsrf=ALeKk00OhaPLMisxYujQCc5nzQGad-LhFQ:1585104060896&q=IT+%22Contract%22+intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&tbm=isch&source=univ&sa=X&ved=2ahUKEwju6-zjzLToAhU0FTQIHaKCAf4QsAR6BAgKEAE | IT "Contract" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+http://www.siue.edu/cab/pdf/ | Index of /cab/pdf
+http://www.uhsystem.edu/legal-affairs/contract-administration/pdf-documents/ | Index of /legal-affairs/contract-administration/pdf-documents
+https://www.asurams.edu/docs/legal-affairs/forms/contracts/ | Index of /docs/legal-affairs/forms/contracts
+http://su.apea-aft.org/Contract/ | Index of /Contract
+https://www.whitleypenn.com/wp-content/uploads/2019/02/ | Index of /wp-content/uploads/2019/02
+http://www.lrcft.org/resources/1/ | Index of /resources/1
+https://baughers.com/pdf/ | Index of /pdf
+https://www.bgchv.com/pdf/2018%20online%20contract/ | Privacy error
+http://db.galileoindonesia.com/galindov3/pdf/contract/ | Index of /galindov3/pdf/contract
+https://www.minotstateu.edu/life/documents/Applications/ | Index of /life/documents/Applications
+https://www.southernjudicialcircuit.com/selfhelp/contract/ | Index of /selfhelp/contract
+http://www.unlimitedmls.com/forms/ | Index of /forms
+https://atmos.uw.edu/~aaron/nobackup/contract/ | Index of /~aaron/nobackup/contract
+http://files.alandesk.com/EKO%20Contract/Healthcare%20Seating/PDF/ | 404 Not Found
+https://www.codot.gov/content/projects/I25CimarronDraftRFP/BOOK%201-Contract/ | Index of /content/projects/I25CimarronDraftRFP/BOOK 1-Contract
+http://www.clemson.edu/procurement/documents/goods-services/ | Index of /procurement/documents/goods-services
+https://www.macomb.edu/resources/human-resources/attachments/?C=S;O=A | Index of /resources/human-resources/attachments
+https://www.douglas.co.us/archives/documents/contracts/fourthqtr/Contract%20PDFs/ | 403 Forbidden
+https://ftp.dot.state.tx.us/pub/txdot-info/des/cco/contract-solicitations/0000001358/ | Index of /pub/txdot-info/des/cco/contract-solicitations/0000001358
+http://www.ugn.cas.cz/~stary/ugn/actually/contract/2015/vr1512/ | Index of /~stary/ugn/actually/contract/2015/vr1512
+https://www.parkrose.k12.or.us/departments/human_resources/contracts/ | Index of /departments/human_resources/contracts
+https://www.nsula.edu/documentprovider/docs/320/ | Index of /documentprovider/docs/320
+https://www.southampton.ac.uk/~assets/doc/ctu/contract/ | 403 | Forbidden | University of Southampton
+http://www.bridgewaycorp.com/clients/pdf/Legal%20Forms/ | Index of /clients/pdf/Legal Forms
+http://35.192.68.109/documents/ | Index of /documents
+https://web.augsburg.edu/global/APA/ | Index of /global/APA
+https://willamette.edu/offices/careers/pdf/ | Index of /offices/careers/pdf
+http://www.rheologysolutions.com/downloads/resources/ | Index of /downloads/resources
+http://www.static.grovia.com.ge/knowledge/contract/PDFs/?C=S;O=D | Index of /knowledge/contract/PDFs
+http://www.static.grovia.com.ge/knowledge/contract/PDFs/?C=M;O=A | Index of /knowledge/contract/PDFs
+http://mhbombers.com/themes/mhbombers.com/Central%20Office/Vending%20Contract%20Exp/ | Index of /themes/mhbombers.com/Central Office/Vending Contract Exp
+http://www.niagaracc.suny.edu/pdf/student-development/ | Index of /pdf/student-development
+https://www.cityofmoore.com/uploads/Grants-Programs/ | Index of /uploads/Grants-Programs
+https://www.macquarie.com/assets/macq/about/disclosures/disclosures-standard-documents-and-policies.pdf | disclosures-standard-documents-and-policies.pdf
+https://web.njit.edu/~mbess/Contract%20Docs/LESSONS/Lesson_5/ | Index of /~mbess/Contract Docs/LESSONS/Lesson_5
+https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118385562.indsp2 | Index of Sub‐Clauses (sorted according to FIDIC Clause numbering system) - An Employer's and Engineer's Guide to the FIDIC Conditions of Contract - Wiley Online Library
+https://wikileaks.org/sony/docs/03_03/RISKMGMT/Contracts/Donna%27s%20Contracts/ | Index of /03_03/RISKMGMT/Contracts/Donna's Contracts/
+http://www.ndhealth.gov/compcancer/wp-content/uploads/2017/10/ | Index of /compcancer/wp-content/uploads/2017/10
+https://www.vsp.virginia.gov/VSP%20site/VSP/VSP/downloads/stars_files/ | Index of /VSP site/VSP/VSP/downloads/stars_files
+https://online.ogs.ny.gov/purchase/snt/awardnotes/7720120191LotsRegions.pdf | INDEX OF AWARDS (LOTS & REGIONS) HOW TO USE CONTRACTS:
+http://wp.sbcounty.gov/dbh/wp-content/uploads/2017/02/ | Index of /dbh/wp-content/uploads/2017/02
+https://swisslinux.org/documents/contract/ | Index of /documents/contract/
+https://www.oa.edu.ua/doc/vstyp/5_course/contract/ | Index of /doc/vstyp/5_course/contract
+http://siteresources.worldbank.org/EXTPBFTOOLKIT/Resources/7364043-1386179845855/ | Index of /EXTPBFTOOLKIT/Resources/7364043-1386179845855
+https://mail.ahgrafx.com/contract/ | Privacy error
+http://www.spillcontrol.org/downloads/responsecon/ | Index of /downloads/responsecon
+https://dot.ca.gov/-/media/dot-media/programs/design/documents/f0002204-11-2t2004-rid-indexfinal-a11y.pdf | Index of Reference Information Documents
+https://www.csu.edu/provost/pdf/ | Index of /provost/pdf
+https://www.umbc.edu/adminaffairs/procurement/ | Index of /adminaffairs/procurement
+https://procurement.sc.gov/files/Master%20Procurement%20Code%20Index%202.1%20%28190920%29%20%28Booklet%29.pdf | Organization
+https://sparksgroupinc.com/wp-content/uploads/ | Index of /wp-content/uploads
+https://www.smchealth.org/sites/main/files/file-attachments/indexcurrentbhrspolicies_bhrs.pdf | indexcurrentbhrspolicies_bhrs.pdf
+https://www.lucidfusion.com/clients/sage/PartnerTools/trunk/ASSETS/files/ | Index of /clients/sage/PartnerTools/trunk/ASSETS/files
+https://www.spstaffing.com/wp-content/uploads/2015/10?MA= | 404 Error Page | SearchPros
+
+http://www.kpese.gov.pk/Downloads/ | Index of /Downloads
+http://www.kpese.gov.pk/Downloads/Request%20for%20Proposal%20-%20Khyber%20Pakhtunkhwa%20Textbook%20Board%20%20Inventory%20Management%20System%2002-09-2015.pdf | Microsoft Word - Request for Proposal - IMS 02-09-15
+http://www.kpese.gov.pk/Downloads/Procurement%20Guide.pdf | Procurement Guide.pdf
+http://www.kpese.gov.pk/Downloads/Tech%20Evaluation%20Report%20-%20Third%20Party%20monitoring%20&%20provision%20of%20Technical%20Assistance%20of%20Conditional%20Grant%2025-10-2017.pdf | Tech Evaluation Report - Third Party monitoring & provision of Technical Assistance of Conditional Grant 25-10-2017.pdf
+http://www.kpese.gov.pk/Downloads/TORs%20for%20Project%20Director%20PMU.pdf | TORs for Project Director PMU.pdf
+http://www.kpese.gov.pk/Downloads/Technicla%20Evaluation%20Report%20for%20Plan%20&%20Machinery%20PITE%20.pdf | Technicla Evaluation Report for Plan & Machinery PITE .pdf
+http://www.kpese.gov.pk/Downloads/esp/ | Index of /Downloads/esp
+https://golagoon.com/income-expense-statement-template/index-of-cdn22003191-income-expense-statement-template-and-worksheet-template_2/ | Index Of Cdn22003191 Income Expense Statement Template And Worksheet 2 ~ Golagoon
+http://www.googledocstemplate.com/templates/16%20Proposals/ | Index of /templates/16 Proposals
+http://www.googledocstemplate.com/templates/ | Index of /templates
+http://www.googledocstemplate.com/templates/?C=N;O=D | Index of /templates
+
+https://www.exploit-db.com/ghdb/4907 | employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Files Containing Juicy Info GHDB Google Dork
+https://www.broadbandbullies.com/rsbze/index-of-courses.html | Page not found - Broadband Bullies
+http://www.eastpointe.net/wp-content/uploads/2019/05/ | Index of /wp-content/uploads/2019/05
+https://www.ceps.eu/wp-content/uploads/2019/11/Index-of-Readiness-for-Digital-Lifelong-Learning.pdf | Index-of-Readiness-for-Digital-Lifelong-Learning.pdf
+https://newsroom.mastercard.com/wp-content/uploads/2019/11/Mastercard-Index-of-Women-Entrepreneurs-2019.pdf | Microsoft Word - 2019-11-21 Mastercard Index of Women Entrepreneurs Report 2019 v1.3 (edited for AP changes and new summary)
+http://devpolicy.org/wp-content/uploads/wp-post-to-pdf-enhanced-cache/1/ | Index of /wp-content/uploads/wp-post-to-pdf-enhanced-cache/1/
+https://www.sec.gov/comments/s7-07-18/s70718-4190830-172805.pdf | s70718-4190830-172805.pdf
+http://www.qp.alberta.ca/documents/gazette/2019/pdf/Regindex.pdf | Regindex.pdf
+http://www.googledocstemplate.com/templates/16%20Proposals/ | Index of /templates/16 Proposals
+https://www.arcoalijares3d.com/?C=S;O=A
+https://lps.gamersanctum.com/push/monetizer/games/rpg/en/raid/ | #Best RPG 2020
+http://www.caravanindustry.com.au/wp-content/uploads/2016/07/?SA | Index of /wp-content/uploads/2016/07/
+https://foodwasteindex.se/dmvhr/quwr.php?zm=index-of-password-xls | https://foodwasteindex.se/dmvhr/quwr.php?zm=index-of-password-xls
+https://asistwellnesscenter.com/j08v80k/index-of-hacking-tools.html | Attention Required! | Cloudflare
+https://chercher.tech/images/robot-framework/?SD | Index of /images/robot-framework/
+https://vt.olddacha.ru/books/?q=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&enc=1&id=322&utm_source=https%3A%2F%2Fwww.google.com%2F&utm_term=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&utm_referrer=https%3A%2F%2Fvt.olddacha.ru%2F25&pk_campaign=https%3A%2F%2Fwww.google.com%2F&pk_kwd=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&tk=0 | https://vt.olddacha.ru/books/?q=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&enc=1&id=322&utm_source=https%3A%2F%2Fwww.google.com%2F&utm_term=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&utm_referrer=https%3A%2F%2Fvt.olddacha.ru%2F25&pk_campaign=https%3A%2F%2Fwww.google.com%2F&pk_kwd=YmF5WjNZTldMV1VFQXlWaFpZdFFxaU5OT0JxRnJ4T2YrNWlPbmhTdG5NRHBoL0taMlg3QVdDVi9GNlNjQ3FFaTVPVk1YMHFmMDRRN0IwMS9rRXBaQ1JKcExVVkJXcVVRcWdrRlcxbW5pOUhTbmxmazRjSU50ZDlCdkVCZVlCYi9qY0swUzFZR0ZVNjdqOGJ5WFE0dEl5eWJFQ051QTV2cXpSQ1NtZ3U4VlZuc1lWQlRBYXY3V2Z5TkNsTWRRQ0xx&tk=0
+https://almacenesrefrigeracion.net/cgi-sys/suspendedpage.cgi | Contact Support
+https://kalagophotography.com/cgi-sys/suspendedpage.cgi | Account Suspended
+https://gcs.civilservice.gov.uk/communication-plan-2019/index-of-campaigns/ | Index of Campaigns | Government Communication Plan 2019
+https://www.wearepes.co.uk/wordpress/wp-content/uploads/ | Index of /wordpress/wp-content/uploads
+http://www.kpese.gov.pk/Downloads/ | Index of /Downloads
+http://www.nswnma.asn.au/wp-content/uploads/2019/08/ | Index of /wp-content/uploads/2019/08/
+https://www.kvspgdwarka.edu.in/ | Index of /
+https://www.kv1madurai.ac.in/ | Index of /
+https://golagoon.com/income-expense-statement-template/index-of-cdn22003191-income-expense-statement-template-and-worksheet-template_2/ | Index Of Cdn22003191 Income Expense Statement Template And Worksheet 2 ~ Golagoon
+https://www.mrc.wa.gov.au/MindarieRegionalCouncil/files/d5/d5cdc820-4da9-4bdc-aa82-b52e3e1e74bf.pdf | d5cdc820-4da9-4bdc-aa82-b52e3e1e74bf.pdf
+https://rajendrasteelcentre.com/oehhwm/ | Index of /oehhwm/
+https://jobdashboard.in/wp-content/uploads/2019/11/?SD | Index of /wp-content/uploads/2019/11/
+http://sup5irmaos.com.br/ldxvcos/ | Index of /ldxvcos
+http://www.bsnleu.in/images/postimage/postfile/ | Index of /images/postimage/postfile
+https://www.pbctoday.co.uk/news/wp-content/uploads/2019/01/?SD | Index of /news/wp-content/uploads/2019/01/
+http://60.191.74.66:8888/ElasticSearch/wordscore/ | Index of /ElasticSearch/wordscore
+https://www.google.com/search?biw=1280&bih=529&tbs=qdr:y&sxsrf=ALeKk00OhaPLMisxYujQCc5nzQGad-LhFQ:1585104060896&q=IT+%22Contract%22+intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&tbm=isch&source=univ&sa=X&ved=2ahUKEwju6-zjzLToAhU0FTQIHaKCAf4QsAR6BAgKEAE | IT "Contract" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+https://www.montessorictr.org/forms/ | Index of /forms
+
+http://factoryvintage.com/downloads/ | Index of /downloads
+http://www.nasplmatrix.org/rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz/Employee/ | Index of /rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz/Employee
+http://www.nasplmatrix.org/rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz/ | Index of /rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz
+http://www.nasplmatrix.org/rg/toolkit/Training/ | Index of /rg/toolkit/Training
+http://www.nasplmatrix.org/rg/toolkit/Additional%20Resources/ | Index of /rg/toolkit/Additional Resources
+http://www.nasplmatrix.org/rg/toolkit/Ad%20Code%20of%20Conduct/ | Index of /rg/toolkit/Ad Code of Conduct
+http://www.nasplmatrix.org/rg/th/ | Index of /rg/th
+http://www.nasplmatrix.org/rg/training/ | Index of /rg/training
+
+https://www.exploit-db.com/ghdb/4907 | employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Files Containing Juicy Info GHDB Google Dork
+https://www.google.com/search?q=employee+%22training%22+intitle:index.of+ext:doc+%7C+pdf+%7C+xls+%7Cdocx+%7Cxlsx&sxsrf=ALeKk035iSDPrcgJv1gAyHUnKJ9_aBvhyA:1585102914695&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjWuabByLToAhWal3IEHTyMCrwQpwV6BAgNEB4&biw=1280&bih=529 | employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Google Search
+http://jobtrainingcenter.org/wp-content/uploads/2016/10/?C=D;O=D | Index of /wp-content/uploads/2016/10
+https://www.canadagap.ca/wp-content/uploads/English/Tools/Training-Resources/Other-Resources/ | Index of /wp-content/uploads/English/Tools/Training-Resources/Other-Resources/
+http://factoryvintage.com/downloads/ | Index of /downloads
+http://www.nasplmatrix.org/rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz/Employee/ | Index of /rg/toolkit/Training/A_Connecticut_EmployeeTrainingQuiz/Employee
+https://www.codot.gov/content/programs/training/FML%20Course%20Update%2003292017/Appendix%20docs/ | Index of /content/programs/training/FML Course Update 03292017/Appendix docs
+https://docs.bartonccc.edu/presidentsoffice/presidentsstaff/psmeetings/fy1819/201901/ | Index of /presidentsoffice/presidentsstaff/psmeetings/fy1819/201901
+http://www.siue.edu/human-resources/forms/pdf/ | Index of /human-resources/forms/pdf
+http://www.athens.edu/pdfs/hr/pdfs/ | Index of /pdfs/hr/pdfs
+http://www.athens.edu/pdfs/hr/ | Index of /pdfs/hr
+http://www.athens.edu/pdfs/ | Index of /pdfs
+http://www.athens.edu/pdfs/access/ | Index of /pdfs/access
+http://www.athens.edu/pdfs/academics/ | Index of /pdfs/academics
+http://www.athens.edu/pdfs/adp/ | Index of /pdfs/adp
+http://www.athens.edu/pdfs/it/ | Index of /pdfs/it
+http://www.athens.edu/pdfs/it/Cyber-Security-Awareness-Campaign.pdf | Cyber-Security-Awareness-Campaign.pdf
+http://www.athens.edu/pdfs/it/Executive-Summary-August-2013.pdf | Executive-Summary-August-2013.pdf
+http://www.athens.edu/pdfs/it/cyber-tips/ | Index of /pdfs/it/cyber-tips
+http://www.athens.edu/pdfs/it/docs/ | Index of /pdfs/it/docs
+http://www.athens.edu/pdfs/it/documents/ | Index of /pdfs/it/documents
+http://www.athens.edu/pdfs/it/Wireless-Guest.pdf | Wireless-Guest.pdf
+http://www.athens.edu/pdfs/it/Wireless-AMSTI-Library-Guest-Reg.pdf | Wireless-AMSTI-Library-Guest-Reg.pdf
+http://www.athens.edu/pdfs/library/ | Index of /pdfs/library
+http://www.athens.edu/pdfs/telecommunications/ | Index of /pdfs/telecommunications
+https://willamette.edu/offices/hr/pdf/development/training/ | Index of /offices/hr/pdf/development/training
+https://willamette.edu/offices/hr/pdf/development/ | Index of /offices/hr/pdf/development
+https://willamette.edu/offices/hr/pdf/ | Index of /offices/hr/pdf
+https://willamette.edu/offices/hr/pdf/compclass/ | Index of /offices/hr/pdf/compclass
+https://willamette.edu/offices/hr/pdf/development/ | Index of /offices/hr/pdf/development
+https://willamette.edu/offices/hr/pdf/forms/ | Index of /offices/hr/pdf/forms
+https://willamette.edu/offices/hr/pdf/plan-documents/ | Index of /offices/hr/pdf/plan-documents
+https://willamette.edu/offices/hr/pdf/policies/ | Index of /offices/hr/pdf/policies
+https://willamette.edu/offices/hr/pdf/resources/ | Index of /offices/hr/pdf/resources
+https://www.codot.gov/content/programs/training/ | Index of /content/programs/training
+http://bombaychamber.com/admin/uploaded/Reference%20Material/ | Index of /admin/uploaded/Reference Material
+
+http://cockos.com/reaper/reaper_2020_temporary_license.txt | cockos.com/reaper/reaper_2020_temporary_license.txt
+https://www.bdsanalytics.com/wp-content/plugins/slide-anything-pro/readme.txt | https://www.bdsanalytics.com/wp-content/plugins/slide-anything-pro/readme.txt
+http://tspt.in/sites/default/files/2020-02/greasymonkey-release_2.txt | tspt.in/sites/default/files/2020-02/greasymonkey-release_2.txt
+https://archive.org/stream/CompTIAACompleteStudyGuideExams220901And220902/CompTIA%20A%2B%20Certification%20Guide%20%28220-901%20and%20220-902%29_djvu.txt | Full text of "Comp TIA A+ Complete Study Guide Exams 220 901 And 220 902"
+https://plm.vn/wp-content/uploads/2019/08/Configuration-File.txt | https://plm.vn/wp-content/uploads/2019/08/Configuration-File.txt
+https://www.upload.ee/ | UPLOAD.EE
+https://www.exploit-db.com/ghdb/4907 | employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx - Files Containing Juicy Info GHDB Google Dork
+https://www.exploit-db.com/ghdb/5149 | inurl:/portal/apis/fileExplorer/ - Various Online Devices GHDB Google Dork
+https://www.exploit-db.com/ghdb/4915 | intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of" - Files Containing Juicy Info GHDB Google Dork
+https://www.exploit-db.com/ghdb/5712 | intitle:"index of" api_key OR "api key" OR apiKey -pool - Sensitive Directories GHDB Google Dork
+https://www.exploit-db.com/ghdb/5735 | intitle:"index.of" intext:"api.txt" - Files Containing Juicy Info GHDB Google Dork
+https://www.exploit-db.com/ghdb/5758 | inurl:"/includes/api/" intext:"index of /" - Sensitive Directories GHDB Google Dork
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk03kQDKDrzNrVIV2JXISvUZcFBHOsg%3A1585081283686&ei=w2t6XoLMKfifytMPoIGn6AU&q=mysql+show+table+column+names&oq=mysql+show+all+table+colu&gs_l=psy-ab.1.5.0j0i22i30l9.3553.5071..10117...0.2..0.166.806.0j6......0....1..gws-wiz.......0i71j35i39j0i67j0i20i263.9XgU2wrMyUo | mysql show table column names - Google Search
+https://www.sitepoint.com/working-with-databases-in-wordpress/ | Working with Databases in WordPress
+https://wpsultan.com/where-wordpress-pages-stored-sql/ | Where Are WordPress Pages Stored? [SQL Lookup] - WPSultan
+
+https://github.com/robertspurlin/template-to-content | robertspurlin/template-to-content: A script that places the contents of page templates in WordPress to the content box, and changes the page template to "Default".
+https://gist.github.com/jesgs/422889b187bc67cdaab912b0ad74c9e9 | WordPress Full Text Search Examples
+https://gist.github.com/minio/6982551 | query to get all posts and associated categories from Wordpress database
+https://gist.github.com/j3j5/7710b5fcab17e61b3a39178cba7d17b8 | Log all SQL queries made from Wordpress
+https://gist.github.com/fearlex/4965fe01a3bdf26b5cd5ec2ede9752f1 | Wordpress MySQL wp_options queries
+https://github.com/johnbillion/query-monitor | johnbillion/query-monitor: The Developer Tools Panel for WordPress
+https://github.com/alleyinteractive/es-wp-query | alleyinteractive/es-wp-query: A drop-in replacement for WP_Query to leverage Elasticsearch for complex queries
+https://gist.github.com/rootl/6ad43cc977c07d01b16f482bb12bec69 | MySQL WordPress sanitized Query for SUM, AVG of Downloads by Download Type. NOTES: Additional Types (ie HTML or Source Code) can be added. Query qepends on Download Monitor and Posts2Posts plugin for other WP users' ease of adding files and assigning them to posts. Grouping won't work here so I use CASE. Future plans: 1) Remove excess JOINS on tax, tax terms, and terms tables now that WordPress Core has streamlined handling Taxonomy terms. 2) Relate Posts to associated Download Types programmatically without plugins. But IMHO, if it ain't broke, don't fix it.
+https://gist.github.com/MikeNGarrett/c0abbb2b09a26727e833113c5ac99eef | Mysql query to list all WordPress posts with categories and tags
+https://gist.github.com/mikaelz/d574457cb22f1f79f337 | Remove all WooCommerce products from database via SQL
+https://gist.github.com/pauln/884e1a229d439640fbe35e848852fe0b | Simple WordPress bulk insert function
+https://gist.github.com/mglaman/8406244 | MySQL query for wooCommerce to export products.
+https://gist.github.com/ericrasch/7220890 | Fix WordPress database encoding issues with these MySQL queries... source #1: http://tanyanam.com/technology/fixing-encoding-issues-on-wordpress-comments-display-as-question-marks source #2: http://stackoverflow.com/a/3568144/284091 The 3 groups of repeated queries include the post content, post title, and the post slug.
+https://github.com/ramsaylanier/WordExpressSchema | ramsaylanier/WordExpressSchema: This package provides a connection to a WordPress database using Sequelize and provides a standard set of GraphQL queries.
+https://github.com/ibm-cloud-architecture/tutorial-vpc-3tier-networking/blob/master/WebApp.md | tutorial-vpc-3tier-networking/WebApp.md at master · ibm-cloud-architecture/tutorial-vpc-3tier-networking
+https://github.com/wp-graphql/wp-graphql | wp-graphql/wp-graphql: GraphQL API for WordPress
+https://github.com/woocommerce/woocommerce/issues/18808 | High CPU usage on sql search query · Issue #18808 · woocommerce/woocommerce
+https://github.com/ataylorme/WordPress-Hosting-Best-Practices-Documentation/blob/master/performance/performance.md | WordPress-Hosting-Best-Practices-Documentation/performance.md at master · ataylorme/WordPress-Hosting-Best-Practices-Documentation
+https://github.com/locomotivemtl/wordpress-boilerplate/blob/master/config/sample.php | wordpress-boilerplate/sample.php at master · locomotivemtl/wordpress-boilerplate
+https://github.com/davidegreenwald/How-to-Deep-Clean-Your-WordPress-MySQL-Database | davidegreenwald/How-to-Deep-Clean-Your-WordPress-MySQL-Database: A guide and snippet list to analyze and clean your WordPress MySQL database for size and performance.
+https://gist.github.com/philipz/24db02a32f0a4033125a | Docker Log Driver & MySQL General Query Log
+https://github.com/interconnectit/Search-Replace-DB/wiki/Use-Search-Replace-DB-to-migrate-Wordpress-content-to-a-Fresh-install | Use Search Replace DB to migrate Wordpress content to a Fresh install · interconnectit/Search-Replace-DB Wiki
+https://github.com/interconnectit/Search-Replace-DB | interconnectit/Search-Replace-DB: A PHP search replace tool for quickly modifying a string throughout a database. Useful for changing the base URL when migrating a WordPress site from development to production.
+https://github.com/AccelerationNet/wp-db-table-editor | AccelerationNet/wp-db-table-editor: A worpdress plugin that allows direct excel-like editing of a database table in your wordpress database.
+https://github.com/docker-library/wordpress/issues/84 | Mapping /var/www/html to existing wp folder · Issue #84 · docker-library/wordpress
+https://github.com/uglide/azure-content/blob/master/articles/app-service-web/web-sites-php-enterprise-wordpress.md | azure-content/web-sites-php-enterprise-wordpress.md at master · uglide/azure-content
+https://github.com/nezhar/wordpress-docker-compose | nezhar/wordpress-docker-compose: Easy Wordpress development with Docker and Docker Compose
+https://github.com/bigcommerce/bigcommerce-for-wordpress | bigcommerce/bigcommerce-for-wordpress: A headless commerce integration for WordPress, powered by BigCommerce
+https://github.com/azureappserviceoss/wordpress-appservice-documentation/blob/master/troubleshooting.md | wordpress-appservice-documentation/troubleshooting.md at master · azureappserviceoss/wordpress-appservice-documentation
+https://github.com/robertspurlin/template-to-content | robertspurlin/template-to-content: A script that places the contents of page templates in WordPress to the content box, and changes the page template to "Default".
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk03Bg4Bolm7WfxA66GhqWMMB5ju05A%3A1585079658412&ei=amV6XqDpGI_7-gTx0I0o&q=site%3As3.amazonaws.com++docker-compose.yaml&oq=site%3As3.amazonaws.com++docker-compose.yaml&gs_l=psy-ab.3...18780.35113..35659...4.0..1.85.1917.32......0....1..gws-wiz.UJPP5I--tLY&ved=0ahUKEwigxuvv8bPoAhWPvZ4KHXFoAwUQ4dUDCAs&uact=5 | site:s3.amazonaws.com docker-compose.yaml - Google Search
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk02e4I2Lmwq0zcU3TpHiT9Nn12Jp3Q:1585079731170&q=site:s3.amazonaws.com+docker-compose.yml&spell=1&sa=X&ved=2ahUKEwjcpMSS8rPoAhUWvJ4KHWdfA70QBSgAegQICxAn&biw=1920&bih=888 | site:s3.amazonaws.com docker-compose.yml - Google Search
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk00z21Vt5NzGv-kzGIkjXVYGeXluxQ%3A1585079871033&ei=P2Z6XrG6AYa6-gSN2JXQCQ&q=site%3As3.amazonaws.com+filtetype%3Agz&oq=site%3As3.amazonaws.com+filtetype%3Agz&gs_l=psy-ab.3...34851.43807..44175...0.0..0.219.2465.16j7j1......0....1..gws-wiz.oZ51RIpYge0&ved=0ahUKEwjx1ZzV8rPoAhUGnZ4KHQ1sBZoQ4dUDCAs&uact=5 | site:s3.amazonaws.com filtetype:gz - Google Search
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk03l23J_snwYSTY0LcKiM8Z2-YCZHA%3A1585079816035&ei=CGZ6XqXYAYzX-gSu1J-YCg&q=site%3As3.amazonaws.com+.terraform&oq=site%3As3.amazonaws.com+.terraform&gs_l=psy-ab.3...7518.9102..9405...0.0..0.102.750.10j1......0....1..gws-wiz.WgLBJZlcWSk&ved=0ahUKEwil_P-68rPoAhWMq54KHS7qB6MQ4dUDCAs&uact=5 | site:s3.amazonaws.com .terraform - Google Search
+
+http://www.ishouldntbehere.com/ | WELCOME TO DISNEY – Let's explore the world of Disney together.
+https://lastpass.com/?ac=1 | LastPass - Sign In
+
+https://www.google.com/search?q=site:s3.amazonaws.com+ext:txt+password&rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk03XuyyMNEOk8q1FaaN_wASwGn2Vuw:1585027521045&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjFiefSr7LoAhUJHjQIHZPsDxMQpwV6BAgLEB4&biw=958&bih=878 | site:s3.amazonaws.com ext:txt password - Google Search
+https://ashadocserver.s3.amazonaws.com/201_tea_trust_meet_mins.txt | TEA Trust (Coordinator : Dilip)
+https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/vol2/password.txt | https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/vol2/password.txt
+https://itprotv-notes-bucket.s3.amazonaws.com/microsoft-windows70688-authentication_authorization-092014.txt | https://itprotv-notes-bucket.s3.amazonaws.com/microsoft-windows70688-authentication_authorization-092014.txt
+https://entp-tender-production.s3.amazonaws.com/assets/47a144e5769d70c05efaa769ac0c46fe231d83e8/Runtime_Error.txt?AWSAccessKeyId=AKIAISVUXXOK32ATONEQ&Expires=1770969950&Signature=pCUmwSYGxCxCxQbDM0kN2xZQ8qQ%3D | https://entp-tender-production.s3.amazonaws.com/assets/47a144e5769d70c05efaa769ac0c46fe231d83e8/Runtime_Error.txt?AWSAccessKeyId=AKIAISVUXXOK32ATONEQ&Expires=1770969950&Signature=pCUmwSYGxCxCxQbDM0kN2xZQ8qQ%3D
+https://onelogin-screenshots.s3.amazonaws.com/dev_site/downloads/XmlLoginModule.java.txt | https://onelogin-screenshots.s3.amazonaws.com/dev_site/downloads/XmlLoginModule.java.txt
+http://aikido-health-text.s3.amazonaws.com/MagniBar%20Installation%20Password.txt | aikido-health-text.s3.amazonaws.com/MagniBar Installation Password.txt
+https://s3.amazonaws.com/Moodlenews/cheatibility.txt | https://s3.amazonaws.com/Moodlenews/cheatibility.txt
+https://teradata-docs.s3.amazonaws.com/doc/connectivity/jdbc/reference/current/samp/TJEncryptPassword.java.txt | https://teradata-docs.s3.amazonaws.com/doc/connectivity/jdbc/reference/current/samp/TJEncryptPassword.java.txt
+https://www.google.com/search?q=s3+site:amazonaws.com+filetype:log&rlz=1C1SQJL_enUS893US893&tbas=0&sxsrf=ALeKk01kumyz54QgUFbpXcq0SuNBTnMZ6A:1585074749008&ei=PVJ6Xv8Qk8j6BOC0i8AB&start=10&sa=N&ved=2ahUKEwi_o-3K37PoAhUTpJ4KHWDaAhgQ8tMDegQICxAt&biw=970&bih=870 | s3 site:amazonaws.com filetype:log - Google Search
+http://infra-cran-lb-1112742166.us-east-1.elb.amazonaws.com/bin/windows/contrib/3.5/check/crank-check.log | infra-cran-lb-1112742166.us-east-1.elb.amazonaws.com/bin/windows/contrib/3.5/check/crank-check.log
+https://s3-eu-west-1.amazonaws.com/mender-backend-logs/8434a763-0fe7-495d-9f42-e3f6f1a0ee22.log | https://s3-eu-west-1.amazonaws.com/mender-backend-logs/8434a763-0fe7-495d-9f42-e3f6f1a0ee22.log
+https://s3.amazonaws.com/wormbase/db-migration/azanium.log | https://s3.amazonaws.com/wormbase/db-migration/azanium.log
+https://s3-eu-west-1.amazonaws.com/mender-backend-logs/c126641c-204d-4d26-b280-0ca7e38f6b5f.log | https://s3-eu-west-1.amazonaws.com/mender-backend-logs/c126641c-204d-4d26-b280-0ca7e38f6b5f.log
+https://entp-tender-production.s3.amazonaws.com/assets/f2751f78c6be547cac181f7ca3ccb476ccaea08c/Console_2.log?AWSAccessKeyId=AKIAISVUXXOK32ATONEQ&Expires=1774325736&Signature=P81iqND7tWVWkZeU30WZh2nsx0A%3D | https://entp-tender-production.s3.amazonaws.com/assets/f2751f78c6be547cac181f7ca3ccb476ccaea08c/Console_2.log?AWSAccessKeyId=AKIAISVUXXOK32ATONEQ&Expires=1774325736&Signature=P81iqND7tWVWkZeU30WZh2nsx0A%3D
+
+https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html | Tutorial: Deploying a WordPress Blog on Your Amazon EC2 Instance Running Windows Server - Amazon Elastic Compute Cloud
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://www.ssl.com/article/deprecating-early-tls/ | Deprecating early TLS for a safer Internet - SSL.com
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=instanceId | Instances | EC2 Management Console
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html | Tutorial: Hosting a WordPress Blog with Amazon Linux - Amazon Elastic Compute Cloud
+https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website/ | Launch a Wordpress Website
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html | Deploying a high-availability WordPress website with an external Amazon RDS database to Elastic Beanstalk - AWS Elastic Beanstalk
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html#adding-security-group-rule | Amazon EC2 Security Groups for Linux Instances - Amazon Elastic Compute Cloud
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/registrar.html | Registering Domain Names Using Amazon Route 53 - Amazon Route 53
+https://wordpress.org/support/article/comments-in-wordpress/ | Comments in WordPress | WordPress.org
+https://wordpress.org/support/article/glossary/#phpmyadmin | Glossary | WordPress.org
+https://wordpress.org/support/category/security/ | Security | WordPress.org
+https://wordpress.org/support/category/maintenance/ | Maintenance | WordPress.org
+https://wordpress.org/support/category/customizing/ | Customizing | WordPress.org
+https://wordpress.org/support/category/advanced-topics/ | Advanced Topics | WordPress.org
+
+https://www.exploit-db.com/ghdb/5779 | intitle:"index of" accounts.xml - Files Containing Juicy Info GHDB Google Dork
+https://www.exploit-db.com/google-hacking-database | Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon
+http://ncdenr.s3.amazonaws.com/s3fs-public/Water%20Quality/Aquifer%20Protection/AFO/Other%20Reporting%20Forms/HoseDragWasteApplicationDataSheetNPDES.xls | ncdenr.s3.amazonaws.com/s3fs-public/Water Quality/Aquifer Protection/AFO/Other Reporting Forms/HoseDragWasteApplicationDataSheetNPDES.xls
+https://s3-us-west-2.amazonaws.com/greengrass-release-license/greengrass-license-v1.pdf | greengrass-license-v1.pdf
+http://help.autodesk.com.s3.amazonaws.com/sfdcarticles/kA230000000tblX/adsk_slg.pdf | Untitled
+https://s3.amazonaws.com/amo_hub_content/Association92/files/Publications/anderson_nasigguide%20CC-BY-NC-SA.pdf | anderson_nasigguide CC-BY-NC-SA.pdf
+http://jki.net.s3-website-us-east-1.amazonaws.com/full-license | Full License - JKI
+https://s3.amazonaws.com/ilok-com/iLokLicenseServerAdministratorGuide.pdf | iLokLicenseServerAdministratorGuideGMdraftKB
+http://thefoundry.s3.amazonaws.com/support/documents/LicenceTransferPolicy.pdf | LicenceTransferPolicyDoc_02.14
+https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/209978/Signing_in_to_Smart_Notebook.pdf | Signing_in_to_Smart_Notebook.pdf
+http://citilabs-website-resources.s3.amazonaws.com/resources/LICENSE_FAQ-6.4.3.PDF | License_FAQ.PDF
+http://cloudstacking.com.s3-website-us-east-1.amazonaws.com/posts/windows-product-activation-for-aws-ec2-imported-vms.html | Windows Product Activation For AWS EC2 Imported VMs - CloudStacking.com
+https://hf-files-oregon.s3.amazonaws.com/hdpstrikeforcecpg_kb_attachments/2017/12-22/e8fbca46-c08e-4c2d-9cf4-e40ab678c3e8/GuardedID%20User%20Guide%20%28Windows%29.pdf | GuardedID - Setup Complete
+http://winshuttle-help.s3.amazonaws.com/transaction/en/tsgs/10.x/6042.htm | Activating a Winshuttle license for Connect
+https://s3-eu-west-1.amazonaws.com/files-ask.hilti.com/original/1z/1zetenj8bj.pdf | HEADLINE OPTION FOR PPT IN 28PT
+https://abblibrary.s3.amazonaws.com/public/e37c1a71f3913c7585257de0006f5dcf/PLC-PNST12U-EN_REVA.pdf | PLC-PNST12U-EN_REVA.indd
+https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/0f77b33c-031e-11e9-b86b-00505692583a/forticlient-5.6.2-_rebranding-tool.pdf | FortiClient Rebranding Tool
+https://www.exploit-db.com/ghdb/5307 | s3 site:amazonaws.com intext:dhcp filetype:txt inurl:apollo - Network or Vulnerability Data GHDB Google Dork
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&tbs=qdr:y&sxsrf=ALeKk03zvM-7_oq3QCkojCetOv1f2U2fwA:1585029721684&q=filetype:xls+%22Product+Key%22&spell=1&sa=X&ved=2ahUKEwi-v5Pst7LoAhUyKX0KHbARCMEQBSgAegQIARAn&biw=1920&bih=888 | filetype:xls "Product Key" - Google Search
+http://ptg.apaczai.elte.hu/i/virus/nod32/nod32_190201.txt | ptg.apaczai.elte.hu/i/virus/nod32/nod32_190201.txt
+http://79.143.187.223/priscilla/MS%20Office%202019%20ProPlus%20Retail%20x86%20x64%20MULTi-23%20MARCH%202019%20%7BGen2%7D/Extras/Tools/Online%20KMS/Online%20KMS/ReadMe.txt | 79.143.187.223/priscilla/MS Office 2019 ProPlus Retail x86 x64 MULTi-23 MARCH 2019 %7BGen2%7D/Extras/Tools/Online KMS/Online KMS/ReadMe.txt
+https://archive.org/stream/ProductDesignAndDevelopment/Product%20Design%20and%20Development_djvu.txt | Full text of "Product Design And Development"
+http://118.25.141.241/Software.txt | 118.25.141.241/Software.txt
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=1920&bih=888&tbs=cdr%3A1%2Ccd_min%3A3%2F23%2F2018%2Ccd_max%3A3%2F23%2F2020&tbm=bks&sxsrf=ALeKk00cfTU-p5uKqyWeuTOIoAnjjdU3mQ%3A1585028331118&ei=65x5XovtBu_E0PEPqMmMkAs&q=site%3As3.amazonaws.com+ext%3A.sh&oq=site%3As3.amazonaws.com+ext%3A.sh&gs_l=psy-ab.3...7611.7611.0.8023.1.1.0.0.0.0.74.74.1.1.0....0...1c.1.64.psy-ab..0.0.0....0.XHRrJ-LFvzs | site:s3.amazonaws.com ext:.sh - Google Search
+https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/vol2/password.txt | https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/vol2/password.txt
+http://soundcraft.com.s3.amazonaws.com/downloads/software/Ui16_V1_0_Build_5763_readme.txt | soundcraft.com.s3.amazonaws.com/downloads/software/Ui16_V1_0_Build_5763_readme.txt
+https://1cyjknyddcx62agyb002-c74projects.s3.amazonaws.com/files/2014/02/PhidgetInterfaceKit.txt | https://1cyjknyddcx62agyb002-c74projects.s3.amazonaws.com/files/2014/02/PhidgetInterfaceKit.txt
+http://sdk-testresults.couchbase.com.s3.amazonaws.com/SDK-SDK/CB-5.0.0-3519/passthrough-N1QL/09-19-17/059786/2a7c85636c01d9bc38340fa319bd4cd3-N1QL.txt | sdk-testresults.couchbase.com.s3.amazonaws.com/SDK-SDK/CB-5.0.0-3519/passthrough-N1QL/09-19-17/059786/2a7c85636c01d9bc38340fa319bd4cd3-N1QL.txt
+https://s3.amazonaws.com/EULA/IAANSYS+Prestashop+User+Guide.txt | https://s3.amazonaws.com/EULA/IAANSYS+Prestashop+User+Guide.txt
+https://itprotv-notes-bucket.s3.amazonaws.com/cisco-ccnproute300101-2-1-configure_ppp-102014.txt | https://itprotv-notes-bucket.s3.amazonaws.com/cisco-ccnproute300101-2-1-configure_ppp-102014.txt
+https://noaharirawoliver.s3.amazonaws.com/robots.txt | https://noaharirawoliver.s3.amazonaws.com/robots.txt
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=1920&bih=888&tbs=qdr%3Ay&sxsrf=ALeKk01y6OfXesq2gvpCGvr8VD1qHJTu_w%3A1585029025071&ei=oZ95Xvr6A8bB0PEPovuwmA8&q=filetype%3Adoc+%7C+pdf+%7C+xls+%7C+log+%7C+txt+intext%3A%27activation+key%27+site%3A.gov&oq=filetype%3Adoc+%7C+pdf+%7C+xls+%7C+log+%7C+txt+intext%3A%27activation+key%27+site%3A.gov&gs_l=psy-ab.3...30485.36543..37772...0.5..0.76.143.2......0....1..gws-wiz.......0i71.pHpdnSKN42M&ved=0ahUKEwi6z_2ftbLoAhXGIDQIHaI9DPM4RhDh1QMICw&uact=5 | filetype:doc | pdf | xls | log | txt intext:'activation key' site:.gov - Google Search
+https://press3.mcs.anl.gov//atpesc/files/2017/08/ATPESC_2017_Track-6_8_8-9_5pm_Dubey-Software_Licensing.pdf | ATPESC_2017_Track-6_8-9_5pm_Dubey
+https://www.us-cert.gov/sites/default/files/publications/EULA.pdf | You’ve just found a great plug-in for your web browser
+https://eca.state.gov/files/bureau/open_licensing_playbook_final.pdf | open_licensing_playbook_final.pdf
+https://www.in.gov/idoa/mwbe/files/Hemp%20Licensing%20Software%20Requirements.pdf | Microsoft Word - Hemp Licensing Software Requirements
+https://dir.texas.gov/View-Search/Contracts-Detail.aspx?contractnumber=DIR-TSO-4381 | DIR-TSO-4381, Contract Detail
+https://www.exploit-db.com/ghdb/5740 | intitle:index.of "awsconfig.json" - Files Containing Juicy Info GHDB Google Dork
+https://www.exploit-db.com/ghdb/5662 | ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e - Files Containing Juicy Info GHDB Google Dork
+
+https://github.com/rampageX?after=Y3Vyc29yOnYyOpK5MjAyMC0wMy0xNFQxNzo0NTowNS0wNzowMM4Doy2q&tab=repositories | rampageX (rampageX) / Repositories
+https://github.com/rampageX/shell_scripts | rampageX/shell_scripts: 常用的一些 shell 脚本
+https://github.com/rampageX/regtweaks | rampageX/regtweaks: Windows Registry Tweaks (Win 7 - Win 10)
+https://github.com/rampageX/CyberChef | rampageX/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+https://github.com/rampageX/regional-ip-addresses | rampageX/regional-ip-addresses: A Python script that generates regional IP (IPv4) addresses per CIDR notation.. You import such IP addresses as whitelists into bypassing tools for full access of internet.
+https://github.com/rampageX/awesome-shell | rampageX/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=instanceId | Instances | EC2 Management Console
+https://www.google.com/search?q=azure+portal&rlz=1C1SQJL_enUS893US893&oq=azure&aqs=chrome.1.69i57j0l7.3539j0j1&sourceid=chrome&ie=UTF-8 | azure portal - Google Search
+https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?response_type=id_token&scope=openid%20email%20profile%20https%3A%2F%2Fmanagement.azure.com%2F.default&client_id=1a14be2a-e903-4cec-99cf-b2e209259a0f&redirect_uri=https%3A%2F%2Flabs.azure.com%2Fsignin-oidc-aad&state=a52477bd-22fb-47d7-9f24-97e390c36278&nonce=ab745000-0d0e-4eb6-81bc-054ee8bf5788&client_info=1&x-client-SKU=MSAL.JS&x-client-Ver=1.2.1&prompt=select_account&client-request-id=18ccfbe2-6d92-41bb-9a08-227e6ed48171&response_mode=fragment | Sign in to your account
+https://labs.azure.com/virtualmachines | My virtual machines - Azure Lab Services
+chrome://downloads/ | Downloads
+https://uciirvcyberpt-txa1898.slack.com/?redir=%2Ffiles-pri%2FTUF550J11-F010B4ZC733%2Fdownload%2Ffind_kit_cat_burglar.zip | Slack
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v | Enable Hyper-V on Windows 10 | Microsoft Docs
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#enable-hyper-v-using-powershell | Enable Hyper-V on Windows 10 | Microsoft Docs
+
+https://us-west-1.console.aws.amazon.com/acm/home?region=us-west-1#/ | AWS Certificate Manager
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=instanceId | Instances | EC2 Management Console
+https://infinitetab.com/install.html | Infinite Dashboard
+https://lastpass.com/?ac=1 | LastPass - Sign In
+https://www.bing.com/search?q=change%20windows%2010%20display%20brightness%20site:microsoft.com&form=B00032&ocid=SettingsHAQ-BingIA&mkt=en-US | change windows 10 display brightness site:microsoft.com - Bing
+
+https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=instanceId | Instances | EC2 Management Console
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=httpd.conf%20virtualhost%20example%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk02Tp1a-3Fg9LoO4sOc_dFq_F4cyAg%3A1585171708150&ei=_Mx7XrLjCNC4-gTKh7-oCQ&q=httpd.conf+virtualhost+example&oq=httpd%2Cconf+virtual&gs_l=psy-ab.1.2.0j0i22i30l9.9741.11995..14990...0.2..0.124.731.7j1......0....1..gws-wiz.......0i71j35i39j0i20i263.QiSSSKW3j7w | httpd.conf virtualhost example - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Configuration%20Files%20-%20Apache%20HTTP%20Server%20Version%202.4&pos=0&uri=https://httpd.apache.org/docs/2.4/configuring.html | Configuration Files - Apache HTTP Server Version 2.4
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20To%20Setup%20Apache%20Virtual%20Host%20Configuration%20(With%20Examples)&pos=0&uri=https://www.thegeekstuff.com/2011/07/apache-virtual-host/ | How To Setup Apache Virtual Host Configuration (With Examples)
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=amazon%20ec2%20apache%20virtual%20hosts%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=amazon+ec2+apache+virtual+hosts&rlz=1C1SQJL_enUS893US893&oq=amazon+ec2+apache+virtual+hosts&aqs=chrome..69i57.15087j0j4&sourceid=chrome&ie=UTF-8 | amazon ec2 apache virtual hosts - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=VHosts%3A%20Running%20Multiple%20Sites%20on%20a%20Single%20AWS%20EC2%20Instance%20-%20NOUVEAU%20Framework&pos=0&uri=https://nouveauframework.org/blog/vhosts-running-multiple-sites-on-a-single-aws-ec2-instance/ | VHosts: Running Multiple Sites on a Single AWS EC2 Instance - NOUVEAU Framework
+
+https://www.linkedin.com/jobs/search/?currentJobId=1698848227&distance=50&f_LF=f_AL&geoId=104039150&keywords=aws&location=Ontario%2C%20California%2C%20United%20States&sortBy=DD&start=225 | aws Jobs in Ontario, California, United States | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20DevOps%20Engineer%20%7C%20Data%20Analysis%20Incorporated%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1757149424/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=PRE_SCREENING_QUESTIONS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | Data Analysis Incorporated | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Investor's%20Business%20Daily%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/investors-business-daily/ | Investor's Business Daily: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Cloud%20Systems%20Administrator%20%7C%20DirectDefense%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1799396451/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Cloud Systems Administrator | DirectDefense | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Automation%20Architect%20%7C%20CoreLogic%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1798467251/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Automation Architect | CoreLogic | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Automation%20Engineer%20%7C%20CoreLogic%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1798463501/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Automation Engineer | CoreLogic | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Software%20Programmer%20%7C%20Sympo%2C%20Inc.%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1728036425/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Software Programmer | Sympo, Inc. | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Python%20Developer%20-%20Quick%20Base%20%7C%20Quantitative%20Systems%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1712883859/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Python Developer - Quick Base | Quantitative Systems | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Lead%20Serverless%20Developer%20w%2F%20AWS%20Lambda%20%7C%20PriceSenz%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1772349000/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=12931690-bf18-42ce-8c0f-468f970c681e&trk=d_flagship3_search_srp_jobs | Lead Serverless Developer w/ AWS Lambda | PriceSenz | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Golden%20State%20Foods%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/golden-state-foods/ | Golden State Foods: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sr.%20Software%20Engineer%3A%20Node.JS%2C%20NPM%2C%20Yarn%2C%20Webpack%2C%20APIs%2C%20%26%20DB%20skills%3B%20HTML%2C%20CSS%2C%20JavaScript%2FReact%20a%20%2B%20%7C%20KORE1%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1790721736/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SCHOOL_RECRUIT&refId=eea5acf4-cd2f-4c93-8d2b-8b87d9815c32&trk=d_flagship3_search_srp_jobs | Sr. Software Engineer: Node.JS, NPM, Yarn, Webpack, APIs, & DB skills; HTML, CSS, JavaScript/React a + | KORE1 | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Scopely%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/scopely/ | Scopely: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Technical%20Documentation%20Specialist%20(API%2FSDKs%2FWeb%20Technologies)%20%7C%20KORE1%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1770301066/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=eea5acf4-cd2f-4c93-8d2b-8b87d9815c32&trk=d_flagship3_search_srp_jobs | Technical Documentation Specialist (API/SDKs/Web Technologies) | KORE1 | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Presales%20Engineer%20%7C%20Logistics%20Software%20%7C%20Org%203D%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1770300501/?eBP=NotAvailableFromVoyagerAPI&refId=eea5acf4-cd2f-4c93-8d2b-8b87d9815c32&trk=d_flagship3_search_srp_jobs | Presales Engineer | Logistics Software | Org 3D | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=DevOps%20Engineer%20%7C%20Ledgent%20Technology%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1791990095/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=eea5acf4-cd2f-4c93-8d2b-8b87d9815c32&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Ledgent Technology | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Information%20Technology%20Systems%20Administrator%20%7C%20Iteris%2C%20Inc.%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1790994632/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=11cbc0b6-0902-4264-b936-6b54060affa6&trk=d_flagship3_search_srp_jobs | Information Technology Systems Administrator | Iteris, Inc. | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20DevOps%2FRelease%20Engineer%20%7C%20Kinect%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1789615639/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=11cbc0b6-0902-4264-b936-6b54060affa6&trk=d_flagship3_search_srp_jobs | Senior DevOps/Release Engineer | Kinect | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20Software%20Developer%20%E2%80%93%20Node%20%2F%20Python%20%2F%20AWS%20%E2%80%93%20Consumer%20Focused%20Tech%20%2B%20Media%20Destination%20%7C%20FILD%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1773120250/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=11cbc0b6-0902-4264-b936-6b54060affa6&trk=d_flagship3_search_srp_jobs | Senior Software Developer – Node / Python / AWS – Consumer Focused Tech + Media Destination | FILD | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20Dev%20Ops%20%7C%20Gavelytics%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1766814683/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=31f215a8-4714-49eb-a677-1fb952ddc446&trk=d_flagship3_search_srp_jobs | Senior Dev Ops | Gavelytics | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AWS%20Dev%20%7C%20Infonet%20Technologies%20LLC%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1786455591/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=31f215a8-4714-49eb-a677-1fb952ddc446&trk=d_flagship3_search_srp_jobs | AWS Dev | Infonet Technologies LLC | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20DevOps%20Engineer%20%7C%20Kinect%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1786455554/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=PRE_SCREENING_QUESTIONS&refId=31f215a8-4714-49eb-a677-1fb952ddc446&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | Kinect | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Infrastructue%2FSRE%2FDevOps%20Engineer%20%7C%20FoxNext%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1748063779/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=a9a53e6a-2c3e-421a-bc7e-fe80a3038fdf&trk=d_flagship3_search_srp_jobs | Infrastructue/SRE/DevOps Engineer | FoxNext | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Phillip%20Riley%20%3A%20Renewable%20Energy%20Recruitment%2C%20Consulting%20%26%20Contracting%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/phillip-riley/ | Phillip Riley : Renewable Energy Recruitment, Consulting & Contracting: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Pernod%20Analytics%20LLC%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/pernod-analytics/ | Pernod Analytics LLC: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Engineering%20Manager%2C%20Cloud%20Infra%20(AWS%2C%20Kubernetes%2C%20Linux)%20%7C%20HIRECLOUT%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1697497447/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=a9a53e6a-2c3e-421a-bc7e-fe80a3038fdf&trk=d_flagship3_search_srp_jobs | Engineering Manager, Cloud Infra (AWS, Kubernetes, Linux) | HIRECLOUT | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Cloud%20Software%20Engineer%20%7C%20Oracle%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1711785501/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=a9a53e6a-2c3e-421a-bc7e-fe80a3038fdf&trk=d_flagship3_search_srp_jobs | Cloud Software Engineer | Oracle | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Software%20Release%20Manager%20%7C%20AuditBoard%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1675899691/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=PRE_SCREENING_QUESTIONS&refId=a9a53e6a-2c3e-421a-bc7e-fe80a3038fdf&trk=d_flagship3_search_srp_jobs | Software Release Manager | AuditBoard | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sourceability%20LLC%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/sourceabilitygroup/ | Sourceability LLC: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20DevOps%20Engineer%20%7C%20FanAI%20Inc.%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1667395291/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | FanAI Inc. | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Senior%20Software%20Engineer%20%7C%20Energize%20Group%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1728023196/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Senior Software Engineer | Energize Group | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Energize%20Group%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/energize-group/ | Energize Group: Overview | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sr.%20Software%20Engineer%20-%20Platform%20%7C%20Collabera%20Inc.%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1759882692/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Sr. Software Engineer - Platform | Collabera Inc. | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Systems%20Automation%20and%20Validation%20Lead%20%7C%20L%26T%20Technology%20Services%20Limited%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/jobs/view/1766160116/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Systems Automation and Validation Lead | L&T Technology Services Limited | LinkedIn
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Embodied%2C%20Inc.%3A%20Overview%20%7C%20LinkedIn&pos=0&uri=https://www.linkedin.com/company/embodied-inc./ | Embodied, Inc.: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1766160116/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Systems Automation and Validation Lead | L&T Technology Services Limited | LinkedIn
+https://www.linkedin.com/jobs/view/1766111627/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=COMPANY_RECRUIT&refId=1389996c-91de-4d64-8824-94bc883afbef&trk=d_flagship3_search_srp_jobs | Principal Cloud Architect, Development Center of Excellence | NBCUniversal Media, LLC | LinkedIn
+https://www.linkedin.com/jobs/view/1767662026/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=1f098367-454a-479a-ab6f-ecddf39bd010&trk=d_flagship3_search_srp_jobs | Senior Software Engineer, Backend | Narrate | LinkedIn
+https://www.linkedin.com/jobs/view/1774724813/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=COMPANY_RECRUIT&refId=1f098367-454a-479a-ab6f-ecddf39bd010&trk=d_flagship3_search_srp_jobs | Technical Lead | NBCUniversal Media, LLC | LinkedIn
+https://www.linkedin.com/jobs/ | Jobs | LinkedIn
+https://www.linkedin.com/jobs/view/1767288500/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SCHOOL_RECRUIT&refId=1f098367-454a-479a-ab6f-ecddf39bd010&trk=d_flagship3_search_srp_jobs | Dev Ops Engineer (Systems Engineering) | Fox Corporation | LinkedIn
+https://www.linkedin.com/jobs/view/1767261697/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=1f098367-454a-479a-ab6f-ecddf39bd010&trk=d_flagship3_search_srp_jobs | System Admin | CoreTechs Direct | LinkedIn
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Connect%20to%20all%20Office%20365%20services%20in%20a%20single%20Windows%20PowerShell%20window%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/Office365/Enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window | Connect to all Office 365 services in a single Windows PowerShell window | Microsoft Docs
+https://lastpass.com/?ac=1&lpnorefresh=1 | My LastPass Vault
+chrome://settings/passwords | Settings - Passwords
+
+https://jobs.apple.com/app/en-us/apply/200076741?stepName=resume | Your Resume - DevOps Engineer - Apply Jobs: Step 1 of 3 - Jobs at Apple
+
+https://www.linkedin.com/jobs/search/?currentJobId=1713995129&distance=50&f_LF=f_AL&geoId=104039150&keywords=devops&location=Ontario%2C%20California%2C%20United%20States&sortBy=DD&start=125 | devops Jobs in Ontario, California, United States | LinkedIn
+https://www.linkedin.com/jobs/view/1768480725/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SCHOOL_RECRUIT&refId=5afe68d2-602b-445c-bb7b-b1aa3d0773f2&trk=d_flagship3_search_srp_jobs | (12) GCP DevOps Engineer (10 y.o Tech Company with F100 backing/ benefits) | KORE1 | LinkedIn
+https://www.linkedin.com/jobs/view/1625382962/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=5afe68d2-602b-445c-bb7b-b1aa3d0773f2&trk=d_flagship3_search_srp_jobs | (12) Senior DevOps Engineer | Trust In Soda Ltd | LinkedIn
+https://www.linkedin.com/company/top-10-sales-talent/ | (12) Top 10 Sales Talent: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1790973786/?eBP=NotAvailableFromVoyagerAPI&refId=5afe68d2-602b-445c-bb7b-b1aa3d0773f2&trk=d_flagship3_search_srp_jobs | (12) Customer Solutions Engineer - $25 Million Series B - 50+ Clients - 100% Retention Rate - Pre + Post Sales Role | Top 10 Sales Talent | LinkedIn
+https://www.linkedin.com/company/technossus/ | (12) Technossus: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1780318287/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=c62f7221-1726-4292-bfaa-621918163b25&trk=d_flagship3_search_srp_jobs | (12) DevOps Engineer | Vantage Point Consulting Inc. | LinkedIn
+https://www.linkedin.com/jobs/view/1774946603/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=c62f7221-1726-4292-bfaa-621918163b25&trk=d_flagship3_search_srp_jobs | (12) Sr. Cloud Engineer (Upcoming/Future Opportunity) | Alignment Healthcare | LinkedIn
+https://www.linkedin.com/jobs/view/1773185568/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=c62f7221-1726-4292-bfaa-621918163b25&trk=d_flagship3_search_srp_jobs | (12) Senior DevOps Engineer (DevSecOps) | EnterpriseAlumni | LinkedIn
+https://www.linkedin.com/jobs/view/1773107602/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=c62f7221-1726-4292-bfaa-621918163b25&trk=d_flagship3_search_srp_jobs | (12) Direct Client Requirement : Open Shift Enterprise/DevOps Administrator | Pyramid Technology Solutions | LinkedIn
+https://github.com/search?q=powershell | Search · powershell · GitHub
+https://www.linkedin.com/jobs/view/1772317814/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=b7d115d9-e003-448a-9284-92b5ec5e46e4&trk=d_flagship3_search_srp_jobs | AWS DevOps Engineer (Local to LA Only) | Planet121 | LinkedIn
+https://www.linkedin.com/jobs/view/1771674073/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=b7d115d9-e003-448a-9284-92b5ec5e46e4&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | Cast & Crew | LinkedIn
+https://www.linkedin.com/jobs/view/1771674073/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=b7d115d9-e003-448a-9284-92b5ec5e46e4&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | Cast & Crew | LinkedIn
+https://www.linkedin.com/jobs/view/1770287200/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=PRE_SCREENING_QUESTIONS&refId=b7d115d9-e003-448a-9284-92b5ec5e46e4&trk=d_flagship3_search_srp_jobs | DevOps Engineer | ektello | LinkedIn
+https://www.linkedin.com/company/wondery/ | Wondery: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1768935710/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=b7d115d9-e003-448a-9284-92b5ec5e46e4&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Edlio, LLC | LinkedIn
+https://www.linkedin.com/company/fox-corporation/ | Fox Corporation: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1667395291/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=feabff39-9d5b-48e0-a404-2f7dbd7d180e&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | FanAI Inc. | LinkedIn
+https://www.linkedin.com/company/cetera-financial-group/ | Cetera Financial Group: Overview | LinkedIn
+https://www.linkedin.com/jobs/ | (12) Jobs | LinkedIn
+https://www.linkedin.com/jobs/search/?alternateChannel=jymbii&alternateCode=seturl&currentJobId=1505153013&eBP=CwEAAAFxE4DCI_eCkEN9tZj688Xi-KMCtlwUV_KGPaqlLjggYCRp8O4cPWJo6JjzNWW2e8rWyD4phzav1Cs3sCfwVBIaYgJ91bvrlyo2fzyLkzayMbMIupbBbnCOE1LxRdKXlOfowJd2fnpoNA3MZhrjXdsmi5vJTzKvKpEeXZWxU80bVZV7NI2Gp3l0KX1OJKAJdlR0PmgYe8vk3g9Ku499hICzZedxZQn-g9NgRwzI7GG6YOF_HMltmywxGb02FapsshvmksMvXaRdAhs9EzU347QvMqVCtdbBag0q8WjKzRSPcCdr0yuNH7GZWxY9I9_dYegq5SDY4MpE1uLgdYY4tpV7tjE7GJtAwxy-og8CDwOV_r0XSwlteM8&pivotType=jymbii&recommendedFlavor=COMPANY_RECRUIT&refId=ecaddd38-ddde-4537-8a0d-ed424468d42e&start=0&trk=d_flagship3_job_home | (12) Search all Jobs | LinkedIn
+https://www.linkedin.com/jobs/view/1689472845/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=PRE_SCREENING_QUESTIONS&refId=feabff39-9d5b-48e0-a404-2f7dbd7d180e&trk=d_flagship3_search_srp_jobs | DevOps Engineer - Docker, Kubernetes | Sourceability LLC | LinkedIn
+
+https://www.linkedin.com/jobs/view/1796693462/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SCHOOL_RECRUIT&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | (11) Intermediate IT Infrastructure Specialist | Harris Computer | LinkedIn
+https://www.linkedin.com/jobs/view/1743051355/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Solutions Engineer - West | HashiCorp | LinkedIn
+https://www.linkedin.com/jobs/view/1733633147/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Product Education Engineer | HashiCorp | LinkedIn
+https://www.linkedin.com/jobs/view/1773714327/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Developer Advocate - North America | HashiCorp | LinkedIn
+https://www.linkedin.com/jobs/view/1733633147/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Product Education Engineer | HashiCorp | LinkedIn
+https://www.linkedin.com/jobs/view/1760856862/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Area VP, Sales | HashiCorp | LinkedIn
+https://www.linkedin.com/company/unitedhealth-group/ | UnitedHealth Group: Overview | LinkedIn
+https://www.linkedin.com/jobs/view/1756141996/?eBP=NotAvailableFromVoyagerAPI&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Senior Technology Consultant (DNS DevOps) | TELUS | LinkedIn
+https://www.linkedin.com/jobs/view/1780767292/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Dev Ops Engineer | QuadraMed Healthcare Identity Experts | LinkedIn
+https://www.linkedin.com/jobs/view/1749412311/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | DevOps Engineer - ArcGIS Online Hosted Services | Esri | LinkedIn
+https://www.linkedin.com/jobs/view/1749410841/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Software Developer - Site Reliability Engineering | Esri | LinkedIn
+https://www.linkedin.com/jobs/view/1749410767/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=IN_NETWORK&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Build/DevOps Engineer | Esri | LinkedIn
+https://www.linkedin.com/jobs/view/1749185652/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | DevSecOps | Esri | LinkedIn
+https://www.linkedin.com/jobs/view/1749184979/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Cloud Security Engineer | Esri | LinkedIn
+https://www.linkedin.com/jobs/view/1775913927/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=SKILL_ASSESSMENTS&refId=61ea52cc-6234-469a-aefa-a3a55df684d4&trk=d_flagship3_search_srp_jobs | Dev Ops Engineer | Harris Computer | LinkedIn
+https://www.linkedin.com/jobs/view/1772501828/?eBP=NotAvailableFromVoyagerAPI&refId=0565ed08-37db-42ae-8a1b-4bfa29f5f5bc&trk=d_flagship3_search_srp_jobs | DevOps/Linux Engineer - Canadian Union Promotions Inc. | Canadian Union Promotions | LinkedIn
+
+https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/?linkId=100000011359108#7128a7b8a8ee | How The COVID-19 Pandemic Is Fast-Tracking Digital Transformation In Companies
+https://www.openpr.com/news/1984495/indirect-procurement-outsourcing-market-2020-growth-factors | Indirect Procurement Outsourcing Market 2020 Growth Factors,
+https://www.chatmeter.com/event/webinar-how-to-manage-a-virtual-workforce-and-stay-in-touch-with-customers/ | [Webinar] How to Manage a Virtual Workforce and Stay in Touch with Customers - Chatmeter
+
+https://www.linkedin.com/in/shiva-kumar-689879165/ | (25) SHiva Kumar | LinkedIn
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Manage%20Office%20365%20with%20Office%20365%20PowerShell%20%7C%20Microsoft%20Docs&pos=300&uri=https://docs.microsoft.com/en-us/Office365/Enterprise/powershell/manage-office-365-with-office-365-powershell | Manage Office 365 with Office 365 PowerShell | Microsoft Docs
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Enable%20.NET%20Framework%203.5%20by%20using%20the%20Add%20Roles%20and%20Features%20Wizard%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/dn482071(v=win.10)?redirectedfrom=MSDN | Enable .NET Framework 3.5 by using the Add Roles and Features Wizard | Microsoft Docs
+https://docs.microsoft.com/en-us/Office365/Enterprise/powershell/why-you-need-to-use-office-365-powershell | Why you need to use Office 365 PowerShell | Microsoft Docs
+
+https://www.gastongonzalez.com/tech-blog/2016/12/16/building-a-developer-virtualization-lab-part-1-1 | Building a Developer Virtualization Lab - Part 1 — Gaston Gonzalez
+
+https://omhmorg.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx | OMHM - Documents - All Documents
+https://omhmorg.sharepoint.com/Shared%20Documents/IT/Office-365/Office-365_Powershell-Admin.pdf | Manage Office 365 with Office 365 PowerShell
+https://www.microsoft.com/en-us/sitemap.aspx | Microsoft.com Site Map
+https://www.microsoft.com/en-us/download/details.aspx?id=53127 | Download On-premises data gateway from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=39379 | Download Microsoft Power Query for Excel from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=45331 | Download Microsoft Power BI Desktop from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=50729 | Download Microsoft Power BI publisher for Excel from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=55024 | Download Presentation Translator from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=49117 | Download Office Deployment Tool from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=58494 | Download Microsoft Power BI Desktop from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=5857 | Download Office Environment Assessment Tool (OEAT): Office Compatibility from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=49030 | Download Administrative Template files (ADMX/ADML) and Office Customization Tool for Office 365 ProPlus, Office 2019, and Office 2016 from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=11454 | Download Office Migration Planning Manager (OMPM): Office Compatibility from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=31244 | Download MS Office for Healthcare and Pharmaceuticals from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=15001 | Download Office Code Compatibility Inspector (OCCI): Office Compatibility from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=46831 | Download Office App Compatibility Kit from Official Microsoft Download Center
+https://azure.microsoft.com/en-us/services/virtual-machines/secure-well-managed-iaas/ | Secure and well-managed IaaS | Microsoft Azure
+https://www.microsoft.com/en-us/download/details.aspx?id=227 | Download Office XP PIAs from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=28559 | Download Office Labs: Search Commands from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=38833 | Download Office Web Apps Server: Office Web Apps deployment simplified from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=11068 | Download Office Update Inventory Tool Version 2.1 from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=55948 | Download Office Licensing Diagnostic Tool from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=18823 | Download Office Business Applications Momentum Book from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=44064 | Download Prepare your organization - onboarding Office 365. from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=22781 | Download Learning Essentials for Microsoft Office On-Demand Demo from Official Microsoft Download Center
+https://products.office.com/en-us/sharepoint/collaboration?WT.mc_id=OAN_MSCOM-hplink-prodOfcSharepoint | SharePoint, Team Collaboration Software Tools
+https://products.office.com/en-us/exchange/email?legRedir=true&CorrelationId=410101f4-ed05-42cb-97c8-91dae822c159?legRedir=true&CorrelationId=410101f4-ed05-42cb-97c8-91dae822c159 | Enterprise Email Service for Business - MS Exchange email
+https://outlook.live.com/owa/ | Outlook – free personal email and calendar from Microsoft
+https://www.microsoft.com/en-us/cloud-platform/system-center | System Center 2016 – Datacenter Management | Microsoft
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=41950 | Download Microsoft Online Services Sign-In Assistant for IT Professionals RTW from Official Microsoft Download Center
+https://docs.microsoft.com/en-us/Office365/Enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window | Connect to all Office 365 services in a single Windows PowerShell window | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/Azuread/?view=azureadps-2.0 | AzureAD | Microsoft Docs
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=rawlingssam%2Felp_teamcity_dsl_template%3A%20proof%20of%20concept&pos=0&uri=https://github.com/rawlingssam/elp_teamcity_dsl_template | rawlingssam/elp_teamcity_dsl_template: proof of concept
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=disid-proofs%2Fdatatables-relation-management%20at%20master%20%C2%B7%20DISID%2Fdisid-proofs&pos=100&uri=https://github.com/DISID/disid-proofs/tree/master/datatables-relation-management | disid-proofs/datatables-relation-management at master · DISID/disid-proofs
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=DISID%20Corporation%20S.L.&pos=927.3333129882812&uri=https://github.com/DISID | DISID Corporation S.L.
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Technology%20Proof%20of%20Concept%20(Sample)&pos=850&uri=https://it.toolbox.com/blogs/craigborysowich/technology-proof-of-concept-sample-030510 | Technology Proof of Concept (Sample)
+https://hackernoon.com/using-proof-of-concepts-pocs-to-develop-new-software-products-a-proof-of-concept-poc-is-a-small-2o163z53 | Using Proof of Concepts (POCs) To Develop New Software Products - By Simran Pandey
+
+http://54.215.141.164/phpmyadmin/ | Page not found – Recruits
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Create%20New%20Account%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/user/register#step=1 | Create New Account | Demand Metric
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Management%20Template%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/content/project-management-template | Project Management Template | Demand Metric
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Management%20Maturity%20Assessment%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/content/project-management-maturity-assessment | Project Management Maturity Assessment | Demand Metric
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Portfolio%20Template%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/content/project-portfolio-template | Project Portfolio Template | Demand Metric
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Charter%20Template%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/content/project-charter-template | Project Charter Template | Demand Metric
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Business%20Case%20Template%20%7C%20Demand%20Metric&pos=0&uri=https://www.demandmetric.com/content/business-case-template | Business Case Template | Demand Metric
+https://www.elegantthemes.com/blog/resources/a-quick-guide-to-phpmyadmin-and-how-you-can-use-it | A Quick Guide to phpMyAdmin (And How You Can Use It) | Elegant Themes Blog
+https://docs.phpmyadmin.net/en/latest/setup.html#linux-distributions | Installation — phpMyAdmin 5.1.0-dev documentation
+http://54.183.231.145/wp-admin
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=1920&bih=937&sxsrf=ALeKk011iNj2QLsEHCUfSYDYKjwZ5qQrPw%3A1585079243068&ei=y2N6XsfTA7qr0PEPlaq86Ag&q=site%3Agist.github.com+wordpress+terraform&oq=site%3Agist.github.com+wordpress+terraform&gs_l=psy-ab.3...14706.21165..21520...1.2..0.122.1206.13j2......0....1..gws-wiz.......0i71.-192d6FFXTI&ved=0ahUKEwiH5eSp8LPoAhW6FTQIHRUVD404HhDh1QMICw&uact=5 | site:gist.github.com wordpress terraform - Google Search
+https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42 | Docker Compose FIle For Wordpress, MySQL & phpmyadmin
+https://gist.github.com/wwwebman/12b4f0123da7a67ff027b06c6bca2d73 | Docker Compose For Wordpress, Maria/MYSQL, phpMyAdmin
+https://gist.github.com/janikvonrotz/9320678 | Step by Step: Install WordPress Blog #PHP #MySQL #Nginx #phpMyAdmin #WordPress #Markdown #Ubuntu
+https://gist.github.com/imelgrat/bbc26d3d0724d29a8e0f7da5832e7767 | Create posts in WordPress from data in a MySQL database. Full article at: http://imelgrat.me/wordpress/bulk-upload-custom-posts-wordpress/
+https://gist.github.com/sivel/162913 | Database connection test script for WordPress
+https://gist.github.com/nciske/3b6b6367fdb5fa0dd26e91042b4ea309 | MySQL database transaction, using the WordPress database object $wpdb. Requires the InnoDB table format.
+https://gist.github.com/Phlow/e8f7b3835652af289a31 | MySQL Queries When Moving WordPress
+https://gist.github.com/petermblair/7916962 | A simple little script that backs up the wordpress/mysql database. It requires a ~/.wpbackup file with at least the line "SOURCE_FROM_WP" and "WPLOC=/location/of/wordpress" in it.
+https://gist.github.com/cudacoder/54b8261e2c00be90dc2fb6ffc6efa930 | [WordPress + MySQL Job] A Nomad job for running a WordPress container with a MySQL DB container.
+https://gist.github.com/otype/1716850 | Wordpress wp-config.php example for reading out credentials on cloudControl platform (MySQL Dedicated)
+https://gist.github.com/dkittell/f9080101d66834910dfd | WordPress MySQL Database Information
+https://gist.github.com/slogsdon/c0f6736f45f578e9e32f | Simple Wordpress cluster backed by MySQL and a Redis object cache, all behind HAProxy
+https://gist.github.com/romuloctba/f55763c60a484147eae753accd9d7855 | WordPress development quick and ease, using Docker and Kitematic
+https://gist.github.com/sowawa/2037654 | Wordpress for rackhub
+https://gist.github.com/5iDS/5897274 | MySQL database transaction, using the WordPress database object $wpdb. When you render a page in WordPress (front end or admin area), the $wpdb database object has already been initialised and opened up a connection to the database. Therefore we can recycle this database connection for our own needs. The $wpdb object saves the database handle as $wpdb->dbh (dbh = Database Handle). Therefore we just use $wpdb->dbh in place of our normal database handle that we’d otherwise use in PHP.
+https://gist.github.com/karlhorky/91ab5c0b2d49a022937bab11d3cf8531 | Setting up WordPress and MySQL on Windows 10 Home (Docker Toolbox)
+https://gist.github.com/petenelson/1357af581a0664e052e63275d7a2177f | WordPress: MySQL query to list user names, emails, and first & last name
+https://gist.github.com/chuckreynolds/6032234 | UPDATE: Use WP-CLI find-replace command to edit URLs in your database. https://developer.wordpress.org/cli/commands/search-replace/ Use this SQL script when changing domains on a WordPress site. Whether you’re moving from an old domain to a new domain or you’re changing from a development domain to a production domain this will work. __STEP1: always backup your database. __STEP2: change the ‘oldsite.com’ and ‘newsite.com’ variables to your own. __STEP3: make sure your database prefix is “wp_”, if it’s not then you’ll want to go through and change the prefix in each line to whatever yours is. __STEP4: copy the modified variables and the queries and paste it into phpMyAdmin or, better yet, SequelPro and run it on your database. TEST. DONE. __Changelog: — updated queries to use variables instead of editing the urls in many different areas — commented out GUID and left as optional. shouldn’t reset those. ref: codex.wordpress.org/Changing_The_Site_URL#Important_GUID_Note
+https://gist.github.com/ma499/cde6f21ecc38b7b3d1906d1fb10aacbf | Drupal -> Wordpress MySQL migration script
+https://gist.github.com/darkn3rd/56bcb2ad8c57ca8fd8bef36aa50de448 | Terraform Docker Solution
+https://gist.github.com/khjomaa/613928dd62821ff70abd371a490d1e8b | Lesson 12 - HomeWork - AWS
+https://gist.github.com/jkkitakita/f30c0dca8268cc38ef20869110375115 | [初心者歓迎] Packer + Ansible + TerraformでWordPressを構築 ref: http://qiita.com/jkkitakita/items/805bc6dcfebcdbd47c00
+https://gist.github.com/HauptJ/b152e2dcf7e64aa6e01272aa7679d53f | Terraform Server Resource Creation and Provisioning with Ansible
+https://gist.github.com/akhan4u/b40b12270cefee4d1812ff5d602b48cc | wordpress.tf
+https://gist.github.com/onnimonni/aeb5710cc12ac1745080ea7326f79371 | s3 replicated bucket with terraform
+https://gist.github.com/gionn?direction=asc&sort=updated | gionn’s gists
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=931&bih=874&sxsrf=ALeKk01k-M7bOyVofRBfjhwHsM4bRH2KLQ%3A1585075181994&ei=7VN6XuWePJjC-gTW3ZPADw&q=site%3Agithub.com+Proof+of+Concept+&oq=site%3Agithub.com+Proof+of+Concept+&gs_l=psy-ab.3...5809.54672..54948...3.0..0.208.3917.34j5j3......0....1..gws-wiz.......35i39j0i67j0i273j0j0i20i263j0i22i30j35i304i39j0i13j0i7i30j0i8i7i30.PLIZMobWk5U&ved=0ahUKEwilyaiZ4bPoAhUYoZ4KHdbuBPgQ4dUDCAs&uact=5 | site:github.com Proof of Concept - Google Search
+https://github.com/teamdigitale/daf-iotingestion-proof-of-concept | teamdigitale/daf-iotingestion-proof-of-concept: POC for Iot ingestion using Avro, Kafka and Spark Streaming. Warning: this repo is deprecated.
+https://github.com/IAIK/ZombieLoad | IAIK/ZombieLoad: Proof-of-concept for the ZombieLoad attack
+https://github.com/EdOverflow/proof-of-concepts | EdOverflow/proof-of-concepts: A little collection of fun and creative proof of concepts to demonstrate the potential impact of a security vulnerability.
+https://github.com/Esri/defense-solutions-proofs-of-concept | Esri/defense-solutions-proofs-of-concept: A repository to showcase demonstrations, prototypes and proofs of concept from the Defense Solutions Team.
+https://github.com/search?p=3&q=proof+of+concept+template&type=Repositories | Search · proof of concept template
+https://github.com/dashboard | GitHub Dashboard
+https://github.com/tenable/poc | tenable/poc: Proof of Concepts
+https://github.com/dds-utn/jpa-proof-of-concept-template | dds-utn/jpa-proof-of-concept-template
+https://github.com/framework7io/framework7-recipes | framework7io/framework7-recipes: Framework7 proof of concept templates, layouts and scripts
+https://github.com/shizgnit/ApplicationTemplate | shizgnit/ApplicationTemplate: Proof of concept providing core application functionality for future projects.
+https://github.com/rawlingssam/elp_teamcity_dsl_template | rawlingssam/elp_teamcity_dsl_template: proof of concept
+https://github.com/dhalsim/TemplateEngines | dhalsim/TemplateEngines: Template Engines Proof of Concept
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk02LP4ytolarZ6f3xJWNVUYupvtUdw:1585074641730&q=proof+of+concept+template+for+it+projects&sa=X&ved=2ahUKEwivxNmX37PoAhUSv54KHaKfDIAQ1QIoAHoECAsQAQ | proof of concept template for it projects - Google Search
+
+https://www.linkedin.com/in/michael-martin-4aba4316a/ | (5) Michael Martin | LinkedIn
+https://www.google.com/search?q=software+project+proof+of+concept&rlz=1C1SQJL_enUS893US893&oq=software+project+proof+of+concept&aqs=chrome..69i57.9054j0j1&sourceid=chrome&ie=UTF-8 | software project proof of concept - Google Search
+https://en.wikipedia.org/wiki/Proof_of_concept | Proof of concept - Wikipedia
+https://designli.co/blog/5-steps-proof-concept-successful-software-development/ | 5 Steps to a Proof of Concept for Successful Software Development | Designli Blog
+https://www.softwaresuggest.com/blog/proof-of-concept-in-software-development/ | A Complete Guide for Proof of Concept in Software Development
+https://saigontechnology.com/blog/proof-of-concept-in-software-development-5-critical-factors-to-success | Proof of Concept in Software Development: 5 Very Important Factors
+https://www.entrepreneur.com/article/307454 | Know the Difference Between Proof of Concept and Prototype
+
+https://outlook.office365.com/ecp/?rfr=Admin_o365&exsvurl=1&mkt=en-US&Realm=omhm.org | shared - Microsoft Exchange
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Kubernetes%20Engineer%20(Cloud%20Services)%20%7C%20NxT%20Level&pos=200&uri=https://jobs.crelate.com/portal/nxtlevel/job/64zxx5bibwd8ddu4cecjk6b5wh | Kubernetes Engineer (Cloud Services) | NxT Level
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=layer%2067%20load%20balance%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk00VYIK9Zs7BspKgQtqHSCFKXOhUlg%3A1584982245460&ei=5eh4Xv_dG8L5-gTHh4LYBg&q=layer+67+load+balance&oq=layer+67+load+balance&gs_l=psy-ab.3...15660.16755..17311...0.4..0.136.371.0j3......0....1..gws-wiz.......0i71j0i7i10i30j0i30j0i5i30j0i7i5i10i30j0i8i30.S_6fFubIW20&ved=0ahUKEwi_5Nz9hrHoAhXCvJ4KHceDAGsQ4dUDCAs&uact=5 | layer 67 load balance - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Loadbalancing%20FAQ%20-%20HAProxy%20Technologies&pos=0&uri=https://www.haproxy.com/blog/loadbalancing-faq/ | Loadbalancing FAQ - HAProxy Technologies
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=What%20Is%20Layer%204%20Load%20Balancing%3F%20%7C%20NGINX%20Load%20Balancer&pos=0&uri=https://www.nginx.com/resources/glossary/layer-4-load-balancing/ | What Is Layer 4 Load Balancing? | NGINX Load Balancer
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Load%20Balancing%20Layer%204%20and%20Layer%207%20%7C%20Free%20Load%20Balancer&pos=400&uri=https://freeloadbalancer.com/load-balancing-layer-4-and-layer-7/ | Load Balancing Layer 4 and Layer 7 | Free Load Balancer
+
+https://www.google.com/search?q=google+dork+s3&rlz=1C1SQJL_enUS893US893&oq=google+dork+s3&aqs=chrome..69i57j69i64.3823j0j1&sourceid=chrome&ie=UTF-8 | google dork s3 - Google Search
+https://justhackerthings.com/post/hunting-for-insecure-amazon-s3-buckets/ | Hunting For Insecure Amazon S3 Buckets – Just Hacker Things
+https://github.com/treebuilder/s3-mining | treebuilder/s3-mining: Code to check AWS S3 buckets
+https://github.com/treebuilder/s3-mining | treebuilder/s3-mining: Code to check AWS S3 buckets
+https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01 | How to search for Open Amazon s3 Buckets and their contents — https://buckets.grayhatwarfare.com
+https://twitter.com/praseudo/status/870606179935830016?lang=en | ΡRΛSΞUDΟ on Twitter: "Ultimate Google Dork to get all the valid AWS S3 Buckets. site:https://t.co/rAyEzybROY inurl:”.s3.amazonaws.com/” https://t.co/dJZ3ZvGn0v" / Twitter
+https://craighays.com/bug-bounty-hunting-tips-3-kicking-s3-buckets/ | Bug Bounty Hunting Tips #3 — Kicking S3 Buckets - Craig Hays
+https://0xpatrik.com/osint-organizations/ | OSINT Primer: Organizations (Part 3)
+https://www.exploit-db.com/ghdb/5245 | s3 site:amazonaws.com filetype:sql - Files Containing Juicy Info GHDB Google Dork
+https://securitytrails.com/blog/google-hacking-techniques | Exploring Google Hacking Techniques
+https://blog.rapid7.com/2013/03/27/open-s3-buckets/ | There's a Hole in 1,951 Amazon S3 Buckets
+https://github.com/JannisKirschner/Dorks | JannisKirschner/Dorks: Personal Collection of Awesome Google Dorks
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=958&bih=874&tbs=qdr%3Ay&sxsrf=ALeKk02MPJZqTYAoVfZlrXZkaOY6NoUeYQ%3A1585026559941&ei=_5V5Xsz-OIH1-gSngI6QDA&q=site%3A.edu+ext%3Atxt+%27activation+key%27&oq=site%3A.edu+ext%3Atxt+%27activation+key%27&gs_l=psy-ab.3...10074.18473..18766...1.0..0.94.426.5......0....1..gws-wiz.4mMlOLQ2xq0&ved=0ahUKEwiM-sGIrLLoAhWBup4KHSeAA8IQ4dUDCAs&uact=5 | site:.edu ext:txt 'activation key' - Google Search
+https://www.elcentrocollege.edu/aboutecc/news-media/Documents/E02495634%20GWG%20IT%20Certificate%20One%20Sheeter%20Sep19_v04_HIGH-AC.pdf | E02495634 GWG IT Certificate One Sheeter Sep19_v04.indd
+https://cs-people.bu.edu/ssarkar1/cs350/courses/cs350-sp20/material/sp20_slides/6_discr_event_sim.pdf | 6_discr_event_sim.pdf
+https://webarchive.library.unt.edu/eot2008/20081105155945/http://www.usdoj.gov/atr/cases/exhibits/818.pdf | 818.pdf
+http://people.cs.vt.edu/~akpaul/publications/cslim.pdf | Cslim: Automated Extraction of IoT Functionalities from Legacy C Codebases
+http://courses.cms.caltech.edu/cs24/19fa/sections/02/git.pdf | git.pdf
+https://ciis.lcsr.jhu.edu/dokuwiki/lib/exe/fetch.php?media=courses:456:2018:456-2018-05:written_proposal.pdf | fetch.php
+https://users.cs.northwestern.edu/~pdinda/Papers/ipdps18.pdf | Do Developers Understand IEEE Floating Point?
+http://www.cs.iit.edu/~oaldawud/CS201/Slides/pdf/Chapter4_Class4.pdf | Microsoft PowerPoint - Chapter4_Class4.ppt
+https://www2.cs.duke.edu/courses/cps149s/fall03/problems/waterloo.july03/allproblems.pdf | http://plg.uwaterloo.ca/~acm00/030705/A.html
+http://www.sci.utah.edu/publications/Hol2019b/Holmenws_p3hpc115s2-file1-2.pdf | Holmenws_p3hpc115s2-file1-2.pdf
+http://taoxie.cs.illinois.edu/publications/msr13-upminer.pdf | msr13-upminer.pdf
+https://crowston.syr.edu/sites/crowston.syr.edu/files/COGSYS-RS-%28HHS%29-%282015%29-%283%29.pdf | COGSYS-RS-(HHS)-(2015)-(3)
+https://it.umn.edu/sites/it.umn.edu/files/security_analysis_-_moodle_and_canvas_.pdf | security_analysis_-_moodle_and_canvas_.pdf
+https://drupal.ucsf.edu/printpdf/29 | Just a moment...
+http://cse.unl.edu/~elbaum/pre-prints/fse2014-prePrint.pdf | fse2014-prePrint.pdf
+https://zoo.cs.yale.edu/classes/cs490/04-05b/james.terry.pdf | james.terry.pdf
+https://surf-it.soe.ucsc.edu/sites/default/files/karras_report.pdf | https://surf-it.soe.ucsc.edu/sites/default/files/karras_report.pdf
+https://libraopen.lib.virginia.edu/downloads/00000007x | https://libraopen.lib.virginia.edu/downloads/00000007x
+http://www.cesm.ucar.edu/events/wg-meetings/2018/presentations/sewg/dennis.pdf | www.cesm.ucar.edu/events/wg-meetings/2018/presentations/sewg/dennis.pdf
+
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk03yJj5JYS0OVcyg5tN51D2QsPT1oA%3A1585025030224&ei=BpB5XvOcDdP99AOlpK7YCg&q=wordpress+aws&oq=wordpress+aws&gs_l=psy-ab.3..0j0i20i263j0l8.4205.4618..5651...0.2..0.174.406.1j2......0....1..gws-wiz.......0i71j0i273.XHvSa7IylDM&ved=0ahUKEwjzt4uvprLoAhXTPn0KHSWSC6sQ4dUDCAs&uact=5 | wordpress aws - Google Search
+https://login.uci.edu/duo/webauth?return_url=https%3A%2F%2Fshib.nacs.uci.edu%2Fidp%2FAuthn%2FRemoteUser%3Fconversation%3De1s2 | UCInetID Secure Web Login
+https://www.oit.uci.edu/help/duo/office-365-duo/ | Office 365 + Duo Authentication — Office of Information Technology
+https://wiki.oit.uci.edu/login.action?os_destination=%2Fdisplay%2Fpublic%2FDuo%2BSecurity%2BMulti-Factor%2BAuthentication%2B-%2BUCI%2BUser%2BGuide | Log In - OIT Confluence
+https://wiki.oit.uci.edu/display/public/Public+Documents | Public Documents - Public Documents - OIT Confluence
+https://wiki.oit.uci.edu/display/public/File+Lists | File Lists - Public Documents - OIT Confluence
+https://wiki.oit.uci.edu/display/public/How-to+articles | How-to articles - Public Documents - OIT Confluence
+https://wiki.oit.uci.edu/display/public/Decision+log | Decision log - Public Documents - OIT Confluence
+https://wiki.oit.uci.edu/display/public/Meeting+notes | Meeting notes - Public Documents - OIT Confluence
+https://login.uci.edu/ucinetid/webauth?return_url=https://shib.nacs.uci.edu/idp/Authn/RemoteUser?conversation=e2s1 | UCInetID Secure Web Login
+
+https://pear.php.net/package/PEAR | PEAR
+
+https://www.google.com/search?q=site:gist.github.com+wordpress&rlz=1C1SQJL_enUS893US893&tbs=qdr:y&sxsrf=ALeKk02n0QjG7linxj7Sf7izOZM7e0puIQ:1585024608402&ei=YI55XqSUGJf2-gSAmqroBw&start=30&sa=N&ved=2ahUKEwikxPnlpLLoAhUXu54KHQCNCn04FBDy0wN6BAgMEDA&biw=958&bih=874 | site:gist.github.com wordpress - Google Search
+https://gist.github.com/boogah/384539/ec83f54268558dff41795670d3dc238a74bf2cde | Things I've learned by being a WordPress nerd.
+https://gist.github.com/tinotriste/5387124 | Wordpress: Breadcrumbs function
+https://gist.github.com/tlongren/2e0c748e486a59e16dab0a6c2c4d9b05 | WordPress Hardening
+https://gist.github.com/Rarst/1370155 | WordPress coding standards configuration for PhpStorm
+https://gist.github.com/BFTrick/11294357 | Download & Install WordPress via Curl
+https://gist.github.com/lumpysimon/10072073 | A .gitignore file for WordPress that ignores pretty much everything except for the specified plugin(s), theme(s) and mu-plugins folder
+https://gist.github.com/Rarst/32de5f59b9aa3e713666 | WordPress File Templates for PhpStorm.
+https://gist.github.com/BFTrick/7040403 | Use the gettext WordPress filter to change any translatable string.
+https://gist.github.com/bgallagh3r/2853221 | Wordpress: Bash Install Script -- Downloads latest WP version, updates wp-config with user supplied DB name, username and password, creates and CHMOD's uploads dir, copies all the files into the root dir you run the script from, then deletes itself!
+https://gist.github.com/mjangda/7fcafffda4c6c5c1de18c4af647bd111 | How to connect ngrok to your local WordPress environment (props @danreylop)
+https://gist.github.com/Adirael/3383404 | Fix wordpress file permissions
+https://gist.github.com/wpscholar/86c236469f3610400f8a | Create a new admin user in WordPress via code. Drop this file in the mu-plugins directory and update the variables, then load a page in WordPress to create the user. Remove the file when done.
+https://gist.github.com/glueckpress/6befeb937da89025d4d8 | [WordPress] Sample Admin Notices
+https://gist.github.com/stormwarning/8099753 | WordPress PROTIPs
+https://gist.github.com/cferdinandi/9273447 | Two simple functions for getting the ID of next and previous pages (not posts) in Wordpress. Forked from the "Next Page, Not Next Post" plugin by Matt McInvale. http://wordpress.org/plugins/next-page-not-next-post/
+https://gist.github.com/butlerblog/c5c5eae5ace5bdaefb5d | Configure WordPress wp_mail function to send through SMTP server http://b.utler.co/Y3
+https://gist.github.com/certainlyakey/11363872 | Wordpress - allow editors edit menus
+https://gist.github.com/atomtigerzoo/7b32bd26668e9f471e503c85e345e942 | Wordpress: Disable Yoast SEO on Custom Post Type
+https://gist.github.com/michaelfox/5434714 | Create a user in WordPress from a php page/script outside of the WordPress system.
+https://gist.github.com/matthewjackowski/062be03b41a68edbadfc | Varnish 4 VCL configuration for WordPress. Also allows purging
+https://gist.github.com/galengidman/8b84770a2dcc9abb8bfe | WordPress search form & results for custom post type
+https://gist.github.com/carlodaniele/5b8343dd17a64c69d04459bffad2312c | A Must-use plugin to filter active plugins in on a per-page basis.
+https://gist.github.com/franz-josef-kaiser/6902888 | AJAX in WordPress. Class based example.
+https://gist.github.com/pragmatic-web/1885364 | WordPress function to add the TinyMCE WYSIWYG editor to any custom field of type 'Textarea'
+https://gist.github.com/loorlab/028d9fca02e6e4f85d1a | Disable zlib.output_compression on WordPress : Notice: ob_end_flush(): failed to send buffer of zlib output compression (1) in /path/wp-includes/functions.php on line 3282 via https://core.trac.wordpress.org/ticket/18525
+https://gist.github.com/eteubert/293e07a49f56f300ddbb | Multisite: Passwort Reset on Local Blog
+https://gist.github.com/keesiemeijer/1286ab6695462cf6cf793569c6c356b8 | A bash script to update everything WordPress (core, plugins, themes and comments).
+https://gist.github.com/rkttu/f04cbd43d9860872ac5e88836f4d1654 | Deploy WordPress in K3S Cluster (based on Kubernetes Official Documentation)
+https://gist.github.com/anonymous/b4c1ede6d146d0d34464ae185d9656f8 | Wordpress email contract form plugin
+https://make.wordpress.org/core/handbook/tutorials/installing-a-local-server/installing-vvv/ | Installing VVV – Make WordPress Core
+https://varyingvagrantvagrants.org/ | Varying Vagrant Vagrants | Documentation for the open source Vagrant configuration for developing with WordPress.
+https://varyingvagrantvagrants.org/docs/en-US/installation/ | Installation | Varying Vagrant Vagrants
+https://make.wordpress.org/core/handbook/tutorials/ | Tutorials & Guides – Make WordPress Core
+https://make.wordpress.org/core/handbook/ | Core Contributor Handbook – Make WordPress Core
+https://make.wordpress.org/core/handbook/tutorials/installing-a-vcs/ | Installing a Version Control System – Make WordPress Core
+https://make.wordpress.org/core/handbook/tutorials/working-with-patches/ | Working with Patches – Make WordPress Core
+https://make.wordpress.org/core/handbook/tutorials/trac/ | Working with Trac – Make WordPress Core
+https://make.wordpress.org/core/handbook/tutorials/installing-a-local-server/ | Installing a Local Server – Make WordPress Core
+
+https://developer.wordpress.org/ | WordPress Developer Resources | Official WordPress Developer Resources
+https://developer.wordpress.org/apis/ | Common APIs Handbook | WordPress Developer Resources
+https://developer.wordpress.org/reference/ | Reference | WordPress Developer Resources
+https://developer.wordpress.org/coding-standards/ | Best Practices | Coding Standards Handbook | WordPress Developer Resources
+https://developer.wordpress.org/block-editor/ | Block Editor Handbook | WordPress Developer Resources
+https://developer.wordpress.org/themes/ | Theme Developer Handbook | WordPress Developer Resources
+https://developer.wordpress.org/plugins/ | Plugin Developer Handbook | WordPress Developer Resources
+https://developer.wordpress.org/cli/commands/ | Commands | WordPress Developer Resources
+https://developer.wordpress.org/rest-api/ | REST API Handbook | WordPress Developer Resources
+https://developer.wordpress.org/resource/dashicons/#arrow-left-alt | Dashicons | WordPress Developer Resources
+
+https://pear.php.net/package/PEAR | PEAR
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Site%20Health%20Status%20%E2%80%B9%20Recruits%20%E2%80%94%20WordPress&pos=300&uri=http://54.183.231.145/wp-admin/site-health.php | Site Health Status ‹ Recruits — WordPress
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Server%20Environment%20%E2%80%93%20Make%20WordPress%20Hosting&pos=1301.3333740234375&uri=https://make.wordpress.org/hosting/handbook/handbook/server-environment/#php-extensions | Server Environment – Make WordPress Hosting
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Plugins%20%E2%80%B9%20Recruits%20%E2%80%94%20WordPress&pos=0&uri=http://54.183.231.145/wp-admin/plugins.php | Plugins ‹ Recruits — WordPress
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Writing%20Settings%20%E2%80%B9%20Recruits%20%E2%80%94%20WordPress&pos=305.3333435058594&uri=http://54.183.231.145/wp-admin/options-writing.php | Writing Settings ‹ Recruits — WordPress
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=phpMyAdmin&pos=0&uri=https://www.phpmyadmin.net/ | phpMyAdmin
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=php%20module%20install%20-%20Google%20Search&pos=300&uri=https://www.google.com/search?q=php+module+install&rlz=1C1SQJL_enUS893US893&oq=php+module+install&aqs=chrome..69i57.5399j0j1&sourceid=chrome&ie=UTF-8 | php module install - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PHP%3A%20Apache%202.x%20on%20Unix%20systems%20-%20Manual&pos=2100&uri=https://www.php.net/manual/en/install.unix.apache2.php | PHP: Apache 2.x on Unix systems - Manual
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PHP%3A%20FastCGI%20Process%20Manager%20(FPM)%20-%20Manual&pos=0&uri=https://www.php.net/manual/en/install.fpm.php | PHP: FastCGI Process Manager (FPM) - Manual
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20to%20install%20PHP%20modules%20%7C%20DigitalOcean&pos=1200&uri=https://www.digitalocean.com/community/questions/how-to-install-php-modules | How to install PHP modules | DigitalOcean
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=wordpress%20php%20module%20config%20-%20Google%20Search&pos=1100&uri=https://www.google.com/search?q=wordpress+php+module+config&rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk00ZeuWYuxTW5ZFh-F9bdconMIl6pQ:1585005779860&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwiyr-bT3rHoAhVuHjQIHX1bB7cQpwV6BAgNEB0&biw=1280&bih=578 | wordpress php module config - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Install%20different%20PHP%20modules&pos=1200&uri=https://docs.bitnami.com/installer/apps/wordpress/configuration/install-modules-php/ | Install different PHP modules
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20to%20Install%20WordPress%20with%20LAMP%20on%20Debian%2010%20%7C%20DigitalOcean&pos=6500&uri=https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-debian-10 | How to Install WordPress with LAMP on Debian 10 | DigitalOcean
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20to%20Install%20Wordpress%20On%20CentOS%207%20%7C%20Liquid%20Web&pos=0&uri=https://www.liquidweb.com/kb/how-to-install-wordpress-on-centos-7/ | How to Install Wordpress On CentOS 7 | Liquid Web
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PECL%20%3A%3A%20Package%20search&pos=0&uri=https://pecl.php.net/package-search.php | PECL :: Package search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PECL%20%3A%3A%20Package%20search&pos=20&uri=https://pecl.php.net/package-search.php?pkg_name=dom | PECL :: Package search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PECL%20%3A%3A%20Package%20%3A%3A%20dom_varimport&pos=180&uri=https://pecl.php.net/package/dom_varimport | PECL :: Package :: dom_varimport
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=DmitryKoterov%2Fdom_varimport%3A%20dom_varimport%3A%20a%20simple%20PHP%20extension%20to%20convert%20nested%20arrays%20into%20DOMDocument&pos=2100&uri=https://github.com/DmitryKoterov/dom_varimport | DmitryKoterov/dom_varimport: dom_varimport: a simple PHP extension to convert nested arrays into DOMDocument
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PECL%20%3A%3A%20Package%20%3A%3A%20domxml&pos=0&uri=https://pecl.php.net/package/domxml | PECL :: Package :: domxml
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=somhm-solutions%20(Michael%20Martin)&pos=0&uri=https://github.com/somhm-solutions | somhm-solutions (Michael Martin)
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk00Kb3nzLBo4ktdfHMhEfZbv7aRpNw%3A1585013396989&ei=lGJ5Xo7zO4mFtQay7ZC4DA&q=7ZIP&oq=7ZIP&gs_l=psy-ab.3..35i39j0i131i273j0l3j0i10j0l4.5182.13723..14118...3.4..3.251.2007.0j13j2......0....1..gws-wiz.....10..0i71j0i7i10i30j0i8i7i30j0i22i30j0i22i10i30j35i362i39j0i273j0i131.4AIV3FSrBf0&ved=0ahUKEwiOjfeD-7HoAhWJQs0KHbI2BMcQ4dUDCAs&uact=5 | 7ZIP - Google Search
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=7-Zip&pos=0&uri=https://www.7-zip.org/ | 7-Zip
+
+https://www.youtube.com/watch?v=HoJrCGlCYds&list=PLm6Z4vpjAA6GteDJoDtRS_-tuj7512sm5 | (1) 02 How To Assign+ Remove Office 365 licenses to users by Deepak Sumbria - YouTube
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Tips%20and%20Tricks%20for%20the%20Ultimate%20Office%20365%20administration%20%7C%20Please%20Subscribe%20and%20support%20us%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=HBPBzEd6o4I&t=0s | Tips and Tricks for the Ultimate Office 365 administration | Please Subscribe and support us - YouTube
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(1)%20Exchange%20Server%202016%20Recipient%20Types%20Exchange%20Mailbox%2C%20Group%2C%20Contacts%20%26%20Shared%20Mailbox%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=NBbyFd7Y1ec&list=PLtWXonZV3rt5z6iaYgRts3zw-PyOB35IG&index=4&t=73s | (1) Exchange Server 2016 Recipient Types Exchange Mailbox, Group, Contacts & Shared Mailbox - YouTube
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(1)%20Load%20balancing%20in%20Layer%204%20vs%20Layer%207%20with%20HAPROXY%20Examples%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=aKMLgFVxZYk&t=444s | (1) Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples - YouTube
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Microsoft%20Power%20BI%3A%20An%20admin%E2%80%99s%20look%20-%20BRK2038%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=Og5cQbk1DUo&t=0s | Microsoft Power BI: An admin’s look - BRK2038 - YouTube
+https://tasks.office.com/omhm.org/en-US/Home/Planner/#/planhub | Hub - Planner
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Microsoft%20365%20admin%20center%20-%20Payment%20methods&pos=0&uri=https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252Fae77022c-2c14-4e0b-aa2f-7a54bd39add9 | Microsoft 365 admin center - Payment methods
+https://admin.exchange.microsoft.com/#/mailboxes | Exchange Admin Center
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Learn%20more%20about%20the%20Exchange%20Online%20Remote%20PowerShell%20Module%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/previous-versions/exchange-server/exchange-160/mt775191(v=exchg.160)?redirectedfrom=MSDN | Learn more about the Exchange Online Remote PowerShell Module | Microsoft Docs
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Omhm%20-%20Azure%20Active%20Directory%20admin%20center&pos=0&uri=https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/GroupDetailsMenuBlade/Overview/groupId/64fce779-127a-449a-a053-df39ed001daa | Omhm - Azure Active Directory admin center
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=SharePoint&pos=0&uri=https://omhmorg.sharepoint.com/_layouts/15/sharepoint.aspx | SharePoint
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=OMHM%20-%20Documents%20-%20All%20Documents&pos=0&uri=https://omhmorg.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx | OMHM - Documents - All Documents
+
+chrome://settings/ | Settings
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Remote%20Desktop&pos=0&uri=https://remotedesktop.google.com/access/ | Chrome Remote Desktop
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Domains%20FAQ%20-%20Microsoft%20365%20admin%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#bkmk_verifynonprofit | Domains FAQ - Microsoft 365 admin | Microsoft Docs
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=SharePoint%20admin%20center&pos=0&uri=https://omhmorg-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home | SharePoint admin center
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Microsoft%20365%20admin%20center%20-%20All%20admin%20centers&pos=0&uri=https://admin.microsoft.com/Adminportal/Home?source=applauncher#/alladmincenters | Microsoft 365 admin center - All admin centers
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Power%20Platform%20admin%20center&pos=0&uri=https://admin.powerplatform.microsoft.com/environments | Power Platform admin center
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Microsoft%20Power%20Apps&pos=0&uri=https://admin.powerapps.com/environments | Microsoft Power Apps
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Home%20-%20Security%20%26%20Compliance&pos=0&uri=https://protection.office.com/homepage | Home - Security & Compliance
+https://outlook.office365.com/ecp/?rfr=Admin_o365&exsvurl=1&mkt=en-US&Realm=omhm.org | groups - Microsoft Exchange
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=My%20Dashboard%20-%20Azure%20Active%20Directory%20admin%20center&pos=0&uri=https://aad.portal.azure.com/#@omhm.org/dashboard/private/083b14c8-d849-42d5-95a8-6893d6267019 | My Dashboard - Azure Active Directory admin center
+
+chrome://settings/passwords | Settings - Passwords
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Instances%20%7C%20EC2%20Management%20Console&pos=0&uri=https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Instances:sort=availabilityZone | Instances | EC2 Management Console
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=EC2%20Management%20Console&pos=0&uri=https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#Home: | EC2 Management Console
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=S3%20Management%20Console&pos=0&uri=https://s3.console.aws.amazon.com/s3/home?region=us-west-1 | S3 Management Console
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=15%20Ways%20to%20Bypass%20the%20PowerShell%20Execution%20Policy&pos=7500&uri=https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/ | 15 Ways to Bypass the PowerShell Execution Policy
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Get%20started%20with%20Docker%20for%20Windows%20%7C%20Docker%20Documentation&pos=0&uri=https://docs.docker.com/docker-for-windows/?utm_source=docker4win_2.2.0.4&utm_medium=docs&utm_campaign=referral | Get started with Docker for Windows | Docker Documentation
+https://aws.amazon.com/console/ | AWS Management Console
+https://www.google.com/search?q=docker+wordpress+aws&rlz=1C1SQJL_enUS893US893&oq=docker+wordpress+aws&aqs=chrome..69i57.10318j0j1&sourceid=chrome&ie=UTF-8 | docker wordpress aws - Google Search
+https://spin.atomicobject.com/2019/04/19/wordpress-in-docker/ | Building a Wordpress in Docker (Wordpress w/AWS & CloudFlare, Part 1)
+https://hackernoon.com/headless-wordpress-cms-on-aws-b64c9da8b9b5 | Headless Wordpress CMS on AWS - By
+https://serifandsemaphore.io/how-to-host-wordpress-like-a-boss-b5993fcfbd8e?gi=104a7e39b3dd | How to Host WordPress Like a Boss - Serif & Semaphore
+
+
+https://www.linkedin.com/jobs/view/1784010202/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Trust In Soda Ltd | LinkedIn
+https://www.linkedin.com/jobs/view/1752491084/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Sr. DevOps Engineer/Sys. Admin. | Novo Technologies USA | LinkedIn
+https://www.linkedin.com/jobs/view/1794486165/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Technical Project Manager | STAND 8 Technology Services | LinkedIn
+https://www.linkedin.com/jobs/view/1792331639/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Senior Infrastructure Engineer | Trust In Soda Ltd | LinkedIn
+https://www.linkedin.com/jobs/view/1726105791/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=COMPANY_RECRUIT&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Full Stack Solutions Architect | Perficient | LinkedIn
+https://www.linkedin.com/jobs/view/1800792643/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | AllSTEM Connections | LinkedIn
+https://www.linkedin.com/jobs/view/1794471711/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=COMPANY_RECRUIT&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Aisera | LinkedIn
+https://www.linkedin.com/jobs/view/1800727538/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Cloud Solutions Security Architect | Fowler Placement Services | LinkedIn
+https://www.linkedin.com/jobs/view/1785080946/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Cypress HCM | LinkedIn
+https://www.linkedin.com/jobs/view/1741585170/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | 1st Presales consultant on the West Coast - Cloud Native Technology Start-UP - $115mil Funding - Series C | Orama Solutions | LinkedIn
+https://www.linkedin.com/jobs/view/1787827056/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Vianai Systems, Inc. | LinkedIn
+https://www.linkedin.com/jobs/view/1800117468/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Cloud/DevOps Solutions Architect - Southern CA | Taos | LinkedIn
+https://www.linkedin.com/jobs/view/1706388424/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=4fdda37b-4cf2-4c0b-91fe-a300b62909da&trk=d_flagship3_search_srp_jobs | Salesforce Program/Enterprise Architect | nitruc | LinkedIn
+
+https://www.linkedin.com/jobs/search/?f_E=2&f_LF=f_AL&geoId=102095887&keywords=devops&location=California%2C%20United%20States&sortBy=DD | devops Jobs in California, United States | LinkedIn
+https://www.linkedin.com/in/devops-engineer-0ba4b1146/ | Devops Engineer | LinkedIn
+https://www.linkedin.com/in/david-chi-5508682a/ | David Chi | LinkedIn
+https://www.linkedin.com/jobs/view/1800838085/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=81435531-6ec8-4eb9-8db6-2d3fc1ab85cf&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Jobspring Partners | LinkedIn
+https://www.linkedin.com/jobs/view/1794483890/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=81435531-6ec8-4eb9-8db6-2d3fc1ab85cf&trk=d_flagship3_search_srp_jobs | Full Stack Developer - 20-01727 | Infinity Consulting Solutions | LinkedIn
+https://www.linkedin.com/jobs/view/1800799484/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=81435531-6ec8-4eb9-8db6-2d3fc1ab85cf&trk=d_flagship3_search_srp_jobs | Senior DevOps Engineer | Rockhammer Talent Solutions | LinkedIn
+https://www.linkedin.com/jobs/view/1792321235/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | DevOps Engineer / Kubernetes | Workbridge Associates | LinkedIn
+https://www.linkedin.com/jobs/view/1792321232/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | Site Reliability Engineer / AWS / Terraform | Workbridge Associates | LinkedIn
+https://www.linkedin.com/jobs/view/1792322116/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | Site Reliability Engineer / AWS | Workbridge Associates | LinkedIn
+https://www.linkedin.com/jobs/view/1787561169/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Jobspring Partners | LinkedIn
+https://www.linkedin.com/jobs/view/1787558770/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | AWS Linux DevOps Engineer | Jobspring Partners | LinkedIn
+https://www.linkedin.com/jobs/view/1786486103/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | Mid-Level DevOps Engineer | Workbridge Associates | LinkedIn
+https://www.linkedin.com/jobs/view/1785709097/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | Fullstack Node Developer / DevOps / 200k / Streaming | Jobspring Partners | LinkedIn
+https://www.linkedin.com/jobs/view/1783432137/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | DevOps Engineer / West Los Angeles / up to $165,000 per year | Workbridge Associates | LinkedIn
+https://www.linkedin.com/jobs/view/1697423508/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | DevOps Engineer | Nefeli Networks, Inc. | LinkedIn
+https://www.linkedin.com/jobs/view/1756718940/?eBP=NotAvailableFromVoyagerAPI&recommendedFlavor=JOB_SEEKER_QUALIFIED&refId=55b25882-d216-451d-b7f9-9ef89138bbab&trk=d_flagship3_search_srp_jobs | DevOps Engineer/ Kubernetes/Ansible/Terraform/Campbell | Jobspring Partners | LinkedIn
+
+https://docs.google.com/document/d/145JsFCJtv6YwhVbJda2UCrMFAKzpfmbrqk2xRPsUg2M/edit | CoverLetter-Michael Martin - Google Docs
+https://docs.google.com/document/d/1qITu3EUdbsR7AWOjubL5nLbRw24G8v3BoAKVGn3I_bQ/edit | Copy of CoverLetter-Michael Martin - Google Docs
+https://www.f5.com/c/app-protect/app-threats/article/integrate-security-into-a-devops-environment?utm_medium=cpc&utm_source=google&utm_campaign=amer-appthreats_pid21145&utm_content=article--generic-&campaignid=9108552921&adgroupid=91732280123&gclid=CjwKCAjwguzzBRBiEiwAgU0FT2Gj75LEyv3W1znsntUedcMopDzzug_9bP_QtSCTDcUhJIc9j3QXqxoCIakQAvD_BwE | Integrate Security into a DevOps Environment
+
+http://www.parkcrestconstructioninc.com/commercial-property/ | Commercial Property Los Angeles - Parkcrest Construction Inc.
+https://porch.com/ontario-ca/general-contractors/parkcrest-construction-inc-27521018/pp | PARKCREST CONSTRUCTION INC. General Contractor - Ontario, CA. Projects, photos, reviews and more | Porch
+https://porch.com/ontario-ca/general-contractors/parkcrest-construction-inc-27521018/pp | PARKCREST CONSTRUCTION INC. General Contractor - Ontario, CA. Projects, photos, reviews and more | Porch
+http://www.parkcrestconstructioninc.com/ | Los Angeles Construction Company - Parkcrest Construction Inc.
+
+https://www.linkedin.com/in/rajesh-thakur-5397a24/ | (7) Rajesh Thakur | LinkedIn
+https://www.linkedin.com/in/dmytro-diedukhov-4126aa36/ | (7) Dmytro Diedukhov | LinkedIn
+https://www.linkedin.com/in/mohmed-0b223b188/ | (7) Mohmed MB | LinkedIn
+https://www.linkedin.com/in/marco-esparza-9b8247149/ | (7) Marco Esparza | LinkedIn
+https://www.linkedin.com/in/vinay-reddy-6b463619a/ | (7) Vinay Reddy | LinkedIn
+https://www.linkedin.com/in/laurenlangdell/ | Lauren Langdell | LinkedIn
+https://www.linkedin.com/in/anand-babu-saragadam-965961172/ | Anand Babu Saragadam | LinkedIn
+https://www.linkedin.com/in/michael-atuokwu-5894a27b/ | Michael Atuokwu | LinkedIn
+https://www.linkedin.com/in/kent-minagawa/ | (7) Kent Minagawa | LinkedIn
+https://www.linkedin.com/in/swathi-reddy-9b4b76119/ | (7) Swathi Reddy | LinkedIn
+https://www.linkedin.com/in/ramezguirguis/ | (7) Ramez Guirguis | LinkedIn
+https://www.linkedin.com/in/ben-gray-6117207/ | (7) Ben Gray | LinkedIn
+https://www.linkedin.com/in/jwcha/ | (7) Justin Cha | LinkedIn
+https://www.linkedin.com/in/sowmya-gottumukkala-7b2000162/ | (7) sowmya gottumukkala | LinkedIn
+https://www.linkedin.com/company/jet-propulsion-laboratory/ | NASA Jet Propulsion Laboratory: Overview | LinkedIn
+
+https://www.linkedin.com/in/divya-p-78858013a/ | Divya P | LinkedIn
+https://www.linkedin.com/in/luressa-rinas-358aa071/ | (7) Luressa Rinas | LinkedIn
+https://www.linkedin.com/in/nandha-vamshi-604a01158/ | Nandha Vamshi | LinkedIn
+https://www.linkedin.com/in/eric-lurie-8033032a/ | Eric Lurie | LinkedIn
+https://www.linkedin.com/in/mattgarman/ | (7) Matt Garman | LinkedIn
+https://www.linkedin.com/in/abigailfuller/ | Abby Fuller | LinkedIn
+https://www.linkedin.com/search/results/people/ | Search | LinkedIn
+https://www.linkedin.com/in/manoj-g-0913/ | (7) Manoj Reddy | LinkedIn
+https://www.linkedin.com/in/taylor-s-obrien/ | Taylor S. O'Brien | LinkedIn
+https://www.linkedin.com/in/kateavelineedwards/ | Kate Aveline Edwards | LinkedIn
+https://www.linkedin.com/in/larry-marx-13910b44/ | Larry Marx | LinkedIn
+https://www.linkedin.com/in/davidjschwab/ | David Schwab | LinkedIn
+https://www.linkedin.com/in/ken-exner-b914542/ | Ken Exner | LinkedIn
+https://www.linkedin.com/in/rajugulabani/ | Raju Gulabani | LinkedIn
+https://www.linkedin.com/in/troy-evarts-6824887/ | Troy Evarts | LinkedIn
+https://www.linkedin.com/in/ajay-kumar-lingampally-653744190/ | ajay kumar lingampally | LinkedIn
+https://www.linkedin.com/in/anushri-mainthia/ | Anushri Mainthia | LinkedIn
+https://www.linkedin.com/in/rahulssharma/ | Rahul Sharma | LinkedIn
+https://www.linkedin.com/in/anuragkatre/ | anurag katre | LinkedIn
+https://www.linkedin.com/in/alex-dunlap-8866063/ | Alex Dunlap | LinkedIn
+https://www.linkedin.com/in/kurtkufeld/ | Kurt Kufeld | LinkedIn
+https://www.linkedin.com/in/katyalsandeep/ | Sandeep Katyal | LinkedIn
+https://www.linkedin.com/search/results/people/ | Search | LinkedIn
+
+https://www.linkedin.com/in/paul-chavez-7169226/ | (7) Paul Chavez | LinkedIn
+https://www.linkedin.com/in/derek-lai-a34408/ | (7) Derek Lai | LinkedIn
+https://www.linkedin.com/in/jaime-murillo-0963ba40/ | (7) Jaime Murillo | LinkedIn
+https://www.linkedin.com/in/richard-tan-879a572/ | (7) Richard Tan | LinkedIn
+https://www.linkedin.com/in/sconrad5337/ | (7) Scott Conrad | LinkedIn
+https://www.linkedin.com/in/kaizer/ | (7) Kaizer Sogiawala | LinkedIn
+https://www.linkedin.com/in/mrcharlestephen/ | (7) Charles Thompson | LinkedIn
+https://www.linkedin.com/in/akarsh-thodupunuri-33b29ab6/ | (7) Akarsh Thodupunuri | LinkedIn
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk0137q1172gqdH419xXUzEFlgqyddg%3A1585134732126&ei=jDx7XoCnB7ez0PEPlu2hiA8&q=jenkins+configuration+as+code+ansible&oq=jenkins+configuration+as+code+an&gs_l=psy-ab.1.0.0j0i22i30l2.77265.80542..83196...1.2..0.84.321.4......0....1..gws-wiz.......0i71j0i67.v5mbAYNii3Q | jenkins configuration as code ansible - Google Search
+https://github.com/jenkinsci/configuration-as-code-plugin/blob/master/README.md | configuration-as-code-plugin/README.md at master · jenkinsci/configuration-as-code-plugin
+https://github.com/jenkinsci/configuration-as-code-plugin | jenkinsci/configuration-as-code-plugin: Jenkins Configuration as Code Plugin
+https://devops.com/using-jenkins-configuration-as-code/ | Using Jenkins Configuration as Code - DevOps.com
+https://www.praqma.com/stories/start-jenkins-config-as-code/ | Getting started with Jenkins Configuration as Code | Eficode Praqma
+https://github.com/wcm-io-devops/ansible-jenkins-configuration-as-code/releases | Releases · wcm-io-devops/ansible-jenkins-configuration-as-code
+https://github.com/wcm-io-devops/ansible-jenkins-configuration-as-code | wcm-io-devops/ansible-jenkins-configuration-as-code: Ansible role for configuring, deploying and reloading jenkins configuration as code
+https://dev.to/imvalient/jenkins-built-from-code-42l0 | Jenkins Configuration As Code - DEV Community 👩‍💻👨‍💻
+https://galaxy.ansible.com/wcm_io_devops/jenkins_configuration_as_code | Ansible Galaxy
+https://www.google.com/search?q=puppet+jenkins+configuration&rlz=1C1SQJL_enUS893US893&oq=puppet+jenkins+confi&aqs=chrome.0.0j69i57j0.9055j0j7&sourceid=chrome&ie=UTF-8 | puppet jenkins configuration - Google Search
+https://forge.puppet.com/puppet/jenkins | puppet/jenkins · Manage the Jenkins continuous integration service with Puppet · Puppet Forge
+https://puppet.com/blog/how-to-continuous-delivery-jenkins-puppet-enterprise/ | How to do continuous delivery with Jenkins and Puppet Enterprise | Puppet.com
+https://jenkins.io/blog/2016/12/20/jenkins-puppet-enterprise-plugin/ | Continuous Delivery with Jenkins and Puppet Enterprise
+https://www.google.com/search?q=packer+jenkins&rlz=1C1SQJL_enUS893US893&oq=packer+jenkins&aqs=chrome..69i57j0l7.7967j1j7&sourceid=chrome&ie=UTF-8 | packer jenkins - Google Search
+https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes | Automated image builds with Jenkins, Packer, and Kubernetes
+https://plugins.jenkins.io/packer/ | packer | Jenkins plugin
+https://blog.grakn.ai/automated-aws-ami-builds-for-jenkins-agents-with-packer-e569630b1f8e | Automated AWS AMI builds for Jenkins agents with Packer
+https://stackshare.io/stackups/jenkins-vs-packer | Jenkins vs Packer | What are the differences?
+https://medium.com/@I_M_Harsh/build-and-deploy-using-jenkins-packer-and-terraform-40b2aafedaec | Build and Deploy using Jenkins, Packer and Terraform
+https://stackshare.io/stackups/jenkins-vs-packer | Jenkins vs Packer | What are the differences?
+https://medium.com/velotio-perspectives/using-packer-and-terraform-to-setup-jenkins-master-slave-architecture-7bcc4b014874 | Using Packer and Terraform to Setup Jenkins Master-Slave Architecture
+
+https://www.google.com/search?q=(devops+%26+resume)+filetype:(doc+%7C+pdf)&rlz=1C1SQJL_enUS893US893&tbs=qdr:y&sxsrf=ALeKk01q0rBxl4C4xjwyXrQ1sagwmKkxbg:1585130701939&ei=zSx7Xvn7OLutytMP4vaB-A4&start=120&sa=N&ved=2ahUKEwi5lqWDsLXoAhW7lnIEHWJ7AO84bhDw0wN6BAgMED8&biw=1280&bih=578 | (devops & resume) filetype:(doc | pdf) - Google Search
+https://www.johandry.com/resume/Amador_Johandry-Resume.pdf | Microsoft Word - Amador_Johandry-Resume.docx
+https://www.velvetjobs.com/resume/devops-resume-sample | Devops Resume Samples | Velvet Jobs
+http://akashreddy.com/resume.html | Resume - DevOps Engineer | Personal Website | Resume
+http://careers.transvoyant.com/apply/zoxCCRH3qq/DevOps-Engineer | DevOps Engineer - TransVoyant - Career Page
+http://www.blackdiamondtherapeutics.com/wp-content/uploads/2019/07/BDTx-DevOps-Engineer-NYC-ON.pdf | BDTx-DevOps-Engineer-NYC-ON.pdf
+https://www.chubb.com/sg-en/_assets/documents/devops-engineer.pdf | devops-engineer.pdf
+https://www.quora.com/What-skills-are-necessary-to-become-a-DevOps-Engineer | What skills are necessary to become a DevOps Engineer? - Quora
+https://www.hiration.com/blog/devops-resume/ | DevOps Resume: Complete 2020 Guide with 25+ DevOps Resume Samples
+https://www.resume.com/sample/devops-resume-sample | DevOps Resume Samples | All Experience Levels | Resume.com | Resume.com
+https://bulldogjob.com/companies/jobs/7484-devops-engineer-lodz-better-collective-poland | DevOps Engineer - Łódź - Better Collective Poland
+https://jobs.global-fashion-group.com/apply/5s72z808km/Senior-DevOps-Engineer-mfd | Senior DevOps Engineer (m/f/d) - Career Page
+https://www.careerz360.com/pakistan/innovative-solutions-devops-engineer-karachi-jobs-108219 | DevOps Engineer- Job in karachi- Innovative solutions Jobs- Careerz360
+https://www.insourcegroup.com/job-listing/azure-platform-engineer-26724 | Azure Platform Engineer – The InSource Group
+http://itpuzzle.com.pl/wp-content/uploads/2019/07/IT-Puzzle-Azure-DevOps-Engineer.pdf | IT Puzzle - Azure DevOps Engineer
+https://www.hgsdigital.com/better-cx?utm_term=devops&utm_campaign=better-cx&utm_source=adwords&utm_medium=ppc&utm_content=transforming-your-cx-life&hsa_acc=8247168168&hsa_cam=9071427485&hsa_grp=95371792247&hsa_ad=413891175074&hsa_src=g&hsa_tgt=kwd-295922463560&hsa_kw=devops&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwguzzBRBiEiwAgU0FTxmN4esZNaNO2komKFFUhMJOH7G4_RiGN9jqbpmfXkK7M0NxeP-VYRoCR3QQAvD_BwE | HGS Digital | We transform businesses into CX innovators
+http://5.61.58.15/enter/?mark=20200208-boeren-goed.nl/ijvbrc&tpl=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&engkey=docker+sample+resume | 404 Not Found
+https://www.google.com/search?q=Candidate+(%22Devops+Engineer%22+%26+resume)+filetype:(doc+%7C+pdf)&rlz=1C1SQJL_enUS893US893&biw=1280&bih=578&tbs=qdr:y&sxsrf=ALeKk00p2UZpX96Dn4hF1kQeCv-f09phTQ:1585130496577&ei=ACx7XqHqIvOsytMPzrK32AU&start=100&sa=N&ved=2ahUKEwih6q6hr7XoAhVzlnIEHU7ZDVs4UBDy0wN6BAgMED0 | Candidate ("Devops Engineer" & resume) filetype:(doc | pdf) - Google Search
+https://diversityjobs.com/jobsearch/display/722118121 | Senior DevOps Engineer job ~ Chevy Chase, Maryland ~ GEICO | DiversityJobs.com
+https://www.moderecruitment.com/positions/senior-devops-engineer-berlin/ | Senior DevOps Engineer -Berlin - Mode Recruitment
+https://www.resume-library.com/job/view/25362135/sr.-devops-engineer | Sr. DevOps Engineer | Resume-Library.com
+https://www.americasjobexchange.com/job-detail/devops-engineer-oak-ridge-tn-586462735 | DevOps Engineer Job in Oak Ridge, TN at Oak Ridge National Laboratory, 586462735 | Americas Job Exchange
+https://remotehabits.com/job/devops-engineer-85e896/ | DevOps Engineer — Remote Habits
+https://www.cluedin.net/public/positions/devops-engineer.pdf | DevOps-Engineer
+https://ashwanthkumar.in/resume.pdf | Ashwanth Kumar
+http://blogitanything.blogspot.com/2019/09/aws-resume-for-2-years-experience-pdf.html | Aws Resume For 2 Years Experience Pdf - BEST RESUME EXAMPLES
+https://www.beseen.com/blog/talent/how-to-write-a-devops-resume/ | How to write a DevOps resume to land more interviews | Seen by Indeed
+https://findsbooks.com/qa/?q=cloud+architect+resume+pdf&spid=2kas2acus717ehg | cloud architect resume pdf - Question2Answer Q&A
+https://protectdemocracy.org/x/jobs/devops-engineer/ | Protect Democracy | Page not found - Protect Democracy
+https://validity.applytojob.com/apply/gPYgw8W7ky/Associate-DevOps-Engineer | Associate DevOps Engineer - Validity - Career Page
+https://svrtechnologies.com/devops-interview-questions-pdf/ | DevOps Interview Questions Pdf for Freshers {2020}
+https://brinegroup.com/get-hired/search-it-permanent-careers/10601-9266-principal-devops-engineer | Principal DevOps Engineer
+https://www.techrepublic.com/article/11-devops-trends-that-will-matter-most-in-2020/ | 11 DevOps trends that will matter most in 2020 - TechRepublic
+https://www.mintresume.com/resumes/devops-engineer-software-engineer | Devops Engineer / Software Engineer Resume Sample | MintResume
+https://docs.microsoft.com/en-us/azure/devops/test/reference-qa?view=azure-devops | FAQs and problem solutions - Azure Test Plans | Microsoft Docs
+https://www.darwinrecruitment.com/blog/2019/10/write-developer-resume-cv-example | How To Write Your Developer Resume/CV (Example Resume Included) - Darwin Recruitment
+https://www.linkedin.com/jobs/view/senior-devops-engineer-at-forrester-1671216080 | Forrester hiring Senior DevOps Engineer in Cambridge, Massachusetts, United States | LinkedIn
+https://stackoverflow.com/users/login?returnUrl=https%3a%2f%2fstackoverflow.com%2fjobs%2f369652%2fdevops-engineer-sports-reference-llc&ssrc=jobs | Log In - Stack Overflow
+https://kristapettiford.com/ut4qluq/github-resume-pdf.html | Page Not Found - Krista Pettiford
+https://apply.workable.com/azimo/j/BD9ED58115/apply/ | Junior DevOps Engineer - Azimo
+https://travis.io/downloads/travis-nelson-resume.pdf | Travis Nelson - Resume
+https://www.guru99.com/devops-interview-questions.html | Top 50 DevOps Interview Questions & Answers
+https://edunham.net/pages/talks.html | Talks — edunham
+https://www.innovasolutions.com/jobs/azure-devops-engineer-6-12-years/ | Azure DevOps Engineer (6-12 Years) – Innova Solutions
+https://www.dice.com/jobs/detail/DevOps-Engineer-GEICO-Chevy-Chase-MD-20815/geicodc/R0010776 | DevOps Engineer - GEICO - Chevy Chase, MD | Dice.com
+https://resumelab.com/resume-examples/cyber-security | Cyber Security Resume—Examples and 25+ Writing Tips
+https://www.skywatersearch.com/my-jobs/jr-devops-engineer-36554/ | Jr DevOps Engineer | SkyWater Search
+http://search.frontier.com/search/?q=http%3A//www.anac.ga/detail/sample-resume-content-developer-122132c407bdb1a8a2bb408f5d346fbd.html&r=https%3A//www.google.com/&bc= | Search
+http://www.ms3-inc.com/careers/devops-engineer/ | DevOps Engineer - MS3 | Cloud Integration Solutions
+https://news.ycombinator.com/item?id=20325923 | Ask HN: Who wants to be hired? (July 2019) | Hacker News
+https://www.dylanmtaylor.com/files/dylan-resume.pdf | Dylan M. Taylor Résumé
+https://lp.powerapp.download/ready/?p=91169&v=400#spalp2020ladfbgclhnekfhhmmgpmgollpiicnjaa | Download Ready
+https://www.coursehero.com/file/39728956/SAFe-4-DevOps-Practitioner-Cert-Usage-Guide-46pdf/ | SAFe 4 DevOps Practitioner Cert Usage Guide (4.6).pdf - Certification Usage Guide Congratulations on achieving your SAFe\u00ae certification This guide | Course Hero
+https://www.sports-reference.com/devops.html | DevOps Engineer at Sports Reference | Sports-Reference.com
+https://www.geraldcondon.com/assets/uploads/GeraldCondon10012019.pdf | Gerald Condon 2019 Resume 2
+https://www.microfocus.com/media/guide/ready-to-innovate-the-visual-cobol-azure-devops-and-serverless-computing-walkthrough-guide.pdf | ready-to-innovate-the-visual-cobol-azure-devops-and-serverless-computing-walkthrough-guide.pdf
+https://www.remotelyawesomejobs.com/jobs/sports-reference-llc-devops-engineer | DevOps Engineer at Sports Reference LLC | Remotely Awesome Jobs
+https://www.janbasktraining.com/blog/intelligence-analyst-resume/ | Senior Business Intelligence Analyst Resume Sample in PDF, Word Format
+https://www.next-ventures.com/job/servicenow-devops-expert-contract-eindhoven-start-asap/ | Servicenow DevOps expert - contract - Eindhoven - Start ASAP - Next Ventures
+https://scholar.google.com/scholar?rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk02SBadUSPpKdWPlZO2g11CdKaiKUA:1585130663882&biw=1280&bih=578&um=1&ie=UTF-8&lr&q=related:WpDj8cxW6YqdvM:scholar.google.com/ | Danglot: Automatic Unit Test Amplification For DevOps - Google Scholar
+https://dailyremote.com/remote-job/dev-ops-engineer-6902 | DevOps Engineer at Sports Reference LLC
+https://careers.insidehighered.com/job/1937228/software-and-systems-devops-engineer/ | Software & Systems DevOps Engineer job with Dominican University of California | 1937228
+https://www.randstad.ca/job-seeker/career-resources/resume-tips/which-resume-file-type-is-best/ | Which resume file type is best? | Randstad Canada
+https://www.rodev.nl/downloads/SayedShahidiResume.pdf | Sayed Shahidi Resume
+https://www.cloudneeti.com/jobs/sr-cloud-devops-engineer-azure-aws/ | Sr. Cloud DevOps Engineer (Azure, AWS) – Cloud Security and Compliance Assurance
+https://fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk | Human Verification
+https://www.jobboom.com/en/job-description/digital-technology-and-media/senior-cloudops-engineer/montreal-region/services-de-gestion-quantum-ltee/2666581 | Senior CloudOps Engineer | Services de Gestion Quantum Ltée
+
+https://en.wikipedia.org/wiki/Coupling_(computer_programming) | Coupling (computer programming) - Wikipedia
+https://www.google.com/search?q=jenkins+build+terraform&rlz=1C1SQJL_enUS893US893&oq=jenkins+build+terraform&aqs=chrome..69i57j0l2.6335j0j7&sourceid=chrome&ie=UTF-8 | jenkins build terraform - Google Search
+https://medium.com/@timhberry/terraform-pipelines-in-jenkins-47267129ff06 | Terraform Pipelines in Jenkins - Tim Berry - Medium
+https://medium.com/@pb8226/running-terraform-with-jenkins-pipelines-f29a8cb861d4 | Running Terraform with Jenkins Pipelines - Paul B. - Medium
+https://devblog.xero.com/ci-cd-with-jenkins-pipelines-part-2-managing-infrastructure-with-terraform-and-docker-bd4b81554aa7 | CI/CD with Jenkins pipelines, part 2: managing infrastructure with Terraform and Docker
+https://www.hashicorp.com/resources/how-create-gitops-workflow-terraform-jenkins | How to Create a GitOps Workflow with Terraform and Jenkins
+https://dzone.com/articles/immutable-infrastructure-cicd-using-hashicorp-terr | Immutable Infrastructure CI/CD Using Hashicorp Terraform and Jenkins - DZone DevOps
+https://objectpartners.com/2016/06/01/automating-terraform-projects-with-jenkins/ | Automating Terraform Projects with Jenkins | Object Partners
+https://github.com/cloudposse/terraform-aws-jenkins | https://github.com/cloudposse/terraform-aws-jenkins
+https://www.toptal.com/devops/terraform-jenkins-continuous-deployment | Zero Downtime: Jenkins Continuous Deployment with Terraform on AWS | Toptal
+https://plugins.jenkins.io/terraform/ | Terraform | Jenkins plugin
+https://aws.amazon.com/blogs/opensource/continuous-integration-using-jenkins-and-hashicorp-terraform-on-amazon-eks/ | Continuous Integration using Jenkins and HashiCorp Terraform on Amazon EKS | AWS Open Source Blog
+
+https://docs.google.com/document/u/0/ | Google Docs
+https://www.google.com/search?q=common+problems+when+upgrading+linux+os+of+application+server&rlz=1C1SQJL_enUS893US893&sxsrf=ALeKk02TuEpsH3LhQttZf_GIWJmxbnWA6Q:1585122803802&ei=8w17XqzNMOiS0PEPi9qceA&start=20&sa=N&ved=2ahUKEwjskpXNkrXoAhVoCTQIHQstBw84ChDw0wN6BAgMED8&biw=1280&bih=578 | common problems when upgrading linux os of application server - Google Search
+https://ubuntu.com/engage/devops-cicd-webinar?utm_source=takeover&utm_campaign=CY19_DC_Kubernetes_WBN_CICD | Get started with DevOps best practices: CI/CD | Ubuntu
+https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops | Microsoft-hosted agents for Azure Pipelines - Azure Pipelines | Microsoft Docs
+https://www.bonusbits.com/wiki/Reference:Ubuntu_DevOps_Workstation_Setup_Check_List | Ubuntu DevOps Workstation Setup Check List - Bonus Bits
+https://www.techrepublic.com/blog/10-things/10-things-that-can-go-wrong-when-you-upgrade-your-operating-system/ | 10 things that can go wrong when you upgrade your operating system - TechRepublic
+https://www.mirazon.com/windows-server-migrations-vs-place-upgrades/ | Windows Server: Migrations vs. In-Place Upgrades | Mirazon
+https://www.hpe.com/us/en/insights/articles/the-first-5-things-to-do-when-your-linux-server-keels-over-1705.html | Troubleshooting a Linux server: First five things to do | HPE | HPE
+https://www.tomsguide.com/us/security-linux-update,review-1033-6.html | Problems with Patching - Patching Linux - Pain or Gain? | Tom's Guide
+https://books.google.com/books?id=rChIjihVGLEC&pg=PA264&lpg=PA264&dq=common+problems+when+upgrading+linux+os+of+application+server&source=bl&ots=1MUV7pLGao&sig=ACfU3U1-KheNeXtSrMvKlOfBbcB93lWvGA&hl=en&sa=X&ved=2ahUKEwjskpXNkrXoAhVoCTQIHQstBw84ChDoATAEegQIChAB#v=onepage&q=common%20problems%20when%20upgrading%20linux%20os%20of%20application%20server&f=false | MySQL Enterprise Solutions - Alexander (Sasha) Pachev - Google Books
+https://en.wikipedia.org/wiki/Dependency_hell | Dependency hell - Wikipedia
+https://books.google.com/books?id=BPVUBQAAQBAJ&pg=PA4&lpg=PA4&dq=common+problems+when+upgrading+linux+os+of+application+server&source=bl&ots=Mih02lapq-&sig=ACfU3U2rR80kS62ZgahU-a2j_BRL7OEzGw&hl=en&sa=X&ved=2ahUKEwjl2f7ekrXoAhW_JzQIHU_0Cls4FBDoATAIegQIChAB#v=onepage&q=common%20problems%20when%20upgrading%20linux%20os%20of%20application%20server&f=false | The Definitive Guide to SUSE Linux Enterprise Server 12 - Sander van Vugt - Google Books
+https://www.google.com/search?rlz=1C1SQJL_enUS893US893&biw=1280&bih=578&sxsrf=ALeKk01eSCR1QLDsI8R0ST-dbHRwJVOPtw:1585122841185&q=disadvantages+of+upgrading+operating+system&sa=X&ved=2ahUKEwjl2f7ekrXoAhW_JzQIHU_0Cls4FBDVAigEegQICxAF | disadvantages of upgrading operating system - Google Search
+https://docs.google.com/document/d/145JsFCJtv6YwhVbJda2UCrMFAKzpfmbrqk2xRPsUg2M/edit | CoverLetter-Michael Martin - Google Docs
+https://docs.google.com/document/d/1F0YRNWgrfBgB88I7Bx1eO6VFmiUaQL477szfR-lLBTw/edit | CoverLetter-Michael Martin - Google Docs
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html#amazon-linux-2-virtual-machine-download | Running Amazon Linux 2 as a Virtual Machine On-Premises - Amazon Elastic Compute Cloud
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#letsencrypt | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://www.ericlight.com/using-ecdsa-certificates-with-lets-encrypt | Such geek. Wow. – Using ECDSA certificates with Let's Encrypt
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#ssl_test | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-creating-snapshot.html | Creating Amazon EBS Snapshots - Amazon Elastic Compute Cloud
+https://certbot.eff.org/docs/using.html | User Guide — Certbot 1.4.0.dev0 documentation
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#automate_certbot | Tutorial: Configure SSL/TLS on Amazon Linux 2 - Amazon Elastic Compute Cloud
+https://www.ericlight.com/using-ecdsa-certificates-with-lets-encrypt | Such geek. Wow. – Using ECDSA certificates with Let's Encrypt
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html | What Is Amazon Route 53? - Amazon Route 53
+https://aws.amazon.com/certificate-manager/ | AWS Certificate Manager - Amazon Web Services (AWS)
+https://stackoverflow.com/questions/21759562/extract-lines-between-two-line-numbers-in-shell | bash - Extract lines between two line numbers in shell - Stack Overflow
+https://stackoverflow.com/questions/17477890/expand-variables-in-sed | bash - Expand variables in sed - Stack Overflow
+https://unix.stackexchange.com/questions/159367/using-sed-to-find-and-replace | shell script - Using 'sed' to find and replace - Unix & Linux Stack Exchange
+
